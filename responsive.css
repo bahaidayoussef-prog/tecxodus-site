@@ -1,0 +1,428 @@
+/* Responsive layout improvements for Tecxodus pages. */
+img,
+video,
+iframe {
+  max-width: 100%;
+}
+
+html {
+  scroll-padding-top: 18px;
+}
+
+body {
+  min-width: 320px;
+  overflow-x: hidden;
+}
+
+a,
+button,
+input,
+select,
+textarea {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.wrap,
+.hero-grid,
+.split,
+.visibility-grid,
+.contact-grid,
+.sim-grid,
+.sim-form,
+.cards,
+.clients,
+.steps,
+.blog-grid,
+.grid,
+.article,
+.dashboard {
+  min-width: 0;
+}
+
+.hero h1,
+.section h2,
+.split-copy h2,
+.contact h2,
+.article h1,
+.card h2,
+.blog-card h3 {
+  overflow-wrap: anywhere;
+}
+
+.article img,
+.article-content img,
+.article-image img {
+  height: auto;
+  max-width: 100%;
+}
+
+@media (max-width: 1024px) {
+  .nav {
+    gap: 12px;
+  }
+
+  .navlinks {
+    gap: 14px;
+  }
+
+  .hero-grid {
+    gap: 30px;
+  }
+
+  .cards,
+  .clients,
+  .blog-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .steps {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sim-grid {
+    grid-template-columns: minmax(0, 1fr) minmax(260px, 0.8fr);
+    gap: 24px;
+  }
+
+  .sim-form {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sim-result {
+    padding: 22px;
+  }
+}
+
+@media (max-width: 800px) {
+  .wrap {
+    width: calc(100% - 32px);
+  }
+
+  .nav {
+    height: auto;
+    min-height: 64px;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    padding-bottom: 4px;
+  }
+
+  .navlinks,
+  header.nav .navlinks {
+    display: flex !important;
+    width: 100%;
+    max-width: 100%;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    gap: 10px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 2px 0 10px;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scroll-snap-type: x proximity;
+  }
+
+  .navlinks a,
+  header.nav .navlinks a,
+  .navlinks a:not(.btn) {
+    display: inline-flex !important;
+    flex: 0 0 auto;
+    align-items: center;
+    min-height: 40px;
+    white-space: nowrap;
+    scroll-snap-align: start;
+  }
+
+  .navlinks .btn {
+    padding: 10px 14px;
+    font-size: 13px;
+  }
+
+  .hero {
+    padding: 48px 0 36px;
+  }
+
+  .hero-grid,
+  .split,
+  .visibility-grid,
+  .contact-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 26px;
+  }
+
+  .hero-grid {
+    gap: 30px;
+  }
+
+  .visual,
+  .media-box {
+    min-height: 280px;
+  }
+
+  .section {
+    padding: 60px 0;
+  }
+
+  .section-head {
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .sim-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 22px;
+  }
+
+  .sim-result {
+    position: static;
+    min-width: 0;
+  }
+
+  .sim-result .metric {
+    font-size: clamp(30px, 7vw, 42px);
+    overflow-wrap: anywhere;
+  }
+
+  .sim-form {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+
+  .sim-form label,
+  .sim-lead label {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .sim-form input,
+  .sim-form select,
+  .sim-lead input:not([type="checkbox"]),
+  .sim-lead select,
+  .toolbar input,
+  .toolbar select {
+    width: 100%;
+    min-width: 0;
+    min-height: 46px;
+    font-size: 16px;
+  }
+
+  .service-checks {
+    align-items: stretch;
+  }
+
+  .service-checks label {
+    max-width: 100%;
+    min-height: 42px;
+    white-space: normal;
+  }
+
+  .wa-float {
+    display: none;
+  }
+
+  .mobile-cta {
+    bottom: calc(10px + env(safe-area-inset-bottom));
+    left: 12px;
+    right: 12px;
+    width: auto;
+    min-height: 48px;
+    padding: 13px 16px;
+    text-align: center;
+  }
+
+  .contact {
+    padding-bottom: 88px;
+  }
+
+  .footer .wrap {
+    display: block;
+  }
+
+  .footer span {
+    display: block;
+    margin-top: 8px;
+  }
+
+  .toolbar {
+    align-items: stretch;
+  }
+
+  .toolbar input {
+    flex: 1 1 100%;
+  }
+
+  .toolbar select {
+    flex: 1 1 100%;
+  }
+
+  .article {
+    width: 100%;
+    margin: 24px auto 40px;
+    padding: clamp(20px, 5vw, 38px);
+  }
+
+  .article-content {
+    font-size: 16px;
+    overflow-wrap: anywhere;
+  }
+
+  .article-content table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .article-content pre {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  .cta,
+  .related {
+    padding: 20px;
+    overflow-wrap: anywhere;
+  }
+}
+
+@media (max-width: 560px) {
+  .topbar {
+    font-size: 10px;
+  }
+
+  .topbar .wrap {
+    gap: 5px 12px;
+    flex-wrap: wrap;
+  }
+
+  .brand {
+    font-size: 22px;
+  }
+
+  .hero {
+    padding: 38px 0 30px;
+  }
+
+  .hero h1 {
+    font-size: clamp(36px, 10.5vw, 50px);
+  }
+
+  .hero p {
+    font-size: 16px;
+  }
+
+  .hero-actions {
+    gap: 9px;
+  }
+
+  .hero-actions .btn {
+    flex: 1 1 100%;
+    min-height: 46px;
+    font-size: 14px;
+  }
+
+  .hero-proof {
+    gap: 10px 16px;
+    margin-top: 24px;
+  }
+
+  .visual,
+  .media-box {
+    min-height: 230px;
+    border-radius: 18px;
+  }
+
+  .cam-card {
+    right: 10px;
+    bottom: 10px;
+    width: min(205px, calc(100% - 20px));
+    padding: 12px 14px;
+  }
+
+  .tech-panel {
+    right: 10px;
+    bottom: 10px;
+    width: min(250px, calc(100% - 20px));
+  }
+
+  .section {
+    padding: 48px 0;
+  }
+
+  .section h2,
+  .split-copy h2 {
+    font-size: clamp(30px, 8vw, 40px);
+  }
+
+  .section-head {
+    display: block;
+    margin-bottom: 24px;
+  }
+
+  .section-head p {
+    margin-top: 12px;
+  }
+
+  .cards,
+  .clients,
+  .steps,
+  .blog-grid,
+  .grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .card,
+  .blog-card {
+    min-height: 0;
+    padding: 20px;
+  }
+
+  .sim-form {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .sim-result {
+    padding: 18px;
+    border-radius: 18px;
+  }
+
+  .sim-lead {
+    grid-column: 1;
+  }
+
+  .service-checks label {
+    flex: 1 1 calc(50% - 8px);
+    justify-content: flex-start;
+  }
+
+  .article h1 {
+    font-size: clamp(32px, 9vw, 44px);
+  }
+
+  .article .lead {
+    font-size: 17px;
+  }
+
+  .article-image {
+    margin: 18px 0 22px;
+  }
+
+  .article-image img {
+    max-height: 300px;
+  }
+
+  .related ul {
+    padding-left: 20px;
+  }
+
+  .faq summary {
+    gap: 12px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

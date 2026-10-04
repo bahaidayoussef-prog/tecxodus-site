@@ -5,6 +5,7 @@ Static showcase site for Tecxodus logistics and warehousing services in Aïn Seb
 ## Contents
 
 - index.html: homepage and service showcase
+- responsive.css: shared mobile and tablet layout improvements
 - blog/: 120 articles with contextual links and metadata
 - sitemap.xml, robots.txt: search crawler files
 - llms.txt, llms-full.txt: AI crawler and language-model discovery files
