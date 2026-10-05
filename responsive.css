@@ -56,6 +56,19 @@ textarea {
   max-width: 100%;
 }
 
+.contact .mail-link {
+  color: #fff;
+  border-color: #b7c5be;
+  background: transparent;
+}
+
+.contact .mail-link:hover,
+.contact .mail-link:focus-visible {
+  color: #fff;
+  border-color: #d9fb63;
+  background: #ffffff12;
+}
+
 @media (max-width: 1024px) {
   .nav {
     gap: 12px;
