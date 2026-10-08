@@ -16,7 +16,7 @@ Static showcase site for Tecxodus logistics and warehousing services in Aïn Seb
 
 The HTML site can be hosted as a static site. The WordPress WXR file imports the articles as drafts; review them in WordPress before publishing. If the site's WordPress URLs or host change, regenerate canonical links, the sitemap, and crawler files for the final production domain before submitting them.
 
-The sitemap lists the public article URLs intended for https://tecxodus.com/. Submit it only after those URLs are live.
+The sitemap lists the public article URLs intended for https://www.tecxodus.com/. Submit it only after those URLs are live.
 
 ## Content and imagery notes
 
