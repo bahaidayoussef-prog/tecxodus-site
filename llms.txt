@@ -3,6 +3,7 @@
 
 ## Site
 - Accueil : https://www.tecxodus.com/
+- Entreposage à Casablanca : https://www.tecxodus.com/entreposage-casablanca/
 - Blog et index des 120 brouillons : https://www.tecxodus.com/blog/
 - Sitemap XML : https://www.tecxodus.com/sitemap.xml
 - Demande : https://www.tecxodus.com/#contact
@@ -13,7 +14,7 @@
 Les articles sont des brouillons éditoriaux à valider par les équipes opérationnelles avant publication. Les exemples de productivité, ratios et prix dans les articles 101–120 sont pédagogiques; ils ne représentent ni tarifs de Tecxodus ni prix vérifiés du marché marocain. Les capacités, certifications, produits acceptés, transport et engagements doivent être confirmés auprès de Tecxodus.
 
 ## Bibliothèque des articles
-- [Comment choisir un prestataire d’entreposage à Casablanca ?](https://www.tecxodus.com/blog/choisir-prestataire-entreposage-casablanca/) — Les critères pour choisir un prestataire d’entreposage à Casablanca : réception, formats, visibilité des stocks, préparation et devis.
+- [Comment choisir un prestataire d’entreposage à Casablanca ?](https://www.tecxodus.com/blog/choisir-prestataire-entreposage-casablanca/) — Comparez formats reçus, opérations incluses, suivi WMS, localisation et devis établis sur les mêmes données.
 - [Où entreposer des marchandises à Aïn Sebaâ, Casablanca ?](https://www.tecxodus.com/blog/entreposage-ain-sebaa-casablanca/) — Vous cherchez un entrepôt à Aïn Sebaâ ? Vérifiez les accès, les réceptions et la visibilité des marchandises.
 - [Que signifie logistique 3PL et quand l’utiliser au Maroc ?](https://www.tecxodus.com/blog/logistique-3pl-maroc-definition/) — La logistique 3PL consiste à confier certaines opérations à un prestataire. Découvrez les questions à poser avant d’externaliser au Maroc.
 - [Externaliser l’entreposage quand on est une PME : par où commencer ?](https://www.tecxodus.com/blog/externaliser-entreposage-pme/) — PME : préparez l’externalisation de votre stockage avec vos volumes, formats de palettes, commandes et besoins de visibilité.

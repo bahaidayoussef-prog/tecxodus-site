@@ -1,16 +1,25 @@
 # Tecxodus — corpus éditorial complet
 Ce fichier reprend les brouillons du blog à des fins d’orientation et de compréhension. Vérifier les données opérationnelles avant citation ou republication.
 
+## Service : entreposage à Casablanca
+URL : https://www.tecxodus.com/entreposage-casablanca/
+
+Tecxodus étudie à Casablanca la réception, l’entreposage, le suivi des stocks et la préparation de commandes selon les marchandises et les volumes communiqués. L’implantation est à Softpark / Soft Logistic, Aïn Sebaâ. Les palettes Europe, UK, hors gabarit, les colis en vrac, le copacking, l’étiquetage, les retours et le transport sont à confirmer selon le cahier des charges. Les clients disposent d’un accès WMS pour le suivi des stocks et des préparations selon les droits définis. Capacités, produits admissibles, tarifs et modalités de transport sont confirmés après étude.
+
 ## Comment choisir un prestataire d’entreposage à Casablanca ?
 URL : https://www.tecxodus.com/blog/choisir-prestataire-entreposage-casablanca/
-Mot-clé : prestataire d’entreposage Casablanca
-Description : Les critères pour choisir un prestataire d’entreposage à Casablanca : réception, formats, visibilité des stocks, préparation et devis.
+Mot-clé : prestataire d’entreposage à Casablanca
+Description : Comparez les prestataires d’entreposage à Casablanca : formats reçus, suivi WMS, préparation, localisation et éléments à demander dans un devis.
 
-Un prestataire d’entreposage à Casablanca doit expliquer comment il reçoit vos marchandises, suit votre stock et traite vos commandes. Commencez par décrire vos produits, vos volumes moyens et vos périodes de pointe. Précisez les formats reçus : palettes Europe, UK, hors gabarit ou colis en vrac, ainsi que la hauteur chargée.
+Vérifiez d’abord la compatibilité des marchandises. Décrivez les produits et les unités à recevoir : palettes Europe, palettes UK, formats hors gabarit ou colis en vrac. Communiquez les dimensions, les hauteurs et, si possible, les poids. Pour les produits soumis à des conditions particulières, demandez une confirmation écrite de leur admissibilité et des conditions de stockage.
 
-Comparez ensuite les opérations incluses : contrôle à la réception, rangement, préparation, emballage et organisation des expéditions. Demandez quelles informations seront accessibles dans le WMS et comment sont signalés les mouvements ou les écarts. Une implantation à Aïn Sebaâ peut convenir selon vos fournisseurs, clients et itinéraires ; vérifiez vos flux réels plutôt que de présumer un gain de délai.
+Comparez ensuite les opérations incluses : réception, contrôle, préparation de commandes, regroupement, emballage et organisation des expéditions. Demandez quelles tâches sont comprises et comment les opérations complémentaires sont facturées afin de comparer des périmètres équivalents.
 
-Pour comparer les devis, transmettez le même scénario à chaque opérateur : références, quantités, fréquence des commandes, durée de stockage et destinations. Vous comparerez ainsi des périmètres équivalents. Tecxodus étudie les besoins d’entreposage à Casablanca selon les informations communiquées.
+Vérifiez les informations accessibles dans le WMS : quantités disponibles, mouvements enregistrés et avancement des préparations. Tecxodus indique proposer un accès client au WMS ; les droits et informations visibles sont définis selon le compte et la prestation.
+
+Tecxodus est implanté à Softpark / Soft Logistic, dans le quartier Aïn Sebaâ à Casablanca. Évaluez cette localisation selon les trajets réels entre fournisseurs, entrepôt et destinataires, ainsi que la fréquence des mouvements. Les destinations et délais de transport sont à confirmer selon l’étude.
+
+Pour obtenir une étude, transmettez la nature des marchandises, le nombre de références, le stock moyen et maximal, les formats, la durée de stockage, la fréquence des commandes, les opérations souhaitées et les destinations. Tecxodus étudie le périmètre selon les informations communiquées ; capacités, produits admissibles, tarifs et transport sont confirmés après analyse.
 
 ## Où entreposer des marchandises à Aïn Sebaâ, Casablanca ?
 URL : https://www.tecxodus.com/blog/entreposage-ain-sebaa-casablanca/
