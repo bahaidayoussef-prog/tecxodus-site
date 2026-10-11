@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://tecxodus.com/sitemap.xml
+Sitemap: https://www.tecxodus.com/sitemap.xml
