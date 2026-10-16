@@ -2741,3 +2741,46 @@ Si le système indique 48 unités et que le comptage en trouve 46, gardez les de
 Avant l’arrivée des marchandises, transmettez le fichier validé, les consignes de réception, les formats attendus et les contacts responsables des décisions. Convenez de la façon dont les écarts, produits endommagés et unités non identifiées seront signalés. Après réception, rapprochez les quantités remises et enregistrées avant de lancer les premières préparations.
 
 Le niveau de détail dépend de votre stock : quelques références homogènes ne demandent pas le même travail qu’un catalogue avec lots, séries ou unités multiples. Pour une étude d’entreposage à Casablanca, Tecxodus peut examiner les données de départ et les opérations souhaitées. Les modalités de prise en charge restent à confirmer selon le périmètre.
+
+
+## Logistique PLV : préparer une campagne en entrepôt | Tecxodus
+URL: https://www.tecxodus.com/blog/preparer-campagne-plv-entrepot/
+
+La PLV ne se limite pas à un coffret promotionnel : un déploiement peut réunir affiches, présentoirs, stop-rayons, accessoires, notices et produits d’accompagnement. Selon le projet, les supports arrivent déjà prêts ou nécessitent une identification, un regroupement ou un assemblage. Le périmètre doit être décrit avant de planifier la réception et la campagne.
+
+### Établir la liste des supports et des versions
+
+Créez une nomenclature par campagne et par destination. Pour chaque référence, indiquez la désignation, la quantité, le format, le conditionnement, la version graphique et les contraintes de manutention. Précisez quelles pièces sont communes à tous les magasins et lesquelles varient par région, format de point de vente ou date de lancement.
+
+Joignez des photos, dimensions, consignes d’empilage et un exemple de kit complet. Si un support est fragile, volumineux ou difficile à saisir, signalez-le avant l’envoi et faites valider son mode de stockage et de préparation.
+
+### Organiser les réceptions et le stockage de campagne
+
+Fournissez le calendrier estimé des arrivages, les volumes moyens et maximums, le nombre de destinations et les dates de lancement. Les supports peuvent arriver en plusieurs vagues : distinguez le stock disponible, les éléments encore attendus et les lots réservés à une opération précise. Définissez comment identifier une version dépassée ou un support endommagé.
+
+Prévoyez également la fin de campagne : remise en stock, conservation, retour ou mise à l’écart des supports restants. Ces décisions évitent de confondre les reliquats avec des éléments disponibles pour une prochaine opération.
+
+### Préparer un kit par magasin ou par opération
+
+Écrivez la composition attendue pour chaque destination : références, quantités, emballage, documents et étiquette d’identification. Définissez les contrôles de conformité, le traitement d’un composant manquant et la personne qui valide un changement de version. Pour une nouvelle composition, un échantillon ou un lot pilote peut vérifier le résultat avant de préparer l’ensemble, si cette étape est retenue dans le périmètre.
+
+Un plan de campagne utile associe une date de disponibilité des composants, une date de préparation, les volumes par vague, une marge de traitement des anomalies et la date de mise à disposition attendue. Faites confirmer les délais par l’équipe opérationnelle après examen de la charge et des capacités.
+
+### Demander un devis sans oublier les postes
+
+Demandez une ventilation séparant réception, stockage, mouvement, assemblage ou mise en lot, étiquetage, consommables, contrôle et éventuelle mise à disposition. Faites préciser les unités facturées, frais fixes, minimums, hypothèses de volume, coûts des changements de version et règles pour les restes ou rebuts.
+
+Il n’existe pas de prix Tecxodus universel à appliquer à toutes les campagnes PLV. Le tarif et les délais doivent être confirmés à partir des supports, quantités, gestes, destinations et dates réelles. Le transport final et l’installation dans les points de vente sont à cadrer séparément ; ils ne sont pas implicites dans une prestation de stockage ou de préparation.
+
+### Préparer votre brief PLV pour Tecxodus
+
+- type de support et photos, dimensions, poids et conditionnement ;
+- nomenclature et versions par campagne ou point de vente ;
+- volumes par vague, destinations et calendrier ;
+- opérations attendues : réception, stockage, tri, kit, étiquetage ou fardelage ;
+- contrôles qualité, consignes pour les anomalies et devenir des reliquats ;
+- transport ou installation souhaités, à faire confirmer comme périmètre distinct.
+
+Pour cadrer le stockage, consultez le guide sur l’ entreposage ponctuel et la préparation d’un pic saisonnier . Pour le coffret promotionnel, voir l’article sur l’ assemblage de coffrets . Le copacking et le conditionnement à façon sont décrits séparément dans les guides copacking et cahier des charges .
+
+Tecxodus étudie le stockage et les opérations liées à une campagne PLV selon le cahier des charges. Les produits admissibles, les capacités, les prix, les dates et les services de transport ou d’installation restent à confirmer avant engagement.

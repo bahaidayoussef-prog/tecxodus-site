@@ -1,9 +1,9 @@
 # Tecxodus
-> Tecxodus est un prestataire logistique 3PL à Casablanca, Aïn Sebaâ, Softpark / Soft Logistic : réception, entreposage, gestion de stock avec visibilité WMS, préparation de commandes, copacking et étude des expéditions.
+> Tecxodus est un prestataire logistique 3PL à Casablanca, Aïn Sebaâ, Softpark / Soft Logistic : réception, entreposage, gestion de stock avec visibilité WMS, préparation de commandes, copacking, fardelage, PLV de campagne et étude des expéditions.
 
 ## Site
 - Accueil : https://www.tecxodus.com/
-- Blog et index des 121 articles publics : https://www.tecxodus.com/blog/
+- Blog et index des 122 articles publics : https://www.tecxodus.com/blog/
 - Entreposage à Casablanca : https://www.tecxodus.com/entreposage-casablanca/
 - Sitemap XML : https://www.tecxodus.com/sitemap.xml
 - Demande : https://www.tecxodus.com/#contact
@@ -15,7 +15,7 @@
 - Réception et contrôle des marchandises (formats et consignes à confirmer).
 - Entreposage et gestion du stock avec visibilité WMS.
 - Préparation de commandes.
-- Copacking, étiquetage et fardelage selon cahier des charges.
+- Copacking, étiquetage, fardelage et préparation PLV selon cahier des charges confirmé.
 - Étude de cross-docking, retours, expéditions et livraison selon faisabilité.
 - Opérations sur site client et gestion administrative des flux à étudier au cas par cas.
 
@@ -23,7 +23,7 @@
 Atlas Pharm (Grupo Tecnimede), Sapress et Sochepress, Asturmadi, STILL, Ziegler, Gift & Santoy, Eaton, Miroglio Group, Barobag, Ifri-Sol et Systemair.
 
 ## À propos des contenus
-Les articles du site statique sont publiés comme guides éditoriaux. Un export WXR destiné à une éventuelle importation WordPress peut contenir des brouillons à part. Les exemples de productivité, ratios et prix dans les articles 101–120 sont pédagogiques; ils ne représentent ni tarifs de Tecxodus ni prix vérifiés du marché marocain. Les capacités, certifications, produits acceptés, transport et engagements doivent être confirmés auprès de Tecxodus.
+Les articles du site statique sont publiés comme guides éditoriaux. Un export WXR destiné à une éventuelle importation WordPress peut contenir des brouillons à part. Les exemples de productivité et calculs des articles 101–120 sont pédagogiques; ils ne représentent pas des résultats mesurés chez Tecxodus ni des tarifs vérifiés. Les prix, capacités, certifications, produits acceptés, transport et engagements doivent être confirmés auprès de Tecxodus.
 
 ## Bibliothèque des articles
 - [Comment choisir un prestataire d’entreposage à Casablanca ?](https://www.tecxodus.com/blog/choisir-prestataire-entreposage-casablanca/) — Comparez les prestataires d’entreposage à Casablanca : formats reçus, suivi WMS, préparation, localisation et éléments à demander dans un devis.
@@ -147,3 +147,9 @@ Les articles du site statique sont publiés comme guides éditoriaux. Un export 
 - [Quelles informations préparer pour utiliser un simulateur logistique ?](https://www.tecxodus.com/blog/simulateur-besoin-entreposage-palettes-colis/) — Pour un premier calcul, préparez formats, quantités, hauteurs, volume vrac, durée, nature des produits et services.
 - [Comment demander une étude d’entreposage à Casablanca ?](https://www.tecxodus.com/blog/demande-etude-entreposage-casablanca/) — Vous cherchez un entrepôt à Casablanca ? Préparez ces informations sur vos produits, volumes et opérations pour demander une étude de stockage adaptée.
 - [Inventaire initial : préparer son stock avant de l’externaliser](https://www.tecxodus.com/blog/inventaire-initial-externaliser-stock/) — Avant de confier un stock à un entrepôt à Casablanca, préparez un inventaire de départ fiable : références, quantités, lots, formats et écarts à traiter.
+
+- [Logistique PLV : préparer un déploiement de campagne en entrepôt](https://www.tecxodus.com/blog/preparer-campagne-plv-entrepot/) — Brief, réception, stockage, versions, kits par destination, contrôles, devis et limites de périmètre.
+
+- [Logistique PLV : préparer un déploiement de campagne en entrepôt](https://www.tecxodus.com/blog/preparer-campagne-plv-entrepot/) — Brief, réception, stockage, versions, kits par destination, contrôles, devis et limites de périmètre.
+
+- [Logistique PLV : préparer un déploiement de campagne en entrepôt](https://www.tecxodus.com/blog/preparer-campagne-plv-entrepot/) — Brief, réception, stockage, versions, kits par destination, contrôles, devis et limites de périmètre.
