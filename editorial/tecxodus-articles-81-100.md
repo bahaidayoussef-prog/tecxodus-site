@@ -7,7 +7,8 @@ Les méthodes, coefficients et indicateurs sont des sujets de cadrage. Les valeu
 - **Requête cible :** coût stockage externalisé logistique
 - **Slug :** cout-stockage-externalise-logistique
 - **Méta-description :** Séparez réception, occupation, mouvements, préparation, emballage et transport pour comprendre le coût d’un stockage externalisé.
-- **Liens :** [Demander un devis](/contact-devis-logistique/) · [Prix d’entreposage](/blog/prix-entreposage-casablanca-facteurs/) · [Simulateur](/simulateur-besoin-logistique/)
+- **Liens :** [Demander un devis](/contact-devis-logistique/) · [Prix d’entreposage](/blog/prix-entreposage-casablanca-facteurs/) · [Simulateur](/simulateur-besoin-logistique/)
+
 - **À lire ensuite :** [Comment estimer la surface nécessaire pour un stock de palettes ?](/blog/estimer-surface-entrepot-palettes/)
 
 Le coût d’un stockage externalisé peut comprendre plusieurs postes : réception, occupation de l’espace, mouvements d’entrée ou de sortie, préparation, emballage et livraison. Le modèle dépend du prestataire et du contrat. Un prix au mois ne couvre pas nécessairement les opérations à chaque commande.
@@ -21,7 +22,8 @@ Pour évaluer le coût complet, fournissez un scénario représentatif et des hy
 - **Requête cible :** estimer surface entrepôt palettes
 - **Slug :** estimer-surface-entrepot-palettes
 - **Méta-description :** Une estimation de surface doit compter emprise palettes, hauteur, allées et zones de réception/expédition, puis être validée sur plan.
-- **Liens :** [Simulateur de besoin](/simulateur-besoin-logistique/) · [Stockage palettes ou sol](/blog/stockage-palettes-ou-au-sol/) · [Entreposage](/entreposage-casablanca/)
+- **Liens :** [Simulateur de besoin](/simulateur-besoin-logistique/) · [Stockage palettes ou sol](/blog/stockage-palettes-ou-au-sol/) · [Entreposage](/entreposage-casablanca/)
+
 - **À lire ensuite :** [Qu’est-ce qu’un emplacement palette et comment le compter ?](/blog/emplacement-palette-entrepot-definition/)
 
 Pour estimer la surface d’un stock de palettes, commencez par l’emprise au sol de chaque format et le nombre d’unités. La hauteur chargée influence le volume et la possibilité de rangement, mais ne suffit pas à déterminer le nombre de niveaux de stockage.
@@ -35,7 +37,8 @@ Le simulateur Tecxodus utilise des hypothèses affichées pour produire un aper�
 - **Requête cible :** emplacement palette entrepôt définition
 - **Slug :** emplacement-palette-entrepot-definition
 - **Méta-description :** Un emplacement palette est une unité de capacité définie par le site. Demandez ses dimensions, limites de charge et règles de facturation.
-- **Liens :** [Stockage palettes](/stockage-palettes-colis/) · [Formats de palettes](/blog/palette-europe-120x80-entrepot/) · [Prix entreposage](/blog/prix-entreposage-casablanca-facteurs/)
+- **Liens :** [Stockage palettes](/stockage-palettes-colis/) · [Formats de palettes](/blog/palette-europe-120x80-entrepot/) · [Prix entreposage](/blog/prix-entreposage-casablanca-facteurs/)
+
 - **À lire ensuite :** [Comment obtenir un devis d’entreposage exploitable ?](/blog/devis-entreposage-informations-necessaires/)
 
 Un emplacement palette désigne une position prévue pour stocker une unité palettisée. Sa dimension utile, sa hauteur et sa charge admissible dépendent de la configuration et des équipements du site. Le terme ne correspond donc pas partout à un volume ou à une surface identique.
@@ -49,7 +52,8 @@ Une palette plus haute ou plus large peut nécessiter une position spécifique. 
 - **Requête cible :** devis entreposage informations nécessaires
 - **Slug :** devis-entreposage-informations-necessaires
 - **Méta-description :** Un devis fiable exige formats, dimensions, volumes, fréquence, durée, nature des produits et opérations complémentaires.
-- **Liens :** [Contact devis](/contact-devis-logistique/) · [Simulateur](/simulateur-besoin-logistique/) · [Checklist réception](/blog/checklist-reception-entrepot-marchandises/)
+- **Liens :** [Contact devis](/contact-devis-logistique/) · [Simulateur](/simulateur-besoin-logistique/) · [Checklist réception](/blog/checklist-reception-entrepot-marchandises/)
+
 - **À lire ensuite :** [Contrat d’entreposage : quelles clauses opérationnelles examiner ?](/blog/contrat-entreposage-clauses-operationnelles/)
 
 Pour obtenir un devis d’entreposage exploitable, transmettez la nature des produits, les références, les volumes moyens et maximums, les formats de palettes et les hauteurs chargées. Ajoutez les colis en vrac, la fréquence des réceptions, le nombre de commandes et leur taille moyenne.
@@ -63,7 +67,8 @@ Un devis clair sépare le stockage des opérations à la demande et décrit les 
 - **Requête cible :** contrat entreposage clauses logistiques
 - **Slug :** contrat-entreposage-clauses-operationnelles
 - **Méta-description :** Examinez périmètre, responsabilités, inventaire, tarifs, accès aux données, assurance, durée et sortie du stock avant signature.
-- **Liens :** [Solutions entreprises](/solutions-entreprises/) · [SLA logistique](/blog/sla-preparation-commandes/) · [Devis](/contact-devis-logistique/)
+- **Liens :** [Solutions entreprises](/solutions-entreprises/) · [SLA logistique](/blog/sla-preparation-commandes/) · [Devis](/contact-devis-logistique/)
+
 - **À lire ensuite :** [Rotation des stocks : comment repérer les références qui immobilisent du capital ?](/blog/rotation-stock-references-lentes/)
 
 Un contrat d’entreposage doit décrire les marchandises, opérations, responsabilités et unités de facturation. Vérifiez les règles de réception, d’accès au stock, de préparation, d’inventaire et de gestion des anomalies. Le contrat doit aussi préciser les modalités de partage des données et les utilisateurs autorisés.
@@ -77,7 +82,8 @@ Cette liste ne remplace pas une revue juridique. Faites examiner les clauses par
 - **Requête cible :** rotation stock références lentes entrepôt
 - **Slug :** rotation-stock-references-lentes
 - **Méta-description :** Analysez sorties, ancienneté et stock disponible par référence pour identifier les articles à faible rotation.
-- **Liens :** [Indicateurs WMS](/blog/indicateurs-stock-externalise/) · [WMS](/wms-suivi-stocks/) · [Entreposage](/entreposage-casablanca/)
+- **Liens :** [Indicateurs WMS](/blog/indicateurs-stock-externalise/) · [WMS](/wms-suivi-stocks/) · [Entreposage](/entreposage-casablanca/)
+
 - **À lire ensuite :** [Comment calculer un stock de sécurité sans surestimer l’espace ?](/blog/calculer-stock-securite-entreposage/)
 
 La rotation d’un stock compare les sorties d’une référence à la quantité conservée sur une période. Une référence qui sort rarement peut immobiliser de l’espace et du capital, mais elle peut aussi répondre à un besoin de sécurité ou à une obligation de service.
@@ -91,7 +97,8 @@ Un WMS peut fournir des historiques selon les données enregistrées et les expo
 - **Requête cible :** calcul stock de sécurité entreposage
 - **Slug :** calculer-stock-securite-entreposage
 - **Méta-description :** Un stock de sécurité dépend variabilité de la demande, délai d’approvisionnement et niveau de service souhaité.
-- **Liens :** [Indicateurs de stock](/blog/indicateurs-stock-externalise/) · [Estimer la surface](/blog/estimer-surface-entrepot-palettes/) · [WMS](/wms-suivi-stocks/)
+- **Liens :** [Indicateurs de stock](/blog/indicateurs-stock-externalise/) · [Estimer la surface](/blog/estimer-surface-entrepot-palettes/) · [WMS](/wms-suivi-stocks/)
+
 - **À lire ensuite :** [Comment assurer la traçabilité d’un mouvement de stock ?](/blog/tracabilite-mouvement-stock-entrepot/)
 
 Le stock de sécurité protège contre les variations de demande ou les retards d’approvisionnement. Son niveau dépend de la consommation, de la variabilité observée, du délai de réapprovisionnement et du risque que l’entreprise souhaite couvrir. Une quantité fixe identique pour toutes les références peut immobiliser trop d’espace ou rester insuffisante.
@@ -105,7 +112,8 @@ Le prestataire d’entreposage peut fournir des données de mouvements si le pé
 - **Requête cible :** traçabilité mouvement stock entrepôt
 - **Slug :** tracabilite-mouvement-stock-entrepot
 - **Méta-description :** Pour tracer un mouvement, enregistrez référence, quantité, date, origine, destination, lot si utile et statut de validation.
-- **Liens :** [WMS Tecxodus](/wms-suivi-stocks/) · [Fiabilité des données](/blog/fiabilite-donnees-stock/) · [Données réception](/blog/donnees-reception-entrepot/)
+- **Liens :** [WMS Tecxodus](/wms-suivi-stocks/) · [Fiabilité des données](/blog/fiabilite-donnees-stock/) · [Données réception](/blog/donnees-reception-entrepot/)
+
 - **À lire ensuite :** [Comment réussir le démarrage avec un nouvel entrepôt ?](/blog/demarrage-nouveau-prestataire-entrepot/)
 
 La traçabilité d’un mouvement de stock consiste à pouvoir relier une variation de quantité à un événement : réception, transfert, préparation, expédition, retour ou correction. Les données utiles peuvent inclure référence, quantité, unité, date, origine, destination et identifiant de lot.
@@ -119,7 +127,8 @@ Demandez au prestataire quelles informations sont conservées et consultables da
 - **Requête cible :** démarrage nouveau prestataire entreposage
 - **Slug :** demarrage-nouveau-prestataire-entrepot
 - **Méta-description :** Planifiez le démarrage avec catalogue, stock initial, consignes, tests, accès WMS et responsables identifiés.
-- **Liens :** [Entreposage Tecxodus](/entreposage-casablanca/) · [Données de réception](/blog/donnees-reception-entrepot/) · [WMS](/wms-suivi-stocks/)
+- **Liens :** [Entreposage Tecxodus](/entreposage-casablanca/) · [Données de réception](/blog/donnees-reception-entrepot/) · [WMS](/wms-suivi-stocks/)
+
 - **À lire ensuite :** [Comment transférer son stock d’un entrepôt à un autre ?](/blog/transferer-stock-entrepot/)
 
 Un démarrage réussi repose sur des données et responsabilités préparées avant l’arrivée du premier stock. Validez le catalogue, les unités de mesure, les dimensions, les codes articles et les consignes. Fixez une date de transfert, un calendrier de réceptions et les contacts de chaque équipe.
@@ -133,7 +142,8 @@ Commencez si possible par un lot représentatif et faites un bilan avant la mont
 - **Requête cible :** transfert stock ancien nouvel entrepôt logistique
 - **Slug :** transferer-stock-entrepot
 - **Méta-description :** Sécurisez un transfert de stock avec inventaire de départ, plan de transport, séquencement, réception et rapprochement.
-- **Liens :** [Réception en entrepôt](/stockage-palettes-colis/) · [Inventaire externalisé](/blog/inventaire-stock-externalise/) · [Démarrage prestataire](/blog/demarrage-nouveau-prestataire-entrepot/)
+- **Liens :** [Réception en entrepôt](/stockage-palettes-colis/) · [Inventaire externalisé](/blog/inventaire-stock-externalise/) · [Démarrage prestataire](/blog/demarrage-nouveau-prestataire-entrepot/)
+
 - **À lire ensuite :** [WMS et ERP : comment organiser les échanges de données ?](/blog/interface-wms-erp-echanges-donnees/)
 
 Un transfert d’entrepôt doit commencer par un état de stock daté et validé. Identifiez les références, quantités, lots, formats et unités à déplacer. Définissez comment les mouvements réalisés pendant le transfert seront traités afin d’éviter les doubles comptes ou les commandes impossibles à servir.
@@ -147,7 +157,8 @@ Le transfert mobilise plusieurs équipes et transporteurs. Préparez un calendri
 - **Requête cible :** interface WMS ERP logistique échanges données
 - **Slug :** interface-wms-erp-echanges-donnees
 - **Méta-description :** Définissez les données échangées entre WMS et ERP : articles, commandes, stocks, statuts, fréquence et traitement des erreurs.
-- **Liens :** [WMS et suivi de stock](/wms-suivi-stocks/) · [Marketplace et stock](/blog/synchroniser-stock-marketplace-entrepot/) · [Fiabilité stock](/blog/fiabilite-donnees-stock/)
+- **Liens :** [WMS et suivi de stock](/wms-suivi-stocks/) · [Marketplace et stock](/blog/synchroniser-stock-marketplace-entrepot/) · [Fiabilité stock](/blog/fiabilite-donnees-stock/)
+
 - **À lire ensuite :** [Comment choisir les statuts WMS utiles à son équipe ?](/blog/statuts-wms-commandes-entrepot/)
 
 Un échange entre WMS et ERP peut transmettre des articles, annonces de réception, commandes, stocks et statuts. Avant de concevoir une interface, identifiez le système maître de chaque donnée et le sens de synchronisation. Définissez les codes articles, unités et identifiants communs.
@@ -161,7 +172,8 @@ Tecxodus doit confirmer les interfaces disponibles et les intégrations possible
 - **Requête cible :** statuts WMS commandes entrepôt utiles
 - **Slug :** statuts-wms-commandes-entrepot
 - **Méta-description :** Des statuts WMS utiles sont peu nombreux, compréhensibles et associés à des événements réels du processus.
-- **Liens :** [WMS client](/wms-suivi-stocks/) · [Suivi de préparation](/blog/suivi-avancement-preparation-commande/) · [SLA logistique](/blog/sla-preparation-commandes/)
+- **Liens :** [WMS client](/wms-suivi-stocks/) · [Suivi de préparation](/blog/suivi-avancement-preparation-commande/) · [SLA logistique](/blog/sla-preparation-commandes/)
+
 - **À lire ensuite :** [Comment prévoir son besoin de stockage à partir des ventes ?](/blog/prevoir-besoin-stockage-ventes/)
 
 Les statuts WMS doivent décrire les étapes que les équipes et clients ont besoin de distinguer. Une liste peut inclure commande reçue, en attente de validation, en préparation, contrôlée et expédiée. Chaque statut doit correspondre à un événement défini et avoir un responsable.
@@ -175,8 +187,9 @@ Une démonstration avec des commandes types permet de vérifier si les statuts r
 - **Requête cible :** prévoir besoin stockage selon ventes
 - **Slug :** prevoir-besoin-stockage-ventes
 - **Méta-description :** Prévoir l’espace de stockage exige ventes, réapprovisionnements, saisonnalité, tailles de lot et stock de sécurité.
-- **Liens :** [Simulateur logistique](/simulateur-besoin-logistique/) · [Stock de sécurité](/blog/calculer-stock-securite-entreposage/) · [Entreposage](/entreposage-casablanca/)
-- **À lire ensuite :** [Comment planifier un contrat d’entreposage sur plusieurs années ?](/blog/contrat-entreposage-longue-duree/)
+- **Liens :** [Simulateur logistique](/simulateur-besoin-logistique/) · [Stock de sécurité](/blog/calculer-stock-securite-entreposage/) · [Entreposage](/entreposage-casablanca/)
+
+- **À lire ensuite :** [Stockage de longue durée : comment planifier un besoin sur plusieurs années ?](/blog/contrat-entreposage-longue-duree/)
 
 Pour prévoir le besoin de stockage, combinez les ventes prévues, les délais d’approvisionnement, les tailles de lot et le stock de sécurité. Calculez les volumes par référence plutôt que de multiplier une moyenne globale. Les produits saisonniers et lancements doivent être modélisés séparément.
 
@@ -184,12 +197,13 @@ Transformez les quantités en unités physiques : cartons, palettes, dimensions 
 
 Présentez plusieurs scénarios — central, haut et bas — au prestataire. Une simulation d’espace doit intégrer les allées et zones de travail et être vérifiée par rapport au plan réel avant d’engager une capacité.
 
-## 94. Comment planifier un contrat d’entreposage sur plusieurs années ?
+## 94. Stockage de longue durée : comment planifier un besoin sur plusieurs années ?
 
 - **Requête cible :** contrat entreposage longue durée 3 ans
 - **Slug :** contrat-entreposage-longue-duree
-- **Méta-description :** Pour un stockage pouvant aller jusqu’à trois ans, prévoyez volumes, révisions, inventaires, tarifs et conditions de sortie.
-- **Liens :** [Entreposage longue durée](/entreposage-casablanca/) · [Stockage court ou long](/blog/entreposage-courte-ou-longue-duree/) · [Contrat](/blog/contrat-entreposage-clauses-operationnelles/)
+- **Méta-description :** Préparez un stockage sur plusieurs années : volumes, niveaux de service, révisions, inventaires et conditions de sortie.
+- **Liens :** [Entreposage longue durée](/entreposage-casablanca/) · [Stockage court ou long](/blog/entreposage-courte-ou-longue-duree/) · [Contrat](/blog/contrat-entreposage-clauses-operationnelles/)
+
 - **À lire ensuite :** [Comment planifier un stock annuel avec plusieurs périodes de pointe ?](/blog/planifier-stock-annuel-saisonnalite/)
 
 Un projet d’entreposage sur plusieurs années doit prévoir l’évolution des volumes, des références et des opérations. Estimez les quantités au démarrage, les mouvements annuels et les pics connus. Indiquez les scénarios où le stock pourrait diminuer ou changer de nature.
@@ -203,7 +217,8 @@ Une projection sur trois ans reste une hypothèse et doit pouvoir être revue se
 - **Requête cible :** planifier stock annuel logistique saisonnalité
 - **Slug :** planifier-stock-annuel-saisonnalite
 - **Méta-description :** Un calendrier annuel relie approvisionnements, campagnes, stock maximum, préparation et livraisons par période.
-- **Liens :** [Stock saisonnier](/blog/stockage-saisonnier-pics-activite/) · [Stock Ramadan](/blog/preparer-stock-ramadan-logistique-maroc/) · [Préparer un pic](/blog/preparer-entrepot-pic-commandes/)
+- **Liens :** [Stock saisonnier](/blog/stockage-saisonnier-pics-activite/) · [Stock Ramadan](/blog/preparer-stock-ramadan-logistique-maroc/) · [Préparer un pic](/blog/preparer-entrepot-pic-commandes/)
+
 - **À lire ensuite :** [Quelles questions poser avant de visiter un entrepôt logistique ?](/blog/questions-visite-entrepot-logistique/)
 
 Un plan annuel de stock réunit les dates d’approvisionnement, les campagnes commerciales, les périodes de vente et les retours éventuels. Pour chaque période, estimez le stock moyen et maximum, les commandes attendues et les dates de réception. Distinguez les événements confirmés des prévisions incertaines.
@@ -217,7 +232,8 @@ Un calendrier ne remplace pas les annonces de réception et les confirmations de
 - **Requête cible :** questions visite entrepôt logistique
 - **Slug :** questions-visite-entrepot-logistique
 - **Méta-description :** En visite d’entrepôt, interrogez l’équipe sur réception, rangement, WMS, sécurité, préparation et gestion des écarts.
-- **Liens :** [Organiser une visite Tecxodus](/contact-devis-logistique/) · [Choisir prestataire](/blog/choisir-prestataire-entreposage-casablanca/) · [WMS](/wms-suivi-stocks/)
+- **Liens :** [Organiser une visite Tecxodus](/contact-devis-logistique/) · [Choisir prestataire](/blog/choisir-prestataire-entreposage-casablanca/) · [WMS](/wms-suivi-stocks/)
+
 - **À lire ensuite :** [Quels KPI suivre pour une activité de préparation de commandes ?](/blog/kpi-preparation-commandes-entrepot/)
 
 Une visite d’entrepôt doit répondre à des questions liées à vos flux. Demandez comment les marchandises sont annoncées, contrôlées, identifiées et rangées. Vérifiez les zones et moyens réellement accessibles à votre produit, les règles de circulation et la procédure d’escalade en cas d’anomalie.
@@ -231,7 +247,8 @@ Préparez une liste de questions avant la visite et partagez les dimensions de v
 - **Requête cible :** KPI préparation commandes entrepôt
 - **Slug :** kpi-preparation-commandes-entrepot
 - **Méta-description :** Suivez commandes et lignes traitées, erreurs, ruptures et statuts avec des définitions communes au client et au prestataire.
-- **Liens :** [Préparation commandes](/preparation-commandes/) · [Indicateurs stock](/blog/indicateurs-stock-externalise/) · [SLA](/blog/sla-preparation-commandes/)
+- **Liens :** [Préparation commandes](/preparation-commandes/) · [Indicateurs stock](/blog/indicateurs-stock-externalise/) · [SLA](/blog/sla-preparation-commandes/)
+
 - **À lire ensuite :** [Comment comparer deux entrepôts pour une PME e-commerce ?](/blog/comparer-entrepots-pme-ecommerce-casablanca/)
 
 Les indicateurs de préparation peuvent inclure le nombre de commandes reçues, préparées, bloquées et expédiées, ainsi que les lignes traitées ou les erreurs confirmées. Choisissez ceux qui répondent à une décision : capacité, qualité, priorisation ou besoin de réapprovisionnement.
@@ -245,7 +262,8 @@ Un tableau avec trop d’indicateurs difficiles à interpréter n’améliore pa
 - **Requête cible :** comparer entrepôts PME e-commerce Casablanca
 - **Slug :** comparer-entrepots-pme-ecommerce-casablanca
 - **Méta-description :** Comparez les entrepôts selon localisation, formats, préparation, accès WMS, coûts détaillés et flexibilité des volumes.
-- **Liens :** [Logistique e-commerce](/logistique-ecommerce/) · [Choisir prestataire](/blog/choisir-prestataire-entreposage-casablanca/) · [Devis](/contact-devis-logistique/)
+- **Liens :** [Logistique e-commerce](/logistique-ecommerce/) · [Choisir prestataire](/blog/choisir-prestataire-entreposage-casablanca/) · [Devis](/contact-devis-logistique/)
+
 - **À lire ensuite :** [Quelles informations préparer pour utiliser un simulateur logistique ?](/blog/simulateur-besoin-entreposage-palettes-colis/)
 
 Pour comparer deux entrepôts, envoyez le même scénario à chacun : stock moyen et maximum, références, commandes, formats, durée, opérations et destinations. Comparez la localisation sur vos trajets réels, les formats reçus et les processus de préparation.
@@ -259,7 +277,8 @@ Demandez une démonstration ou un test de commande avant la décision finale. La
 - **Requête cible :** simulateur besoin entreposage palettes colis
 - **Slug :** simulateur-besoin-entreposage-palettes-colis
 - **Méta-description :** Pour un premier calcul, préparez formats, quantités, hauteurs, volume vrac, durée, nature des produits et services.
-- **Liens :** [Simulateur Tecxodus](/simulateur-besoin-logistique/) · [Estimer surface palettes](/blog/estimer-surface-entrepot-palettes/) · [Demander une simulation](/contact-devis-logistique/)
+- **Liens :** [Simulateur Tecxodus](/simulateur-besoin-logistique/) · [Estimer surface palettes](/blog/estimer-surface-entrepot-palettes/) · [Demander une simulation](/contact-devis-logistique/)
+
 - **À lire ensuite :** [Comment demander une étude d’entreposage à Casablanca ?](/blog/demande-etude-entreposage-casablanca/)
 
 Un simulateur logistique demande généralement les quantités, dimensions et hauteurs des unités, le volume de colis en vrac, la durée de stockage et le nombre de commandes. La nature des produits et les contraintes particulières sont nécessaires pour vérifier la faisabilité, pas seulement la surface.

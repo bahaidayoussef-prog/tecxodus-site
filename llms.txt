@@ -1,24 +1,36 @@
 # Tecxodus
-> Tecxodus propose des services d’entreposage, de préparation de commandes, d’opérations à valeur ajoutée et d’étude de livraison à Casablanca, Aïn Sebaâ, Softpark / Soft Logistic.
+> Tecxodus est un prestataire logistique 3PL à Casablanca, Aïn Sebaâ, Softpark / Soft Logistic : réception, entreposage, gestion de stock avec visibilité WMS, préparation de commandes, copacking et étude des expéditions.
 
 ## Site
 - Accueil : https://www.tecxodus.com/
+- Blog et index des 121 articles publics : https://www.tecxodus.com/blog/
 - Entreposage à Casablanca : https://www.tecxodus.com/entreposage-casablanca/
-- Blog et index des 120 brouillons : https://www.tecxodus.com/blog/
 - Sitemap XML : https://www.tecxodus.com/sitemap.xml
 - Demande : https://www.tecxodus.com/#contact
 - Simulateur : https://www.tecxodus.com/#simulateur
 - Contact : contact@nextinotech.com · WhatsApp +212 663 449 200
+- FAQ entreposage Casablanca : https://www.tecxodus.com/#faq
+
+## Services
+- Réception et contrôle des marchandises (formats et consignes à confirmer).
+- Entreposage et gestion du stock avec visibilité WMS.
+- Préparation de commandes.
+- Copacking, étiquetage et fardelage selon cahier des charges.
+- Étude de cross-docking, retours, expéditions et livraison selon faisabilité.
+- Opérations sur site client et gestion administrative des flux à étudier au cas par cas.
+
+## Références clients présentées sur le site
+Atlas Pharm (Grupo Tecnimede), Sapress et Sochepress, Asturmadi, STILL, Ziegler, Gift & Santoy, Eaton, Miroglio Group, Barobag, Ifri-Sol et Systemair.
 
 ## À propos des contenus
-Les articles sont des brouillons éditoriaux à valider par les équipes opérationnelles avant publication. Les exemples de productivité, ratios et prix dans les articles 101–120 sont pédagogiques; ils ne représentent ni tarifs de Tecxodus ni prix vérifiés du marché marocain. Les capacités, certifications, produits acceptés, transport et engagements doivent être confirmés auprès de Tecxodus.
+Les articles du site statique sont publiés comme guides éditoriaux. Un export WXR destiné à une éventuelle importation WordPress peut contenir des brouillons à part. Les exemples de productivité, ratios et prix dans les articles 101–120 sont pédagogiques; ils ne représentent ni tarifs de Tecxodus ni prix vérifiés du marché marocain. Les capacités, certifications, produits acceptés, transport et engagements doivent être confirmés auprès de Tecxodus.
 
 ## Bibliothèque des articles
-- [Comment choisir un prestataire d’entreposage à Casablanca ?](https://www.tecxodus.com/blog/choisir-prestataire-entreposage-casablanca/) — Comparez formats reçus, opérations incluses, suivi WMS, localisation et devis établis sur les mêmes données.
+- [Comment choisir un prestataire d’entreposage à Casablanca ?](https://www.tecxodus.com/blog/choisir-prestataire-entreposage-casablanca/) — Comparez les prestataires d’entreposage à Casablanca : formats reçus, suivi WMS, préparation, localisation et éléments à demander dans un devis.
 - [Où entreposer des marchandises à Aïn Sebaâ, Casablanca ?](https://www.tecxodus.com/blog/entreposage-ain-sebaa-casablanca/) — Vous cherchez un entrepôt à Aïn Sebaâ ? Vérifiez les accès, les réceptions et la visibilité des marchandises.
 - [Que signifie logistique 3PL et quand l’utiliser au Maroc ?](https://www.tecxodus.com/blog/logistique-3pl-maroc-definition/) — La logistique 3PL consiste à confier certaines opérations à un prestataire. Découvrez les questions à poser avant d’externaliser au Maroc.
-- [Externaliser l’entreposage quand on est une PME : par où commencer ?](https://www.tecxodus.com/blog/externaliser-entreposage-pme/) — PME : préparez l’externalisation de votre stockage avec vos volumes, formats de palettes, commandes et besoins de visibilité.
-- [Combien coûte l’entreposage de marchandises à Casablanca ?](https://www.tecxodus.com/blog/prix-entreposage-casablanca-facteurs/) — Le coût dépend des volumes, formats, durées et opérations. Préparez les données pour obtenir un devis comparable.
+- [Externaliser l’entreposage quand on est une PME : par où commencer ?](https://www.tecxodus.com/blog/externaliser-entreposage-pme/) — Externaliser l’entreposage d’une PME à Casablanca : évaluez votre stock, vos pics, vos commandes et les opérations à confier.
+- [Combien coûte l’entreposage de marchandises à Casablanca ?](https://www.tecxodus.com/blog/prix-entreposage-casablanca-facteurs/) — Prix de l’entreposage à Casablanca : les facteurs à préciser et les questions à poser pour comparer des devis à périmètre égal.
 - [Stockage à court ou long terme : quelles différences ?](https://www.tecxodus.com/blog/entreposage-courte-ou-longue-duree/) — Comparez stockage ponctuel et longue durée selon votre rotation, saisonnalité et besoins de préparation.
 - [Stockage sur palettes ou au sol : comment comparer ?](https://www.tecxodus.com/blog/stockage-palettes-ou-au-sol/) — Palettes ou stockage au sol : dimensions, hauteur et fréquence d’accès aident à définir le mode de rangement à étudier.
 - [Un particulier peut-il demander une solution d’entreposage ?](https://www.tecxodus.com/blog/entreposage-particulier-casablanca/) — Particulier à Casablanca : les informations à communiquer pour savoir si un besoin de stockage peut être étudié.
@@ -35,7 +47,7 @@ Les articles sont des brouillons éditoriaux à valider par les équipes opérat
 - [Comment réceptionner des colis en vrac dans un entrepôt ?](https://www.tecxodus.com/blog/reception-colis-vrac-entrepot/) — Colis en vrac : estimez leur nombre, précisez leur conditionnement et convenez du contrôle et de la mise en stock.
 - [Quelles données transmettre pour enregistrer une réception en stock ?](https://www.tecxodus.com/blog/donnees-reception-entrepot/) — Références, quantités, unités, lots et dimensions : les données utiles à transmettre pour une réception en stock.
 - [Comment réaliser l’ingénierie logistique d’un entrepôt ?](https://www.tecxodus.com/blog/ingenierie-logistique-conception-entrepot/) — Concevoir un entrepôt à partir des flux, surfaces, capacités, équipements, effectifs et scénarios de pointe.
-- [Comment calculer la surface nécessaire d’un entrepôt ?](https://www.tecxodus.com/blog/calcul-surface-entrepot-zones/) — Calculez l’espace du stockage, des quais, de la préparation, du staging et des zones support.
+- [Comment calculer la surface nécessaire d’un entrepôt ?](https://www.tecxodus.com/blog/calcul-surface-entrepot-zones/) — Estimez la surface d’entrepôt selon le stock, les palettes, les allées, les quais et les zones de préparation. Découvrez les hypothèses à vérifier avant l’aménagement.
 - [Comment calculer le nombre d’emplacements palettes ?](https://www.tecxodus.com/blog/calcul-emplacements-palettes-entrepot/) — Passez du stock maximal aux positions palettes, en tenant compte de l’occupation, des références et du rayonnage.
 - [Comment dimensionner un rayonnage à palettes ?](https://www.tecxodus.com/blog/dimensionnement-rayonnage-palettes/) — Données et étapes pour dimensionner les racks selon les palettes, charges, niveaux et contraintes du bâtiment.
 - [Quel système de rayonnage choisir selon le stock ?](https://www.tecxodus.com/blog/choisir-systeme-rayonnage-entrepot/) — Comparez racks sélectifs, accumulation et solutions compactes selon les références, rotations et accès souhaités.
@@ -48,7 +60,7 @@ Les articles sont des brouillons éditoriaux à valider par les équipes opérat
 - [Comment dimensionner l’entrepôt pour un pic saisonnier ?](https://www.tecxodus.com/blog/dimensionnement-entrepot-pic-saisonnier/) — Planifiez stock, surface, équipes et équipements pour la pointe avec plusieurs scénarios opérationnels.
 - [Quelles formules de prix utiliser pour une prestation logistique ?](https://www.tecxodus.com/blog/formules-prix-prestation-logistique/) — Comparez facturation au pallet, mouvement, commande, ligne, heure, surface ou forfait pour un service 3PL.
 - [Open book ou closed book : quel contrat logistique choisir ?](https://www.tecxodus.com/blog/open-book-closed-book-logistique/) — Livre ouvert ou fermé en logistique : transparence, risque, revue des prix et choix selon la stabilité des flux.
-- [Comment construire un exemple de prix complet pour un contrat 3PL ?](https://www.tecxodus.com/blog/exemple-prix-complet-prestation-3pl/) — Décomposez un prix 3PL en stockage, mouvements, commandes, emballage, transport et pilotage.
+- [Comment construire un exemple de prix complet pour un contrat 3PL ?](https://www.tecxodus.com/blog/exemple-prix-complet-prestation-3pl/) — Découvrez les postes d’un devis 3PL : stockage, réceptions, mouvements, préparation, emballage et transport, puis comparez-les selon vos volumes réels.
 - [Comment estimer le coût de chaque poste d’un entrepôt ?](https://www.tecxodus.com/blog/exemple-couts-entrepot-postes/) — Décomposez les coûts d’entrepôt : personnel, surface, rayonnage, chariots, emballage, WMS, énergie et transport.
 - [Quels modèles hybrides et partages des gains existent en logistique ?](https://www.tecxodus.com/blog/modele-hybride-partage-gains-logistique/) — Combinez coûts transparents et prix unitaires fermes avec seuils de volume, gains partagés et règles de changement.
 - [Exemple de dimensionnement d’entrepôt : quelles étapes suivre ?](https://www.tecxodus.com/blog/exemple-dimensionnement-entrepot-cas-pratique/) — Exemple de pré-dimensionnement à partir du stock maximal, des positions, surfaces, chariots et effectifs.
@@ -127,10 +139,11 @@ Les articles sont des brouillons éditoriaux à valider par les équipes opérat
 - [WMS et ERP : comment organiser les échanges de données ?](https://www.tecxodus.com/blog/interface-wms-erp-echanges-donnees/) — Définissez les données échangées entre WMS et ERP : articles, commandes, stocks, statuts, fréquence et traitement des erreurs.
 - [Comment choisir les statuts WMS utiles à son équipe ?](https://www.tecxodus.com/blog/statuts-wms-commandes-entrepot/) — Des statuts WMS utiles sont peu nombreux, compréhensibles et associés à des événements réels du processus.
 - [Comment prévoir son besoin de stockage à partir des ventes ?](https://www.tecxodus.com/blog/prevoir-besoin-stockage-ventes/) — Prévoir l’espace de stockage exige ventes, réapprovisionnements, saisonnalité, tailles de lot et stock de sécurité.
-- [Comment planifier un contrat d’entreposage sur plusieurs années ?](https://www.tecxodus.com/blog/contrat-entreposage-longue-duree/) — Pour un stockage pouvant aller jusqu’à trois ans, prévoyez volumes, révisions, inventaires, tarifs et conditions de sortie.
+- [Stockage de longue durée : comment planifier un besoin sur plusieurs années ?](https://www.tecxodus.com/blog/contrat-entreposage-longue-duree/) — Préparez un stockage sur plusieurs années : volumes, niveaux de service, révisions, inventaires et conditions de sortie.
 - [Comment planifier un stock annuel avec plusieurs périodes de pointe ?](https://www.tecxodus.com/blog/planifier-stock-annuel-saisonnalite/) — Un calendrier annuel relie approvisionnements, campagnes, stock maximum, préparation et livraisons par période.
 - [Quelles questions poser avant de visiter un entrepôt logistique ?](https://www.tecxodus.com/blog/questions-visite-entrepot-logistique/) — En visite d’entrepôt, interrogez l’équipe sur réception, rangement, WMS, sécurité, préparation et gestion des écarts.
 - [Quels KPI suivre pour une activité de préparation de commandes ?](https://www.tecxodus.com/blog/kpi-preparation-commandes-entrepot/) — Suivez commandes et lignes traitées, erreurs, ruptures et statuts avec des définitions communes au client et au prestataire.
 - [Comment comparer deux entrepôts pour une PME e-commerce ?](https://www.tecxodus.com/blog/comparer-entrepots-pme-ecommerce-casablanca/) — Comparez les entrepôts selon localisation, formats, préparation, accès WMS, coûts détaillés et flexibilité des volumes.
 - [Quelles informations préparer pour utiliser un simulateur logistique ?](https://www.tecxodus.com/blog/simulateur-besoin-entreposage-palettes-colis/) — Pour un premier calcul, préparez formats, quantités, hauteurs, volume vrac, durée, nature des produits et services.
-- [Comment demander une étude d’entreposage à Casablanca ?](https://www.tecxodus.com/blog/demande-etude-entreposage-casablanca/) — Demandez une étude d’entreposage à Casablanca avec produits, volumes, palettes, durée, préparation et besoins de livraison.
+- [Comment demander une étude d’entreposage à Casablanca ?](https://www.tecxodus.com/blog/demande-etude-entreposage-casablanca/) — Vous cherchez un entrepôt à Casablanca ? Préparez ces informations sur vos produits, volumes et opérations pour demander une étude de stockage adaptée.
+- [Inventaire initial : préparer son stock avant de l’externaliser](https://www.tecxodus.com/blog/inventaire-initial-externaliser-stock/) — Avant de confier un stock à un entrepôt à Casablanca, préparez un inventaire de départ fiable : références, quantités, lots, formats et écarts à traiter.
