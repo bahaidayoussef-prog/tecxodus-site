@@ -1,139 +1,1638 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "redirects": [
+  "routes": [
     {
-      "source": "/blog",
-      "destination": "https://blog.tecxodus.com/",
-      "permanent": true,
+      "src": "^/blog(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/"
+      },
       "has": [
         {
           "type": "host",
-          "value": "www.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/blog/:path*",
-      "destination": "https://blog.tecxodus.com/:path*",
-      "permanent": true,
+      "src": "^/blog/robots\\.txt$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/robots.txt"
+      },
       "has": [
         {
           "type": "host",
-          "value": "www.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/blog",
-      "destination": "https://blog.tecxodus.com/",
-      "permanent": true,
+      "src": "^/blog/sitemap\\.xml$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/sitemap.xml"
+      },
       "has": [
         {
           "type": "host",
-          "value": "tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/blog/:path*",
-      "destination": "https://blog.tecxodus.com/:path*",
-      "permanent": true,
+      "src": "^/blog/assemblage-coffret-promotionnel(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/assemblage-coffret-promotionnel/"
+      },
       "has": [
         {
           "type": "host",
-          "value": "tecxodus.com"
-        }
-      ]
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/blog/index.html",
-      "has": [
-        {
-          "type": "host",
-          "value": "blog.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/robots.txt",
-      "destination": "/blog/robots.txt",
+      "src": "^/blog/calcul-effectifs-productivite-process(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/calcul-effectifs-productivite-process/"
+      },
       "has": [
         {
           "type": "host",
-          "value": "blog.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/sitemap.xml",
-      "destination": "/blog/sitemap.xml",
+      "src": "^/blog/calcul-emplacements-palettes-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/calcul-emplacements-palettes-entrepot/"
+      },
       "has": [
         {
           "type": "host",
-          "value": "blog.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/images/:path*",
-      "destination": "https://www.tecxodus.com/images/:path*",
+      "src": "^/blog/calcul-nombre-chariots-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/calcul-nombre-chariots-entrepot/"
+      },
       "has": [
         {
           "type": "host",
-          "value": "blog.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/media/:path*",
-      "destination": "https://www.tecxodus.com/media/:path*",
+      "src": "^/blog/calcul-surface-entrepot-zones(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/calcul-surface-entrepot-zones/"
+      },
       "has": [
         {
           "type": "host",
-          "value": "blog.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/favicon.svg",
-      "destination": "https://www.tecxodus.com/favicon.svg",
+      "src": "^/blog/calculer-stock-securite-entreposage(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/calculer-stock-securite-entreposage/"
+      },
       "has": [
         {
           "type": "host",
-          "value": "blog.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/responsive.css",
-      "destination": "https://www.tecxodus.com/responsive.css",
+      "src": "^/blog/camera-acces-client-suivi-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/camera-acces-client-suivi-entrepot/"
+      },
       "has": [
         {
           "type": "host",
-          "value": "blog.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/:path*/",
-      "destination": "/blog/:path*/index.html",
+      "src": "^/blog/checklist-controle-expedition-commande(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/checklist-controle-expedition-commande/"
+      },
       "has": [
         {
           "type": "host",
-          "value": "blog.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
         }
       ]
     },
     {
-      "source": "/:path*",
-      "destination": "/blog/:path*/index.html",
+      "src": "^/blog/checklist-reception-entrepot-marchandises(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/checklist-reception-entrepot-marchandises/"
+      },
       "has": [
         {
           "type": "host",
-          "value": "blog.tecxodus.com"
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/choisir-emballage-expedition(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/choisir-emballage-expedition/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/choisir-prestataire-entreposage-casablanca(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/choisir-prestataire-entreposage-casablanca/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/choisir-systeme-rayonnage-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/choisir-systeme-rayonnage-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/comparer-entrepots-pme-ecommerce-casablanca(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/comparer-entrepots-pme-ecommerce-casablanca/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/comparer-offre-entreposage-transport(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/comparer-offre-entreposage-transport/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/comparer-offres-prestataires-logistiques-perimetre(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/comparer-offres-prestataires-logistiques-perimetre/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/conditionnement-a-facon-logistique(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/conditionnement-a-facon-logistique/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/consolidation-expeditions-logistique(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/consolidation-expeditions-logistique/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/consulter-stock-entrepot-temps-reel(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/consulter-stock-entrepot-temps-reel/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/contrat-entreposage-clauses-operationnelles(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/contrat-entreposage-clauses-operationnelles/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/contrat-entreposage-longue-duree(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/contrat-entreposage-longue-duree/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/controle-qualite-reception-marchandises(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/controle-qualite-reception-marchandises/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/copacking-definition-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/copacking-definition-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/cout-stockage-externalise-logistique(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/cout-stockage-externalise-logistique/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/cross-docking-ou-entreposage(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/cross-docking-ou-entreposage/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/delai-preparation-commande-facteurs(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/delai-preparation-commande-facteurs/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/demande-etude-entreposage-casablanca(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/demande-etude-entreposage-casablanca/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/demarrage-nouveau-prestataire-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/demarrage-nouveau-prestataire-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/devis-entreposage-informations-necessaires(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/devis-entreposage-informations-necessaires/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/devis-livraison-marchandises-informations(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/devis-livraison-marchandises-informations/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/dimensionnement-entrepot-pic-saisonnier(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/dimensionnement-entrepot-pic-saisonnier/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/dimensionnement-quais-staging-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/dimensionnement-quais-staging-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/dimensionnement-rayonnage-palettes(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/dimensionnement-rayonnage-palettes/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/donnees-reception-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/donnees-reception-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/emplacement-palette-entrepot-definition(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/emplacement-palette-entrepot-definition/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposage-agroalimentaire-temperature(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposage-agroalimentaire-temperature/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposage-ain-sebaa-casablanca(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposage-ain-sebaa-casablanca/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposage-avec-livraison-casablanca(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposage-avec-livraison-casablanca/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposage-courte-ou-longue-duree(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposage-courte-ou-longue-duree/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposage-fmcg-maroc(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposage-fmcg-maroc/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposage-marque-ecommerce-croissance(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposage-marque-ecommerce-croissance/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposage-particulier-casablanca(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposage-particulier-casablanca/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposage-pieces-detachees-industrielles(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposage-pieces-detachees-industrielles/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposage-produits-pharmaceutiques-exigences(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposage-produits-pharmaceutiques-exigences/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposage-stock-distributeur-casablanca(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposage-stock-distributeur-casablanca/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entreposer-marchandises-importees-casablanca(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entreposer-marchandises-importees-casablanca/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entrepot-plateforme-logistique-centre-distribution(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entrepot-plateforme-logistique-centre-distribution/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/entrepot-pres-fournisseurs-ou-clients(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/entrepot-pres-fournisseurs-ou-clients/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/estimer-surface-entrepot-palettes(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/estimer-surface-entrepot-palettes/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/etapes-traitement-commande-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/etapes-traitement-commande-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/etiquetage-reetiquetage-produit-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/etiquetage-reetiquetage-produit-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/evaluer-proximite-entrepot-flux(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/evaluer-proximite-entrepot-flux/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/exemple-couts-entrepot-postes(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/exemple-couts-entrepot-postes/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/exemple-dimensionnement-entrepot-cas-pratique(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/exemple-dimensionnement-entrepot-cas-pratique/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/exemple-prix-complet-prestation-3pl(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/exemple-prix-complet-prestation-3pl/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/externalisation-entrepot-grande-entreprise(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/externalisation-entrepot-grande-entreprise/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/externaliser-entreposage-pme(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/externaliser-entreposage-pme/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/fardelage-filmage-palette-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/fardelage-filmage-palette-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/fiabilite-donnees-stock(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/fiabilite-donnees-stock/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/fifo-fefo-lifo-rotation-stock(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/fifo-fefo-lifo-rotation-stock/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/formules-prix-prestation-logistique(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/formules-prix-prestation-logistique/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/gestion-retours-ecommerce-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/gestion-retours-ecommerce-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/gestion-stock-omnicanal-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/gestion-stock-omnicanal-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/indicateurs-stock-externalise(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/indicateurs-stock-externalise/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/ingenierie-logistique-conception-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/ingenierie-logistique-conception-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/interface-wms-erp-echanges-donnees(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/interface-wms-erp-echanges-donnees/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/inventaire-initial-externaliser-stock(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/inventaire-initial-externaliser-stock/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/inventaire-stock-externalise(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/inventaire-stock-externalise/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/kpi-preparation-commandes-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/kpi-preparation-commandes-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/lancement-produit-stock-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/lancement-produit-stock-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/largeur-allee-chariot-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/largeur-allee-chariot-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/livraison-marchandises-plusieurs-destinations(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/livraison-marchandises-plusieurs-destinations/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/logistique-3pl-maroc-definition(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/logistique-3pl-maroc-definition/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/logistique-ecommerce-externalisee-maroc(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/logistique-ecommerce-externalisee-maroc/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/logistique-grossiste-entrepot-preparation(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/logistique-grossiste-entrepot-preparation/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/mesurer-productivite-logistique-avant-contrat(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/mesurer-productivite-logistique-avant-contrat/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/modele-hybride-partage-gains-logistique(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/modele-hybride-partage-gains-logistique/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/open-book-closed-book-logistique(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/open-book-closed-book-logistique/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/organiser-livraisons-entrepot-casablanca(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/organiser-livraisons-entrepot-casablanca/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/palette-europe-120x80-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/palette-europe-120x80-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/palette-homogene-ou-heterogene(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/palette-homogene-ou-heterogene/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/palette-hors-gabarit-dimensions(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/palette-hors-gabarit-dimensions/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/palette-uk-120x100-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/palette-uk-120x100-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/pick-and-pack-maroc-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/pick-and-pack-maroc-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/picking-entrepot-definition-processus(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/picking-entrepot-definition-processus/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/picking-par-lot-ou-par-commande(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/picking-par-lot-ou-par-commande/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/planifier-stock-annuel-saisonnalite(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/planifier-stock-annuel-saisonnalite/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/preparation-commande-article-unique(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/preparation-commande-article-unique/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/preparation-commandes-fulfillment-difference(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/preparation-commandes-fulfillment-difference/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/preparation-commandes-gms(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/preparation-commandes-gms/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/preparation-commandes-multi-references(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/preparation-commandes-multi-references/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/preparation-kit-coffret-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/preparation-kit-coffret-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/preparer-campagne-plv-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/preparer-campagne-plv-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/preparer-entrepot-pic-commandes(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/preparer-entrepot-pic-commandes/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/preparer-stock-enlevement-transporteur(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/preparer-stock-enlevement-transporteur/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/preparer-stock-ramadan-logistique-maroc(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/preparer-stock-ramadan-logistique-maroc/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/prestataire-entreposage-transport(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/prestataire-entreposage-transport/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/prevoir-besoin-stockage-ventes(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/prevoir-besoin-stockage-ventes/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/prix-entreposage-casablanca-facteurs(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/prix-entreposage-casablanca-facteurs/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/productivite-chariots-process-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/productivite-chariots-process-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/productivite-par-process-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/productivite-par-process-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/questions-visite-entrepot-logistique(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/questions-visite-entrepot-logistique/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/reception-colis-vrac-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/reception-colis-vrac-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/reduire-erreurs-preparation(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/reduire-erreurs-preparation/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/rotation-stock-references-lentes(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/rotation-stock-references-lentes/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/services-valeur-ajoutee-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/services-valeur-ajoutee-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/simulateur-besoin-entreposage-palettes-colis(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/simulateur-besoin-entreposage-palettes-colis/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/sla-preparation-commandes(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/sla-preparation-commandes/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/statuts-wms-commandes-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/statuts-wms-commandes-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/stockage-ecommerce-lancement(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/stockage-ecommerce-lancement/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/stockage-electronique-fragile-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/stockage-electronique-fragile-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/stockage-palettes-ou-au-sol(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/stockage-palettes-ou-au-sol/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/stockage-produits-cosmetiques-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/stockage-produits-cosmetiques-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/stockage-produits-dangereux-adr-verifications(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/stockage-produits-dangereux-adr-verifications/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/stockage-saisonnier-pics-activite(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/stockage-saisonnier-pics-activite/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/stockage-vetements-entrepot-ecommerce(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/stockage-vetements-entrepot-ecommerce/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/suivi-avancement-preparation-commande(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/suivi-avancement-preparation-commande/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/suivi-stock-et-livraison-logistique(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/suivi-stock-et-livraison-logistique/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/synchroniser-stock-marketplace-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/synchroniser-stock-marketplace-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/tracabilite-mouvement-stock-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/tracabilite-mouvement-stock-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/transferer-stock-entrepot(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/transferer-stock-entrepot/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/wms-gestion-entrepot-definition(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/wms-gestion-entrepot-definition/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/blog/zone-industrielle-logistique-casablanca(?:/index\\.html)?/?$",
+      "status": 308,
+      "headers": {
+        "Location": "https://blog.tecxodus.com/zone-industrielle-logistique-casablanca/"
+      },
+      "has": [
+        {
+          "type": "host",
+          "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+        }
+      ]
+    },
+    {
+      "src": "^/(?!blog(?:/|$))(?<path>.*)$",
+      "dest": "/blog/$path",
+      "has": [
+        {
+          "type": "host",
+          "value": "^blog\\.tecxodus\\.com$"
         }
       ]
     }
