@@ -2784,3 +2784,10 @@ Il n’existe pas de prix Tecxodus universel à appliquer à toutes les campagne
 Pour cadrer le stockage, consultez le guide sur l’ entreposage ponctuel et la préparation d’un pic saisonnier . Pour le coffret promotionnel, voir l’article sur l’ assemblage de coffrets . Le copacking et le conditionnement à façon sont décrits séparément dans les guides copacking et cahier des charges .
 
 Tecxodus étudie le stockage et les opérations liées à une campagne PLV selon le cahier des charges. Les produits admissibles, les capacités, les prix, les dates et les services de transport ou d’installation restent à confirmer avant engagement.
+
+## Nouveaux guides éditoriaux (25 octobre 2026)
+
+- [Appel d’offres logistique au Maroc : analyser le besoin et comparer les offres](https://blog.tecxodus.com/appel-offres-logistique-maroc/) — Méthode pour cadrer une consultation logistique, lire le périmètre, comparer prix, SLA, capacité et risques sans confondre prix bas et coût total.
+- [Cahier des charges d’entreposage : les informations à fournir à un prestataire](https://blog.tecxodus.com/cahier-charges-entreposage-logistique/) — Trame pratique pour décrire un besoin d’entreposage, de préparation ou de copacking et obtenir des offres comparables au Maroc.
+- [Prix de l’entreposage au Maroc : comparer les villes sans confondre loyer et 3PL](https://blog.tecxodus.com/prix-entreposage-maroc-villes-regions/) — Repères pour analyser les prix d’entreposage par ville et région au Maroc, distinguer location d’entrepôt et prestation 3PL et demander des devis comparables.
+- [Stock de débord ou besoin ponctuel : externaliser sans surdimensionner son entrepôt](https://blog.tecxodus.com/stock-debord-ponctuel-externaliser/) — Comment absorber un surplus de stock, une importation ou une campagne ponctuelle avec un périmètre, une durée et un coût de sortie clairement définis.

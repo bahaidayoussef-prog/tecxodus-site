@@ -3,7 +3,7 @@
 
 ## Site
 - Accueil : https://www.tecxodus.com/
-- Blog et index des 122 articles publics : https://blog.tecxodus.com/
+- Blog et index des 126 articles publics : https://blog.tecxodus.com/
 - Entreposage à Casablanca : https://www.tecxodus.com/entreposage-casablanca/
 - Sitemap XML : https://www.tecxodus.com/sitemap.xml
 - Demande : https://www.tecxodus.com/#contact
@@ -153,3 +153,9 @@ Les articles du site statique sont publiés comme guides éditoriaux. Un export 
 - [Logistique PLV : préparer un déploiement de campagne en entrepôt](https://blog.tecxodus.com/preparer-campagne-plv-entrepot/) — Brief, réception, stockage, versions, kits par destination, contrôles, devis et limites de périmètre.
 
 - [Logistique PLV : préparer un déploiement de campagne en entrepôt](https://blog.tecxodus.com/preparer-campagne-plv-entrepot/) — Brief, réception, stockage, versions, kits par destination, contrôles, devis et limites de périmètre.
+
+## Nouveaux guides à forte intention commerciale (25 octobre 2026)
+- Consultation / appel d’offres logistique : https://blog.tecxodus.com/appel-offres-logistique-maroc/
+- Cahier des charges d’entreposage : https://blog.tecxodus.com/cahier-charges-entreposage-logistique/
+- Loyers d’entrepôts par villes et comparaison avec une prestation 3PL : https://blog.tecxodus.com/prix-entreposage-maroc-villes-regions/
+- Stock de débord et externalisation ponctuelle : https://blog.tecxodus.com/stock-debord-ponctuel-externaliser/

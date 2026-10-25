@@ -5,7 +5,7 @@ Static showcase site for Tecxodus logistics and warehousing services in Aïn Seb
 ## Contents
 
 - index.html: homepage and service showcase
-- blog/: 122 articles with contextual links and metadata
+- blog/: 126 articles with contextual links and metadata
 - entreposage-casablanca/: service page for Tecxodus warehousing in Casablanca
 - sitemap.xml, robots.txt: search crawler files
 - llms.txt, llms-full.txt: AI crawler and language-model discovery files
@@ -24,14 +24,14 @@ Static showcase site for Tecxodus logistics and warehousing services in Aïn Seb
 
 The HTML site is deployed on Vercel from the `main` branch. The company website stays on `https://www.tecxodus.com/`; the editorial blog is served on `https://blog.tecxodus.com/`. `vercel.json` maps the blog host to the existing static article files and permanently redirects the previous `/blog/...` URLs to their new locations.
 
-The root sitemap is an index: `sitemap-main.xml` lists the company pages and the blog host serves its own `sitemap.xml` and `robots.txt`. Add `blog.tecxodus.com` to the Vercel project and configure the exact DNS record Vercel provides at Namecheap before deploying this migration. Do not guess or replace other DNS records.
+The root sitemap is an index: `sitemap-main.xml` lists the company pages and the blog host serves its own `sitemap.xml` and `robots.txt`. The production blog subdomain is connected to Vercel; the domain DNS is managed at Porkbun. Do not change production DNS records without checking the current Vercel domain configuration and Porkbun zone first.
 
 The WordPress WXR file imports the articles as drafts; review them in WordPress before publishing. It remains separate from this static site and does not control the blog subdomain.
 
-The static blog contains 122 article pages. The separate WordPress WXR file remains the original 120 draft posts and does not include this static-only update.
+The static blog contains 126 article pages. The separate WordPress WXR file remains the original 120 draft posts and does not include these static articles.
 
-The blog sitemap lists the 122 public article pages and blog index on `blog.tecxodus.com`. Submit the sitemap index only after the subdomain, DNS, and redirects are live.
+The blog sitemap lists 126 public article pages plus the blog index on `blog.tecxodus.com`. The root sitemap index references both the main-site sitemap and the blog sitemap; both are submitted and accepted in Google Search Console.
 
 ## Content and imagery notes
 
-The 20 new technical/contract articles include illustrative stock images loaded from Pexels. They do not depict Tecxodus's actual warehouse. Productivity examples are teaching assumptions, not measured Tecxodus results. No displayed amount should be treated as a Tecxodus tariff or verified Morocco market rate; confirm commercial rates, capacity and service limits with operations before quoting them.
+The 20 new technical/contract articles include illustrative stock images loaded from Pexels. They do not depict Tecxodus's actual warehouse. Productivity examples are teaching assumptions, not measured Tecxodus results. Any prices shown in the national comparison guide are third-party property-rental listing references, not 3PL service prices or Tecxodus tariffs. Confirm commercial rates, capacity and service limits with operations before quoting them.
