@@ -5,7 +5,7 @@ Static showcase site for Tecxodus logistics and warehousing services in Aïn Seb
 ## Contents
 
 - index.html: homepage and service showcase
-- blog/: 166 articles with contextual links and metadata
+- blog/: 206 articles with contextual links and metadata
 - entreposage-casablanca/: service page for Tecxodus warehousing in Casablanca
 - sitemap.xml, robots.txt: search crawler files
 - llms.txt, llms-full.txt: AI crawler and language-model discovery files
@@ -28,9 +28,9 @@ The root sitemap is an index: `sitemap-main.xml` lists the company pages and the
 
 The WordPress WXR file imports the articles as drafts; review them in WordPress before publishing. It remains separate from this static site and does not control the blog subdomain.
 
-The static blog contains 166 article pages, including 40 practical guides added on 26 October 2026. The separate WordPress WXR file remains the original 120 draft posts and does not include these static articles.
+The static blog contains 206 article pages, including 80 guides added in October 2026: 40 operational articles and 40 articles about the Tecxodus offer. The separate WordPress WXR file remains the original 120 draft posts and does not include these static articles.
 
-The blog sitemap lists 166 public article pages plus the blog index on `blog.tecxodus.com`. The root sitemap index references both the main-site sitemap and the blog sitemap; both are submitted and accepted in Google Search Console.
+The blog sitemap lists 206 public article pages plus the blog index on `blog.tecxodus.com`. The root sitemap index references both the main-site sitemap and the blog sitemap; both are submitted and accepted in Google Search Console.
 
 ## Content and imagery notes
 
