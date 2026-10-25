@@ -2,7 +2,7 @@
 Ce fichier reprend les guides éditoriaux du blog à des fins d’orientation et de compréhension. Les modalités opérationnelles sont à confirmer auprès de Tecxodus avant toute citation comme engagement commercial. Un export WXR distinct peut contenir des brouillons non publiés.
 
 ## Choisir un prestataire d’entreposage à Casablanca | Tecxodus
-URL : https://www.tecxodus.com/blog/choisir-prestataire-entreposage-casablanca/
+URL : https://blog.tecxodus.com/choisir-prestataire-entreposage-casablanca/
 Mot-clé : prestataire d’entreposage Casablanca
 Description : Comparez les prestataires d’entreposage à Casablanca : formats reçus, suivi WMS, préparation, localisation et éléments à demander dans un devis.
 
@@ -33,7 +33,7 @@ Envoyez le même scénario à chaque candidat : volumes, saisonnalité, formats,
 Tecxodus est implanté à Softpark / Soft Logistic, à Aïn Sebaâ. L’adéquation du site dépend de vos fournisseurs, destinataires et fréquences de mouvement. Transmettez vos données de flux pour faire étudier le périmètre possible avant tout engagement.
 
 ## Où entreposer des marchandises à Aïn Sebaâ, Casablanca ?
-URL : https://www.tecxodus.com/blog/entreposage-ain-sebaa-casablanca/
+URL : https://blog.tecxodus.com/entreposage-ain-sebaa-casablanca/
 Mot-clé : entreposage Aïn Sebaâ Casablanca
 Description : Vous cherchez un entrepôt à Aïn Sebaâ ? Vérifiez les accès, les réceptions et la visibilité des marchandises.
 
@@ -64,7 +64,7 @@ Comparez le stockage avec les autres coûts du flux : enlèvements, livraisons, 
 Préparez vos quantités, dimensions, poids, durée de stockage et sorties mensuelles, puis demandez une proposition sur ce périmètre. Une visite permet de poser les questions opérationnelles ; l’offre finale doit préciser les services et les conditions convenus.
 
 ## Que signifie logistique 3PL et quand l’utiliser au Maroc ?
-URL : https://www.tecxodus.com/blog/logistique-3pl-maroc-definition/
+URL : https://blog.tecxodus.com/logistique-3pl-maroc-definition/
 Mot-clé : logistique 3PL Maroc
 Description : La logistique 3PL consiste à confier certaines opérations à un prestataire. Découvrez les questions à poser avant d’externaliser au Maroc.
 
@@ -95,7 +95,7 @@ Fournissez le même scénario à chaque opérateur et demandez une ventilation d
 Tecxodus étudie des besoins d’entreposage et de préparation à Casablanca. Les services possibles, les produits acceptés et les conditions sont à vérifier au cas par cas avant toute décision.
 
 ## Externaliser le stockage d’une PME : quand ? | Tecxodus
-URL : https://www.tecxodus.com/blog/externaliser-entreposage-pme/
+URL : https://blog.tecxodus.com/externaliser-entreposage-pme/
 Mot-clé : externaliser entreposage PME
 Description : Externaliser l’entreposage d’une PME à Casablanca : évaluez votre stock, vos pics, vos commandes et les opérations à confier.
 
@@ -118,7 +118,7 @@ Demandez une offre décomposée et bâtie sur vos propres volumes. Comparez stoc
 Tecxodus peut étudier à Casablanca un besoin d’entreposage et de préparation à partir de ces éléments. Le simulateur du site donne un repère géométrique indicatif ; il ne confirme ni une capacité disponible ni un tarif. Toute proposition doit être validée avec les opérations et les conditions contractuelles.
 
 ## Combien coûte l’entreposage de marchandises à Casablanca ?
-URL : https://www.tecxodus.com/blog/prix-entreposage-casablanca-facteurs/
+URL : https://blog.tecxodus.com/prix-entreposage-casablanca-facteurs/
 Mot-clé : prix entreposage Casablanca
 Description : Prix de l’entreposage à Casablanca : les facteurs à préciser et les questions à poser pour comparer des devis à périmètre égal.
 
@@ -149,7 +149,7 @@ Lorsque vous comparez plusieurs offres, vérifiez qu’elles utilisent les même
 Non. Le simulateur fournit une estimation géométrique indicative à partir de quantités et dimensions saisies. Il ne mesure pas les contraintes réelles du bâtiment, la disponibilité, les opérations ni le coût. Contactez Tecxodus pour faire vérifier les hypothèses et étudier un devis adapté à vos flux à Casablanca.
 
 ## Stockage à court ou long terme : quelles différences ? | Tecxodus
-URL : https://www.tecxodus.com/blog/entreposage-courte-ou-longue-duree/
+URL : https://blog.tecxodus.com/entreposage-courte-ou-longue-duree/
 Mot-clé : entreposage courte durée longue durée
 Description : Comparez stockage ponctuel et longue durée selon votre rotation, saisonnalité et besoins de préparation.
 
@@ -180,7 +180,7 @@ Demandez les règles de facturation pour la durée, les mouvements, les entrées
 Tecxodus étudie des besoins d’entreposage à Casablanca selon les produits, les volumes et la durée communiqués. Les conditions et la faisabilité doivent être confirmées dans une proposition avant l’envoi des marchandises.
 
 ## Stockage sur palettes ou au sol : comment comparer ? | Tecxodus
-URL : https://www.tecxodus.com/blog/stockage-palettes-ou-au-sol/
+URL : https://blog.tecxodus.com/stockage-palettes-ou-au-sol/
 Mot-clé : stockage palettes ou stockage au sol
 Description : Palettes ou stockage au sol : dimensions, hauteur et fréquence d’accès aident à définir le mode de rangement à étudier.
 
@@ -211,7 +211,7 @@ Un calculateur peut fournir un premier ordre de grandeur, mais ne confirme pas u
 Pour une étude à Casablanca, Tecxodus demande notamment les formats et volumes à traiter. Transmettez quelques exemples de palettes ou colis afin de confirmer si le mode de stockage envisagé peut être étudié.
 
 ## Un particulier peut-il demander une solution d’entreposage ?
-URL : https://www.tecxodus.com/blog/entreposage-particulier-casablanca/
+URL : https://blog.tecxodus.com/entreposage-particulier-casablanca/
 Mot-clé : entreposage particulier Casablanca
 Description : Particulier à Casablanca : les informations à communiquer pour savoir si un besoin de stockage peut être étudié.
 
@@ -232,7 +232,7 @@ Ne déposez pas de marchandises dangereuses, périssables ou réglementées sans
 Contactez l’opérateur avec la liste et quelques photos pour vérifier que le besoin correspond à son activité. Tecxodus présente principalement des services d’entreposage et de préparation logistique ; l’acceptation de biens personnels et les modalités de garde-meubles ne sont pas garanties et doivent être confirmées avant tout déplacement.
 
 ## Entrepôt, plateforme ou centre de distribution ? | Tecxodus
-URL : https://www.tecxodus.com/blog/entrepot-plateforme-logistique-centre-distribution/
+URL : https://blog.tecxodus.com/entrepot-plateforme-logistique-centre-distribution/
 Mot-clé : différence entrepôt plateforme logistique
 Description : Comprenez les termes entrepôt, plateforme logistique et centre de distribution, puis vérifiez les opérations proposées.
 
@@ -253,7 +253,7 @@ Un flux de transit peut nécessiter des horaires et arrivées synchronisés, alo
 Fournissez des scénarios identiques aux opérateurs et demandez les coûts par opération, exclusions et responsabilités. Tecxodus peut étudier un besoin d’entreposage ou de préparation à Casablanca ; le type de flux, la durée et les services sont à confirmer selon le projet.
 
 ## Comment évaluer la proximité d’un entrepôt avec ses flux ?
-URL : https://www.tecxodus.com/blog/evaluer-proximite-entrepot-flux/
+URL : https://blog.tecxodus.com/evaluer-proximite-entrepot-flux/
 Mot-clé : entrepôt proche fournisseurs clients Casablanca
 Description : Évaluez une implantation logistique en comparant les trajets fournisseurs, clients, transporteurs et fréquences de mouvement.
 
@@ -274,7 +274,7 @@ Ajoutez les services disponibles, l’espace, les horaires d’accès, les équi
 Confrontez les estimations aux trajets observés ou demandez plusieurs devis transport sur les mêmes adresses et volumes. Tecxodus est implantée à Aïn Sebaâ, Casablanca ; la pertinence pour votre flux dépend des destinations et horaires réels, et doit être évaluée sur vos données.
 
 ## Stocker des marchandises importées au Maroc | Tecxodus
-URL : https://www.tecxodus.com/blog/entreposer-marchandises-importees-casablanca/
+URL : https://blog.tecxodus.com/entreposer-marchandises-importees-casablanca/
 Mot-clé : entreposage marchandises importées Casablanca
 Description : Marchandises importées : préparez les données de réception, documents et calendrier avant stockage et distribution.
 
@@ -295,7 +295,7 @@ Vérifiez les responsabilités de chaque intervenant : importateur, représentan
 Partagez les premières commandes, destinations et priorités pour organiser les sorties. Tecxodus peut étudier un besoin d’entreposage à Casablanca ; transport amont, formalités, contrôles et disponibilité sont à confirmer selon le projet.
 
 ## À quoi sert une zone industrielle dans un schéma logistique ?
-URL : https://www.tecxodus.com/blog/zone-industrielle-logistique-casablanca/
+URL : https://blog.tecxodus.com/zone-industrielle-logistique-casablanca/
 Mot-clé : zone industrielle logistique Casablanca
 Description : Une zone industrielle peut rapprocher certaines opérations logistiques. Évaluez accès, flux et services selon votre activité.
 
@@ -316,7 +316,7 @@ Pour comparer des sites, appliquez le même scénario de volumes et d’opérati
 Tecxodus indique son implantation à Softpark / Soft Logistic, à Aïn Sebaâ, Casablanca. Pour évaluer si cette zone convient, partagez les adresses, flux, marchandises et services souhaités. La capacité, les disponibilités et les opérations réalisables sont à confirmer selon le projet.
 
 ## Entrepôt près des fournisseurs ou des clients : comment choisir ?
-URL : https://www.tecxodus.com/blog/entrepot-pres-fournisseurs-ou-clients/
+URL : https://blog.tecxodus.com/entrepot-pres-fournisseurs-ou-clients/
 Mot-clé : emplacement entrepôt près fournisseurs ou clients
 Description : Faut-il stocker près des fournisseurs ou des clients ? Comparez les volumes, fréquences, délais et trajets de vos flux.
 
@@ -337,7 +337,7 @@ Examinez aussi la disponibilité du site, la capacité utile, les horaires d’a
 Construisez un tableau des trajets et des volumes par origine et destination, puis demandez des estimations aux transporteurs. Tecxodus indique une implantation à Aïn Sebaâ, Casablanca. La pertinence de cette localisation pour votre réseau dépendra des adresses, flux, accès et services nécessaires ; elle doit être évaluée sur vos données réelles.
 
 ## Checklist : que préparer avant une réception en entrepôt ?
-URL : https://www.tecxodus.com/blog/checklist-reception-entrepot-marchandises/
+URL : https://blog.tecxodus.com/checklist-reception-entrepot-marchandises/
 Mot-clé : checklist réception entrepôt marchandises
 Description : La checklist de réception : références, quantités, dimensions, documents, créneau, déchargement et anomalies.
 
@@ -368,7 +368,7 @@ Convenez des éléments à contrôler : nombre de palettes, état visible, réf�
 Demandez quand le stock reçu devient consultable et comment un écart est enregistré dans le WMS. Si les données diffèrent de l’avis initial, définissez qui peut les corriger et comment l’approvisionnement en est informé. Tecxodus étudie les réceptions à Casablanca selon les formats, produits, quantités et créneaux communiqués ; confirmez la compatibilité et les modalités avant l’expédition.
 
 ## Palette Europe 120 × 80 cm : quelles informations transmettre ?
-URL : https://www.tecxodus.com/blog/palette-europe-120x80-entrepot/
+URL : https://blog.tecxodus.com/palette-europe-120x80-entrepot/
 Mot-clé : palette Europe 120x80 entreposage
 Description : Pour réceptionner une palette Europe, précisez quantité, hauteur chargée, poids, stabilité et contenu homogène ou mixte.
 
@@ -399,7 +399,7 @@ Confirmez que le prestataire accepte le produit, le format, le poids et la haute
 Tecxodus étudie des besoins de réception et d’entreposage à Casablanca selon les données communiquées. Le calcul de surface du simulateur est indicatif ; l’emplacement et les conditions de réception doivent être validés par l’équipe opérationnelle.
 
 ## Palette UK 120 × 100 : stockage et manutention | Tecxodus
-URL : https://www.tecxodus.com/blog/palette-uk-120x100-entrepot/
+URL : https://blog.tecxodus.com/palette-uk-120x100-entrepot/
 Mot-clé : palette UK 120x100 entreposage
 Description : La palette UK de 120 × 100 cm a une emprise différente du format Europe. Signalez-la pour dimensionner la réception.
 
@@ -420,7 +420,7 @@ Pour les expéditions, transmettez le format au transporteur et vérifiez les li
 Envoyez les dimensions, le poids, une photo et les quantités prévues. Tecxodus peut étudier une demande d’entreposage à Casablanca ; la réception du format 120 × 100, les moyens disponibles et la capacité doivent être confirmés avant l’envoi.
 
 ## Palette hors gabarit : quelles dimensions communiquer ?
-URL : https://www.tecxodus.com/blog/palette-hors-gabarit-dimensions/
+URL : https://blog.tecxodus.com/palette-hors-gabarit-dimensions/
 Mot-clé : entreposage palette hors gabarit
 Description : Palette hors gabarit : communiquez longueur, largeur, hauteur, poids, stabilité et contraintes de prise.
 
@@ -441,7 +441,7 @@ Ne supposez pas qu’une unité peut être empilée ou soulevée comme une palet
 Envoyez dimensions, poids, photos, quantité, fréquence des mouvements et contraintes de livraison. Tecxodus peut étudier un besoin à Casablanca ; la réception, le matériel disponible et la capacité de stockage des unités hors gabarit sont à confirmer avant expédition.
 
 ## Palette homogène ou hétérogène : que choisir ? | Tecxodus
-URL : https://www.tecxodus.com/blog/palette-homogene-ou-heterogene/
+URL : https://blog.tecxodus.com/palette-homogene-ou-heterogene/
 Mot-clé : palette homogène hétérogène différence logistique
 Description : Une palette homogène porte une référence identique ; une palette hétérogène regroupe plusieurs références. Préparez les données.
 
@@ -462,7 +462,7 @@ Envoyez un exemple du fichier de réception, des étiquettes et des documents fo
 Pour préparer une réception chez Tecxodus à Casablanca, transmettez le nombre de palettes, les formats, les quantités par référence et toute contrainte de manutention. Les modalités de contrôle et de stockage sont à confirmer selon les marchandises et l’organisation retenue.
 
 ## Comment réceptionner des colis en vrac dans un entrepôt ?
-URL : https://www.tecxodus.com/blog/reception-colis-vrac-entrepot/
+URL : https://blog.tecxodus.com/reception-colis-vrac-entrepot/
 Mot-clé : réception colis en vrac entrepôt
 Description : Colis en vrac : estimez leur nombre, précisez leur conditionnement et convenez du contrôle et de la mise en stock.
 
@@ -483,7 +483,7 @@ Indiquez quand le stock devient disponible : dès le déchargement, après contr
 Fournissez des codes articles lisibles, les unités de mesure, les dimensions et les règles de lot ou de date si nécessaire. Tecxodus peut étudier la réception et le stockage de marchandises à Casablanca ; les formats acceptés, contrôles, créneaux et modalités de déchargement sont à confirmer selon le volume et les consignes.
 
 ## Données à transmettre pour une réception en entrepôt | Tecxodus
-URL : https://www.tecxodus.com/blog/donnees-reception-entrepot/
+URL : https://blog.tecxodus.com/donnees-reception-entrepot/
 Mot-clé : données réception stock entrepôt
 Description : Références, quantités, unités, lots et dimensions : les données utiles à transmettre pour une réception en stock.
 
@@ -504,7 +504,7 @@ Définissez la règle lorsque la réception réelle diffère de l’annonce : qu
 Utilisez des codes et unités cohérents dans les fichiers d’achat, ERP et WMS. Tecxodus peut étudier des opérations de réception à Casablanca ; les formats de fichiers, contrôles et modalités de transmission sont à confirmer selon les outils employés.
 
 ## Comment réaliser l’ingénierie logistique d’un entrepôt ?
-URL : https://www.tecxodus.com/blog/ingenierie-logistique-conception-entrepot/
+URL : https://blog.tecxodus.com/ingenierie-logistique-conception-entrepot/
 Mot-clé : ingénierie logistique entrepôt
 Description : Concevoir un entrepôt à partir des flux, surfaces, capacités, équipements, effectifs et scénarios de pointe.
 
@@ -525,7 +525,7 @@ La conception doit intégrer les charges, la circulation des personnes, les issu
 Testez les processus et données avec des commandes ou réceptions types avant la montée en charge. Mesurez les temps, erreurs et files d’attente, puis corrigez les points de blocage. Tecxodus peut étudier un besoin d’entreposage ou de préparation à Casablanca à partir des informations communiquées ; toute conception détaillée et capacité disponible doit être confirmée selon le projet.
 
 ## Comment calculer la surface nécessaire d’un entrepôt ? | Tecxodus
-URL : https://www.tecxodus.com/blog/calcul-surface-entrepot-zones/
+URL : https://blog.tecxodus.com/calcul-surface-entrepot-zones/
 Mot-clé : calcul surface entrepôt logistique
 Description : Estimez la surface d’entrepôt selon le stock, les palettes, les allées, les quais et les zones de préparation. Découvrez les hypothèses à vérifier avant l’aménagement.
 
@@ -546,7 +546,7 @@ Testez un jour normal et une journée de pointe, car les marchandises peuvent s�
 Transmettez les dimensions du bâtiment, les flux et les équipements à un professionnel compétent pour valider circulation, capacité et sécurité. Tecxodus peut étudier un besoin d’entreposage à Casablanca ; surface utile et disponibilité sont à confirmer selon les marchandises et les opérations.
 
 ## Comment calculer le nombre d’emplacements palettes ? | Tecxodus
-URL : https://www.tecxodus.com/blog/calcul-emplacements-palettes-entrepot/
+URL : https://blog.tecxodus.com/calcul-emplacements-palettes-entrepot/
 Mot-clé : calcul emplacements palettes entrepôt
 Description : Passez du stock maximal aux positions palettes, en tenant compte de l’occupation, des références et du rayonnage.
 
@@ -567,7 +567,7 @@ Préparez un scénario normal et un scénario de pointe, puis ajoutez les espace
 Partagez un fichier de stock par référence, formats, flux et plan du site avec l’exploitant. Tecxodus peut étudier les besoins d’espace à Casablanca ; le nombre d’emplacements et la capacité disponible doivent être confirmés selon les produits et l’organisation.
 
 ## Comment dimensionner un rayonnage à palettes ? | Tecxodus
-URL : https://www.tecxodus.com/blog/dimensionnement-rayonnage-palettes/
+URL : https://blog.tecxodus.com/dimensionnement-rayonnage-palettes/
 Mot-clé : dimensionnement rayonnage palettes
 Description : Données et étapes pour dimensionner les racks selon les palettes, charges, niveaux et contraintes du bâtiment.
 
@@ -588,7 +588,7 @@ Demandez les charges admissibles des composants, les plaques de capacité, la pr
 Comparez les emplacements accessibles, la densité, les déplacements et la flexibilité lorsque le nombre de références change. Transmettez le plan et les données de charge à un spécialiste pour obtenir une étude vérifiable. Tecxodus peut examiner le profil de stock pour un besoin à Casablanca ; la configuration de rayonnage et la capacité disponibles sont à confirmer après analyse.
 
 ## Quel système de rayonnage choisir selon le stock ? | Tecxodus
-URL : https://www.tecxodus.com/blog/choisir-systeme-rayonnage-entrepot/
+URL : https://blog.tecxodus.com/choisir-systeme-rayonnage-entrepot/
 Mot-clé : choisir système de rayonnage entrepôt
 Description : Comparez racks sélectifs, accumulation et solutions compactes selon les références, rotations et accès souhaités.
 
@@ -609,7 +609,7 @@ Ne choisissez pas uniquement sur le nombre théorique d’emplacements. Vérifie
 Transmettez un plan coté, les caractéristiques des charges, les flux quotidiens et les contraintes d’accès. Comparez capacité utile, accessibilité, opérations de manutention et coûts d’installation et de maintenance. Pour un besoin d’entreposage à Casablanca, Tecxodus peut étudier le profil de stock communiqué ; la configuration et la capacité disponibles sont à confirmer après analyse du besoin.
 
 ## Comment définir la largeur d’allée pour un chariot ? | Tecxodus
-URL : https://www.tecxodus.com/blog/largeur-allee-chariot-entrepot/
+URL : https://blog.tecxodus.com/largeur-allee-chariot-entrepot/
 Mot-clé : largeur allée chariot élévateur entrepôt
 Description : La largeur d’allée dépend de l’engin, la charge et les manœuvres : méthode de validation avant implantation.
 
@@ -630,7 +630,7 @@ Une implantation plus dense peut réduire la capacité de manœuvre ou complique
 Transmettez le plan coté, les modèles d’équipements, les charges et les flux observés. Ne modifiez pas la largeur d’allée sans validation de sécurité et de capacité du rayonnage. Tecxodus peut examiner un besoin d’entreposage communiqué à Casablanca ; l’implantation et les moyens de manutention du site doivent être confirmés pour les unités concernées.
 
 ## Comment calculer le nombre de chariots nécessaires ? | Tecxodus
-URL : https://www.tecxodus.com/blog/calcul-nombre-chariots-entrepot/
+URL : https://blog.tecxodus.com/calcul-nombre-chariots-entrepot/
 Mot-clé : calcul nombre chariots entrepôt
 Description : Estimez les chariots par les mouvements de pointe, cycles observés, heures utiles et contraintes d’exploitation.
 
@@ -651,7 +651,7 @@ Vérifiez les voies, zones de charge, entretien, disponibilité de batteries et 
 Partagez le plan, les flux de pointe, les références d’engins et les charges à un spécialiste compétent. Tecxodus peut étudier un besoin de manutention à Casablanca ; les équipements et capacités du site doivent être confirmés selon les unités et l’activité prévue.
 
 ## Quelles productivités mesurer pour les chariots par processus ?
-URL : https://www.tecxodus.com/blog/productivite-chariots-process-entrepot/
+URL : https://blog.tecxodus.com/productivite-chariots-process-entrepot/
 Mot-clé : productivité chariot élévateur entrepôt
 Description : Définissez des KPI de chariots en réception, rangement, réapprovisionnement et expédition sans cadence universelle.
 
@@ -672,7 +672,7 @@ Un indicateur peut aider à détecter une congestion, mais l’analyse doit exam
 Calculez les cycles requis au pic, les heures utiles et la disponibilité des équipements, puis validez le résultat avec les responsables sécurité et exploitation. Tecxodus peut étudier les flux de manutention communiqués pour un besoin à Casablanca ; les engins et capacités du site sont à confirmer.
 
 ## Comment calculer les effectifs logistiques par processus ?
-URL : https://www.tecxodus.com/blog/calcul-effectifs-productivite-process/
+URL : https://blog.tecxodus.com/calcul-effectifs-productivite-process/
 Mot-clé : calcul effectif entrepôt productivité processus
 Description : Calculez les heures de réception, rangement, picking, emballage et expédition à partir des volumes de pointe.
 
@@ -693,7 +693,7 @@ Ne réduisez pas la marge de sécurité au point de compromettre la qualité, le
 Comparez prévisions et activité réelle par processus et ajustez le planning lorsque les commandes changent. Tecxodus peut étudier les volumes et opérations transmis pour un projet à Casablanca ; effectifs, horaires et organisation doivent être confirmés selon les besoins et le site.
 
 ## Quels indicateurs de productivité suivre dans chaque processus ?
-URL : https://www.tecxodus.com/blog/productivite-par-process-entrepot/
+URL : https://blog.tecxodus.com/productivite-par-process-entrepot/
 Mot-clé : productivité par processus entrepôt logistique
 Description : KPI de réception, rangement, picking, emballage, inventaire et expédition avec unités de mesure explicites.
 
@@ -714,7 +714,7 @@ Utilisez les indicateurs pour enquêter sur les causes, pas seulement pour class
 Demandez quelles données sont extraites du WMS, à quelle fréquence et selon quelles définitions. Tecxodus indique proposer un suivi client des stocks et préparations ; les indicateurs et exports disponibles doivent être confirmés dans le périmètre du service.
 
 ## Comment dimensionner les quais et le staging ? | Tecxodus
-URL : https://www.tecxodus.com/blog/dimensionnement-quais-staging-entrepot/
+URL : https://blog.tecxodus.com/dimensionnement-quais-staging-entrepot/
 Mot-clé : dimensionnement quais staging entrepôt
 Description : Estimez les quais et zones de staging selon rendez-vous, palettes simultanées, durée d’attente et pics d’arrivée.
 
@@ -735,7 +735,7 @@ Testez les scénarios où un camion arrive en retard, une commande est incomplè
 Transmettez un plan coté et les données de flux à un professionnel compétent pour vérifier la circulation, sécurité et capacité. Tecxodus peut examiner les besoins de réception ou expédition communiqués à Casablanca ; configuration des quais, équipements et disponibilité sont à confirmer.
 
 ## Comment dimensionner l’entrepôt pour un pic saisonnier ?
-URL : https://www.tecxodus.com/blog/dimensionnement-entrepot-pic-saisonnier/
+URL : https://blog.tecxodus.com/dimensionnement-entrepot-pic-saisonnier/
 Mot-clé : dimensionnement entrepôt pic saisonnier
 Description : Planifiez stock, surface, équipes et équipements pour la pointe avec plusieurs scénarios opérationnels.
 
@@ -756,7 +756,7 @@ Une capacité théorique de stockage n’indique pas si les marchandises peuvent
 Indiquez comment le stock restant sera vendu, transféré ou réorganisé, et combien de temps il restera sur place. Tecxodus peut étudier un besoin saisonnier à Casablanca à partir de ces scénarios ; espace, effectifs, équipements, dates et tarifs sont à confirmer pour la période concernée.
 
 ## Formules de prix pour une prestation logistique | Tecxodus
-URL : https://www.tecxodus.com/blog/formules-prix-prestation-logistique/
+URL : https://blog.tecxodus.com/formules-prix-prestation-logistique/
 Mot-clé : formule prix prestation logistique 3PL
 Description : Comparez facturation au pallet, mouvement, commande, ligne, heure, surface ou forfait pour un service 3PL.
 
@@ -777,7 +777,7 @@ Comparez les formules sur les mêmes volumes historiques et un scénario de poin
 Transmettez le stock, les mouvements, commandes, lignes et formats attendus. Tecxodus établit une proposition selon le besoin communiqué à Casablanca ; les unités facturées, prix et minimums sont à confirmer dans le devis.
 
 ## Open book ou closed book : quel contrat logistique choisir ?
-URL : https://www.tecxodus.com/blog/open-book-closed-book-logistique/
+URL : https://blog.tecxodus.com/open-book-closed-book-logistique/
 Mot-clé : open book closed book logistique
 Description : Livre ouvert ou fermé en logistique : transparence, risque, revue des prix et choix selon la stabilité des flux.
 
@@ -798,7 +798,7 @@ Comparez le coût total, la prévisibilité, les efforts de contrôle et les ris
 Simulez les deux modèles sur des périodes et scénarios identiques. Tecxodus peut étudier une proposition logistique à Casablanca après analyse des flux ; le niveau de détail financier et les modalités tarifaires sont à convenir explicitement.
 
 ## Prix d’une prestation 3PL : exemple détaillé | Tecxodus
-URL : https://www.tecxodus.com/blog/exemple-prix-complet-prestation-3pl/
+URL : https://blog.tecxodus.com/exemple-prix-complet-prestation-3pl/
 Mot-clé : exemple prix contrat logistique 3PL
 Description : Découvrez les postes d’un devis 3PL : stockage, réceptions, mouvements, préparation, emballage et transport, puis comparez-les selon vos volumes réels.
 
@@ -819,7 +819,7 @@ Incluez les frais de transport et les tâches que vous conserverez en interne. V
 Demandez à chaque prestataire d’utiliser les mêmes données et de détailler les unités facturées. Tecxodus établit une proposition après étude du besoin communiqué à Casablanca ; prix, disponibilité et périmètre doivent être confirmés pour votre activité.
 
 ## Comment estimer le coût de chaque poste d’un entrepôt ?
-URL : https://www.tecxodus.com/blog/exemple-couts-entrepot-postes/
+URL : https://blog.tecxodus.com/exemple-couts-entrepot-postes/
 Mot-clé : coût postes entrepôt logistique
 Description : Décomposez les coûts d’entrepôt : personnel, surface, rayonnage, chariots, emballage, WMS, énergie et transport.
 
@@ -850,7 +850,7 @@ Coût unitaire = coût complet de la période ÷ volume conforme de la même pé
 Des tarifs européens publiés en ligne montrent que les unités de facturation diffèrent selon les périmètres. Warehousing Hub annonce une offre à partir de 5,50 € par palette/mois; ce prix européen n’est pas directement comparable au marché casablancais ni à Tecxodus. Obtenez des devis locaux avant toute estimation commerciale.
 
 ## Modèle hybride de coûts logistiques : options | Tecxodus
-URL : https://www.tecxodus.com/blog/modele-hybride-partage-gains-logistique/
+URL : https://blog.tecxodus.com/modele-hybride-partage-gains-logistique/
 Mot-clé : contrat logistique hybride open book closed book
 Description : Combinez coûts transparents et prix unitaires fermes avec seuils de volume, gains partagés et règles de changement.
 
@@ -871,7 +871,7 @@ Prévoyez une procédure en cas de désaccord, d’évolution des tarifs fournis
 Simulez le modèle sur plusieurs périodes et scénarios de volume. Tecxodus peut étudier une proposition logistique à Casablanca selon les flux communiqués ; les formules de coût et éventuels mécanismes de partage sont à convenir explicitement dans l’offre.
 
 ## Exemple de dimensionnement d’entrepôt : quelles étapes suivre ?
-URL : https://www.tecxodus.com/blog/exemple-dimensionnement-entrepot-cas-pratique/
+URL : https://blog.tecxodus.com/exemple-dimensionnement-entrepot-cas-pratique/
 Mot-clé : exemple dimensionnement entrepôt logistique
 Description : Exemple de pré-dimensionnement à partir du stock maximal, des positions, surfaces, chariots et effectifs.
 
@@ -892,7 +892,7 @@ Pour la main-d’œuvre, on sépare réception, rangement, picking et expéditio
 Ce pré-calcul sert à préparer la demande, pas à certifier un plan d’aménagement. Tecxodus peut étudier des données de stock et de flux à Casablanca ; capacité, configuration, équipements et effectifs sont à confirmer après analyse du besoin et du site.
 
 ## Comment mesurer les productivités avant de contractualiser ?
-URL : https://www.tecxodus.com/blog/mesurer-productivite-logistique-avant-contrat/
+URL : https://blog.tecxodus.com/mesurer-productivite-logistique-avant-contrat/
 Mot-clé : mesurer productivité logistique avant contrat
 Description : Mesurez les productivités avant contrat avec des échantillons, des unités et des règles de qualité explicites.
 
@@ -913,7 +913,7 @@ Demandez que les résultats mentionnent le volume traité, les exceptions, les r
 Appliquez le même jeu de données à chaque prestataire et vérifiez les limites des estimations. Comparez ensuite coûts, qualité, délais et règles d’escalade, pas un seul indicateur de vitesse. Tecxodus peut étudier un flux communiqué à Casablanca ; volumes, mesures et modalités d’essai sont à confirmer selon le besoin.
 
 ## Comparer des offres logistiques à périmètre égal | Tecxodus
-URL : https://www.tecxodus.com/blog/comparer-offres-prestataires-logistiques-perimetre/
+URL : https://blog.tecxodus.com/comparer-offres-prestataires-logistiques-perimetre/
 Mot-clé : comparer offres prestataires logistiques
 Description : Comparez deux devis 3PL à partir des mêmes volumes, opérations, exclusions et règles de facturation.
 
@@ -934,7 +934,7 @@ Comparez aussi les règles de stock, la gestion des écarts, les délais, les ho
 Projetez un mois normal, un pic et une baisse de volume avec les mêmes données pour tous les candidats. Incluez les frais de transport et les tâches conservées en interne. Tecxodus peut étudier une demande à Casablanca et établir une proposition selon ce périmètre ; tarifs et disponibilité sont à confirmer après analyse des besoins.
 
 ## Préparation de commandes et fulfillment : quelle différence ?
-URL : https://www.tecxodus.com/blog/preparation-commandes-fulfillment-difference/
+URL : https://blog.tecxodus.com/preparation-commandes-fulfillment-difference/
 Mot-clé : préparation de commandes fulfillment différence
 Description : La préparation est une opération du fulfillment. Comparez le périmètre exact des services avant de confier vos commandes.
 
@@ -963,7 +963,7 @@ Demandez de distinguer les frais de stockage, les mouvements, les lignes ou comm
 Tecxodus présente des services d’entreposage et de préparation à Casablanca. Le périmètre du fulfillment, les interfaces éventuelles, le transport et les produits acceptés sont confirmés au cas par cas ; le mot « fulfillment » ne vaut pas engagement sur une opération non cadrée.
 
 ## Comment se déroule le picking en entrepôt ? | Tecxodus
-URL : https://www.tecxodus.com/blog/picking-entrepot-definition-processus/
+URL : https://blog.tecxodus.com/picking-entrepot-definition-processus/
 Mot-clé : picking entrepôt définition processus
 Description : Le picking consiste à prélever les références d’une commande. Découvrez les données et consignes qui facilitent cette opération.
 
@@ -984,7 +984,7 @@ Le catalogue doit utiliser des codes uniques, des descriptions compréhensibles 
 Suivez les commandes et les lignes préparées, les erreurs détectées, les articles manquants et le temps de traitement selon une définition commune. Pour étudier le picking chez un prestataire à Casablanca, transmettez un échantillon anonymisé de commandes, les formats des produits et les contrôles attendus. Tecxodus peut examiner le périmètre de préparation selon les volumes et les consignes communiqués ; les modalités sont à confirmer avant démarrage.
 
 ## Comment préparer des commandes multi-références ? | Tecxodus
-URL : https://www.tecxodus.com/blog/preparation-commandes-multi-references/
+URL : https://blog.tecxodus.com/preparation-commandes-multi-references/
 Mot-clé : préparation commande multi références
 Description : Les commandes multi-références demandent des données produit cohérentes, des quantités fiables et des règles de regroupement claires.
 
@@ -1005,7 +1005,7 @@ Des commandes types aident à évaluer le nombre de lignes, les déplacements, l
 Partagez un échantillon anonymisé de commandes, le volume quotidien et les règles d’emballage. Demandez comment les commandes partielles et erreurs sont signalées. Tecxodus peut étudier la préparation multi-références à Casablanca ; méthodes et délais sont à confirmer selon les volumes et les données disponibles.
 
 ## Comment préparer une commande à article unique ? | Tecxodus
-URL : https://www.tecxodus.com/blog/preparation-commande-article-unique/
+URL : https://blog.tecxodus.com/preparation-commande-article-unique/
 Mot-clé : préparation commande mono référence entrepôt
 Description : Une commande mono-référence paraît simple, mais le format, la quantité, l’emballage et l’étiquetage restent à définir.
 
@@ -1026,7 +1026,7 @@ Une commande mono-référence en grande quantité peut demander une palettisatio
 Précisez les volumes quotidiens, les pics et les destinations. Demandez si le prix couvre picking, emballage, consommables et transport ou seulement la préparation. Tecxodus peut étudier une préparation à Casablanca selon ces éléments ; modalités et délais sont à confirmer selon le service retenu.
 
 ## Préparation par commande ou picking par lot : comment choisir ?
-URL : https://www.tecxodus.com/blog/picking-par-lot-ou-par-commande/
+URL : https://blog.tecxodus.com/picking-par-lot-ou-par-commande/
 Mot-clé : picking par lot ou par commande
 Description : Picking par commande ou par lot : comparez nombre de lignes, volume, regroupement et risque de tri avant de choisir.
 
@@ -1047,7 +1047,7 @@ Comparez les deux méthodes sur un échantillon réel : commandes, lignes, quant
 Vérifiez que les codes articles, unités et étiquettes permettent de séparer les commandes. Tecxodus peut étudier une méthode de picking à Casablanca sur la base des volumes et exemples communiqués ; organisation et performance doivent être validées par un essai représentatif.
 
 ## Comment réduire les erreurs de préparation de commandes ?
-URL : https://www.tecxodus.com/blog/reduire-erreurs-preparation/
+URL : https://blog.tecxodus.com/reduire-erreurs-preparation/
 Mot-clé : réduire erreurs préparation commandes entrepôt
 Description : Réduisez les erreurs de picking avec des références cohérentes, des instructions lisibles et un contrôle adapté au risque.
 
@@ -1068,7 +1068,7 @@ Analysez aussi les commandes partielles, ruptures et changements tardifs, qui pe
 Suivez les erreurs confirmées par type et rapportez-les au nombre de lignes ou commandes sur le même périmètre. Convenez de la preuve utilisée et d’une période de référence. Tecxodus peut étudier les contrôles de préparation à Casablanca selon le flux ; outils, statuts et niveaux de contrôle sont à confirmer.
 
 ## Quelle checklist utiliser avant l’expédition d’une commande ?
-URL : https://www.tecxodus.com/blog/checklist-controle-expedition-commande/
+URL : https://blog.tecxodus.com/checklist-controle-expedition-commande/
 Mot-clé : checklist contrôle expédition commande
 Description : Vérifiez commande, références, quantités, emballage, étiquette et documents avant la remise au transporteur.
 
@@ -1089,7 +1089,7 @@ Définissez la preuve de contrôle et la conduite à tenir en cas d’erreur : c
 Un contrôle trop long peut ralentir les commandes sans ajouter de vérification utile ; un contrôle trop court laisse passer les erreurs. Testez la checklist sur plusieurs types de commandes et ajustez-la avec les personnes qui préparent et reçoivent les marchandises. Tecxodus peut étudier des contrôles d’expédition à Casablanca selon les consignes ; leur contenu et leur preuve sont à confirmer dans le périmètre de service.
 
 ## Comment organiser les retours e-commerce dans un entrepôt ?
-URL : https://www.tecxodus.com/blog/gestion-retours-ecommerce-entrepot/
+URL : https://blog.tecxodus.com/gestion-retours-ecommerce-entrepot/
 Mot-clé : gestion retours e-commerce entrepôt
 Description : Définissez réception, identification, contrôle, décision et remise en stock pour structurer les retours e-commerce.
 
@@ -1110,7 +1110,7 @@ Si un outil de gestion des retours, une boutique en ligne et un WMS échangent d
 Suivez les volumes reçus, les délais de contrôle, les motifs et les quantités remises en stock ou bloquées. Pour comparer une prestation à Casablanca, transmettez un échantillon anonymisé de retours, les opérations souhaitées et les règles de décision. Tecxodus peut étudier la réception et les opérations associées selon le cahier des charges ; le traitement commercial du remboursement et les intégrations restent à définir avec les parties concernées.
 
 ## Comment préparer l’entrepôt à un pic de commandes ? | Tecxodus
-URL : https://www.tecxodus.com/blog/preparer-entrepot-pic-commandes/
+URL : https://blog.tecxodus.com/preparer-entrepot-pic-commandes/
 Mot-clé : préparer entrepôt pic commandes
 Description : Anticipez un pic de commandes avec un calendrier, des prévisions de stock, des commandes types et des règles d’arbitrage.
 
@@ -1131,7 +1131,7 @@ Testez un lot de commandes représentatif et assurez-vous que les données produ
 Partagez les volumes, dates, commandes types et opérations attendues avec le prestataire. Tecxodus peut étudier un besoin de stockage et préparation à Casablanca ; l’espace, les équipes, les horaires et le transport sont à confirmer selon la période et le projet.
 
 ## Que mettre dans un SLA de préparation de commandes ? | Tecxodus
-URL : https://www.tecxodus.com/blog/sla-preparation-commandes/
+URL : https://blog.tecxodus.com/sla-preparation-commandes/
 Mot-clé : SLA préparation commandes entrepôt
 Description : Un SLA logistique doit définir périmètre, horaires de commande, indicateurs, exceptions, escalade et responsabilités.
 
@@ -1152,7 +1152,7 @@ Un SLA doit aussi prévoir comment les résultats sont partagés, examinés et c
 Demandez si les statuts et horodatages nécessaires sont enregistrés et exportables. Tecxodus indique proposer un suivi client des préparations via WMS ; les indicateurs et niveaux de service doivent être confirmés et formalisés dans l’offre applicable.
 
 ## Quelles étapes entre la commande client et l’expédition ?
-URL : https://www.tecxodus.com/blog/etapes-traitement-commande-entrepot/
+URL : https://blog.tecxodus.com/etapes-traitement-commande-entrepot/
 Mot-clé : étapes traitement commande entrepôt
 Description : Cartographiez transmission, validation, prélèvement, contrôle, emballage et remise au transporteur pour fiabiliser le cycle commande.
 
@@ -1173,7 +1173,7 @@ Avant la sortie, rapprochez les unités préparées de la commande, identifiez l
 Analysez les commandes bloquées, erreurs et retards avec des définitions communes. Le WMS peut enregistrer des événements, mais les données visibles et leur fréquence doivent être confirmées. Tecxodus présente un suivi client des stocks et préparations via WMS ; le flux exact est à valider selon les outils et services retenus.
 
 ## Délai de préparation : facteurs à connaître | Tecxodus
-URL : https://www.tecxodus.com/blog/delai-preparation-commande-facteurs/
+URL : https://blog.tecxodus.com/delai-preparation-commande-facteurs/
 Mot-clé : délai préparation commande facteurs logistique
 Description : Le délai dépend des horaires de commande, des références, des stocks disponibles, du conditionnement et du calendrier d’expédition.
 
@@ -1194,7 +1194,7 @@ Pour mesurer le délai, définissez le début et la fin : instruction valide jus
 Partagez des commandes types, volumes et heures limites, puis demandez un indicateur défini sur les mêmes hypothèses. Tecxodus peut étudier des délais de préparation à Casablanca selon les flux ; niveau de service, horaires et exceptions sont à confirmer dans l’offre.
 
 ## Comment suivre l’avancement d’une préparation de commande ?
-URL : https://www.tecxodus.com/blog/suivi-avancement-preparation-commande/
+URL : https://blog.tecxodus.com/suivi-avancement-preparation-commande/
 Mot-clé : suivi avancement préparation commande WMS
 Description : Un suivi utile distingue commande reçue, en préparation, contrôlée et expédiée, avec une définition claire de chaque statut.
 
@@ -1215,7 +1215,7 @@ Vérifiez la fréquence de mise à jour et la façon dont les annulations ou cha
 Demandez une démonstration ou un exemple de rapport avant de vous engager sur un niveau de visibilité. Tecxodus indique proposer un suivi client des préparations via WMS ; les statuts disponibles, délais de mise à jour et informations de livraison sont à confirmer selon le service retenu.
 
 ## Quel rôle peut jouer une caméra dans le suivi d’un entrepôt ?
-URL : https://www.tecxodus.com/blog/camera-acces-client-suivi-entrepot/
+URL : https://blog.tecxodus.com/camera-acces-client-suivi-entrepot/
 Mot-clé : caméra accès client entrepôt suivi opérations
 Description : La caméra peut compléter le suivi opérationnel. Définissez accès, horaires, zones visibles et règles avec le prestataire.
 
@@ -1236,7 +1236,7 @@ Ne supposez pas que chaque emplacement ou opération est filmé, ni qu’une vid
 Si l’accès vidéo est important pour votre activité, demandez une confirmation écrite des zones, délais et modalités. Tecxodus doit confirmer si une consultation caméra client est disponible et sous quelles conditions ; le suivi WMS et l’accès vidéo sont des fonctionnalités distinctes à vérifier.
 
 ## Qu’est-ce qu’un WMS et à quoi sert-il ? | Tecxodus
-URL : https://www.tecxodus.com/blog/wms-gestion-entrepot-definition/
+URL : https://blog.tecxodus.com/wms-gestion-entrepot-definition/
 Mot-clé : WMS gestion entrepôt définition
 Description : Un WMS organise les opérations et données d’entrepôt. Vérifiez ses fonctions, interfaces et accès lors du choix d’un prestataire.
 
@@ -1265,7 +1265,7 @@ Tecxodus présente un accès client au WMS pour consulter des stocks et suivre d
 Un WMS améliore la visibilité lorsqu’il repose sur des données et des processus définis. Il complète les règles de réception, de rangement et de contrôle ; il ne remplace pas leur validation opérationnelle.
 
 ## Comment consulter son stock en temps réel chez un prestataire ?
-URL : https://www.tecxodus.com/blog/consulter-stock-entrepot-temps-reel/
+URL : https://blog.tecxodus.com/consulter-stock-entrepot-temps-reel/
 Mot-clé : consulter stock entrepôt temps réel client
 Description : Pour suivre un stock chez un prestataire, vérifiez les mouvements visibles, la fréquence de mise à jour et les règles d’écart.
 
@@ -1288,7 +1288,7 @@ Tecxodus présente un accès WMS client pour le suivi des stocks et des prépara
 Choisissez quelques références et rapprochez, sur une même période, le stock attendu, les entrées, les sorties et le stock observé. Testez le traitement d’une anomalie et conservez les règles de rapprochement dans le processus convenu avec le prestataire.
 
 ## Comment améliorer la fiabilité des données de stock ? | Tecxodus
-URL : https://www.tecxodus.com/blog/fiabilite-donnees-stock/
+URL : https://blog.tecxodus.com/fiabilite-donnees-stock/
 Mot-clé : fiabilité données stock entrepôt
 Description : Références uniques, annonces de réception, mouvements enregistrés et traitement des écarts contribuent à la fiabilité du stock.
 
@@ -1309,7 +1309,7 @@ Organisez des contrôles adaptés : rapprochement des réceptions, vérification
 Si le stock est partagé entre ERP, WMS et boutique, définissez les champs et le système de référence pour chacun. Testez la fréquence de mise à jour et le traitement des erreurs. Tecxodus indique proposer un accès WMS client ; les données consultables et leur cadence doivent être confirmées selon les modalités de service retenues.
 
 ## Comment faire un inventaire quand le stock est externalisé ?
-URL : https://www.tecxodus.com/blog/inventaire-stock-externalise/
+URL : https://blog.tecxodus.com/inventaire-stock-externalise/
 Mot-clé : inventaire stock externalisé entrepôt
 Description : Préparez un inventaire externalisé en définissant périmètre, date de coupure, références, comptage et traitement des écarts.
 
@@ -1330,7 +1330,7 @@ Présentez les quantités théoriques et comptées, les écarts par référence 
 Avant de confier un inventaire à un prestataire à Casablanca, transmettez le nombre de références, la répartition des emplacements, le calendrier et les règles de rapprochement. Tecxodus peut étudier le périmètre communiqué ; la méthode, le délai et les moyens sont à confirmer pour chaque opération.
 
 ## FIFO, FEFO, LIFO : choisir une règle de rotation | Tecxodus
-URL : https://www.tecxodus.com/blog/fifo-fefo-lifo-rotation-stock/
+URL : https://blog.tecxodus.com/fifo-fefo-lifo-rotation-stock/
 Mot-clé : FIFO FEFO LIFO gestion stock entrepôt
 Description : FIFO, FEFO et LIFO répondent à des logiques différentes. Choisissez une règle compatible avec vos produits et vos obligations.
 
@@ -1351,7 +1351,7 @@ Testez la règle sur des exemples d’arrivées et de commandes, notamment lorsq
 Demandez comment le WMS guide le prélèvement et comment une dérogation est tracée. Tecxodus indique proposer un suivi WMS des stocks et préparations ; les règles de rotation configurables sont à confirmer selon les produits et le périmètre opérationnel retenu.
 
 ## Quels indicateurs suivre pour piloter un stock externalisé ?
-URL : https://www.tecxodus.com/blog/indicateurs-stock-externalise/
+URL : https://blog.tecxodus.com/indicateurs-stock-externalise/
 Mot-clé : indicateurs stock externalisé entrepôt
 Description : Suivez disponibilité, mouvements, commandes en préparation et écarts avec des définitions communes au client et au prestataire.
 
@@ -1372,7 +1372,7 @@ Un tableau de bord peut présenter tendance, volume et exceptions plutôt qu’u
 Demandez un exemple d’écran ou d’export WMS et vérifiez le délai de mise à jour. Tecxodus indique proposer un suivi client des stocks et préparations ; les KPI consultables et leur cadence sont à confirmer pour le service retenu.
 
 ## Qu’est-ce que le copacking et quand le demander ? | Tecxodus
-URL : https://www.tecxodus.com/blog/copacking-definition-entrepot/
+URL : https://blog.tecxodus.com/copacking-definition-entrepot/
 Mot-clé : copacking définition entrepôt
 Description : Le copacking regroupe des opérations de conditionnement ou d’assemblage. Décrivez les composants, quantités et contrôles attendus.
 
@@ -1393,7 +1393,7 @@ Précisez qui fournit les matériaux et comment les emballages sont facturés. C
 Les produits fragiles, réglementés ou soumis à des exigences spécifiques nécessitent une validation préalable. Tecxodus peut étudier des opérations de conditionnement à façon à Casablanca selon le cahier des charges ; produits acceptés, volumes, matériaux et tarifs sont à confirmer avant démarrage.
 
 ## Comment préparer un kit ou un coffret en entrepôt ? | Tecxodus
-URL : https://www.tecxodus.com/blog/preparation-kit-coffret-entrepot/
+URL : https://blog.tecxodus.com/preparation-kit-coffret-entrepot/
 Mot-clé : préparation kit coffret entrepôt
 Description : Préparez un kit avec une nomenclature détaillée, des composants identifiés, un ordre d’assemblage et un contrôle convenu.
 
@@ -1414,7 +1414,7 @@ Fournissez les quantités à assembler, le calendrier, les pics et les matériau
 Demandez une ventilation par kit ou lot, avec réglage, approvisionnement, contrôle et emballage séparés. Tecxodus peut étudier des opérations de kitting ou conditionnement à Casablanca selon le cahier des charges ; volumes, composants et faisabilité sont à confirmer avant engagement.
 
 ## Conditionnement à façon : préparer un devis | Tecxodus
-URL : https://www.tecxodus.com/blog/conditionnement-a-facon-logistique/
+URL : https://blog.tecxodus.com/conditionnement-a-facon-logistique/
 Mot-clé : conditionnement à façon logistique
 Description : Pour étudier un conditionnement à façon, précisez format fini, matériaux, gestes, volumes, cadence et critères qualité.
 
@@ -1435,7 +1435,7 @@ Si le produit a des exigences réglementaires ou de conservation, fournissez les
 Demandez une ventilation entre réglage, main-d’œuvre, matériaux, contrôle, stockage temporaire et gestion des non-conformités. Tecxodus peut étudier des opérations de conditionnement à façon à Casablanca selon le cahier des charges ; produits, cadence, volumes et prix sont à confirmer.
 
 ## Fardelage et filmage de palettes : à quoi servent-ils ?
-URL : https://www.tecxodus.com/blog/fardelage-filmage-palette-entrepot/
+URL : https://blog.tecxodus.com/fardelage-filmage-palette-entrepot/
 Mot-clé : fardelage filmage palette entrepôt
 Description : Le filmage stabilise certains colis sur palette pour leur manutention. Définissez le film, le nombre de tours et les contraintes.
 
@@ -1454,7 +1454,7 @@ Si l’opération est faite à la réception, définissez qui autorise le recond
 Tecxodus mentionne le fardelage parmi les opérations pouvant être étudiées selon le cahier des charges. Pour demander un chiffrage à Casablanca, transmettez une photo ou un exemple de palette, les dimensions, le poids et le résultat de protection souhaité. La compatibilité et les modalités restent à valider avant toute opération.
 
 ## Étiquetage et réétiquetage de produits : que faut-il cadrer ?
-URL : https://www.tecxodus.com/blog/etiquetage-reetiquetage-produit-entrepot/
+URL : https://blog.tecxodus.com/etiquetage-reetiquetage-produit-entrepot/
 Mot-clé : étiquetage réétiquetage produit entrepôt
 Description : Cadrer un étiquetage : fichier validé, emplacement, format, lot, contrôle et procédure en cas d’étiquette illisible.
 
@@ -1475,7 +1475,7 @@ Pour des produits réglementés, les textes et exigences doivent être validés 
 Partagez un échantillon, le volume, la cadence et les contrôles souhaités pour obtenir une estimation. Tecxodus peut étudier l’étiquetage ou le réétiquetage à façon à Casablanca selon le cahier des charges ; faisabilité, matériaux et coût sont à confirmer avant lancement.
 
 ## Comment choisir un emballage pour expédier une commande ?
-URL : https://www.tecxodus.com/blog/choisir-emballage-expedition/
+URL : https://blog.tecxodus.com/choisir-emballage-expedition/
 Mot-clé : choisir emballage expédition commande
 Description : Choisissez un emballage selon dimensions, poids, fragilité, protection et mode de transport, puis testez-le sur vos colis réels.
 
@@ -1496,7 +1496,7 @@ Testez l’emballage sur des commandes représentatives et inspectez les dommage
 Précisez qui fournit cartons, ruban, calage et étiquettes, comment les consommations sont mesurées et ce qui est facturé. Tecxodus peut étudier des consignes de conditionnement à Casablanca selon le cahier des charges ; les matériaux, tests et modalités doivent être confirmés avant l’envoi des commandes.
 
 ## Coffrets promotionnels : préparer l’assemblage | Tecxodus
-URL : https://www.tecxodus.com/blog/assemblage-coffret-promotionnel/
+URL : https://blog.tecxodus.com/assemblage-coffret-promotionnel/
 Mot-clé : assemblage coffret promotionnel logistique
 Description : Organisez une campagne de coffrets avec un calendrier, une nomenclature, des échantillons, des matériaux et des critères de contrôle.
 
@@ -1517,7 +1517,7 @@ Partagez les quantités par date, la disponibilité des composants, les variante
 Tecxodus peut étudier une opération de kitting ou conditionnement à Casablanca selon les instructions fournies ; les produits acceptés, volumes, consommables, tarifs et dates doivent être confirmés avant lancement.
 
 ## Contrôle qualité à la réception : que peut-on vérifier ?
-URL : https://www.tecxodus.com/blog/controle-qualite-reception-marchandises/
+URL : https://blog.tecxodus.com/controle-qualite-reception-marchandises/
 Mot-clé : contrôle qualité réception marchandises entrepôt
 Description : Définissez les contrôles de réception : état des colis, comptage, références, photos, réserves et critères d’escalade.
 
@@ -1538,7 +1538,7 @@ Une règle claire pour les écarts accélère les décisions : délai de répons
 Indiquez la part des réceptions contrôlées, le nombre de références et les preuves souhaitées. Demandez si le temps de contrôle, les consommables et le stockage en attente sont facturés à part. Tecxodus peut étudier un contrôle de réception à Casablanca selon le cahier des charges ; méthode et capacités sont à confirmer.
 
 ## Pick and pack : comment fonctionne cette prestation logistique ?
-URL : https://www.tecxodus.com/blog/pick-and-pack-maroc-entrepot/
+URL : https://blog.tecxodus.com/pick-and-pack-maroc-entrepot/
 Mot-clé : pick and pack Maroc entrepôt
 Description : Le pick and pack combine prélèvement et emballage. Définissez les références, les commandes types, les matériaux et les contrôles.
 
@@ -1559,7 +1559,7 @@ Clarifiez l’heure limite de réception des commandes, la fréquence des dépar
 Pour obtenir une proposition à Casablanca, transmettez les volumes par période, destinations, commandes types et règles de conditionnement. Un pilote peut valider les étiquettes et la qualité d’emballage avant de traiter le flux complet. Tecxodus peut étudier le besoin de préparation communiqué ; les opérations, tarifs, transport et délais restent à confirmer selon le projet.
 
 ## Quelles opérations à valeur ajoutée demander à un entrepôt ?
-URL : https://www.tecxodus.com/blog/services-valeur-ajoutee-entrepot/
+URL : https://blog.tecxodus.com/services-valeur-ajoutee-entrepot/
 Mot-clé : services à valeur ajoutée entrepôt logistique
 Description : Copacking, kitting, emballage ou étiquetage peuvent compléter le stockage. Décrivez le résultat et les contrôles attendus.
 
@@ -1578,7 +1578,7 @@ Définissez les points à vérifier : référence, quantité, lot, aspect, lisib
 Demandez si le prix est établi par unité, opération, lot ou temps passé, et si les consommables, réglages, contrôles ou rebuts sont inclus. Séparez ces frais du stockage et du transport pour comprendre le coût complet. Tecxodus mentionne des opérations de préparation et de conditionnement à étudier selon le cahier des charges. La faisabilité, les volumes, les matériaux et les tarifs sont à confirmer pour chaque demande.
 
 ## Entreposage et transport : un seul prestataire ? | Tecxodus
-URL : https://www.tecxodus.com/blog/prestataire-entreposage-transport/
+URL : https://blog.tecxodus.com/prestataire-entreposage-transport/
 Mot-clé : prestataire entreposage et transport logistique
 Description : Confier stockage et transport au même interlocuteur peut simplifier la coordination. Comparez couverture, responsabilités et données.
 
@@ -1599,7 +1599,7 @@ Un interlocuteur unique peut réduire les échanges entre entreprises, mais dema
 À Casablanca, confrontez l’implantation du stock aux adresses de vos fournisseurs et clients, aux accès et aux horaires de réception. Tecxodus peut étudier un besoin de stockage et de préparation ; le transport, les zones desservies, les tarifs et l’organisation disponible doivent être confirmés pour chaque demande.
 
 ## Peut-on inclure la livraison dans une demande d’entreposage ?
-URL : https://www.tecxodus.com/blog/entreposage-avec-livraison-casablanca/
+URL : https://blog.tecxodus.com/entreposage-avec-livraison-casablanca/
 Mot-clé : entreposage avec livraison Casablanca
 Description : Ajoutez une demande de livraison à votre projet d’entreposage en indiquant destinations, fréquence, volumes et contraintes.
 
@@ -1626,7 +1626,7 @@ Définissez l’heure de transmission des commandes, le moment où elles doivent
 Faites distinguer les frais d’entreposage, de préparation, de transport et les éventuels suppléments. Comparez des destinations et volumes identiques et demandez les exclusions ou minimums. Tecxodus étudie les besoins de stockage et peut examiner le volet livraison selon les destinations et conditions applicables à Casablanca. La disponibilité et le tarif sont confirmés dans la proposition.
 
 ## Devis de livraison : informations à fournir | Tecxodus
-URL : https://www.tecxodus.com/blog/devis-livraison-marchandises-informations/
+URL : https://blog.tecxodus.com/devis-livraison-marchandises-informations/
 Mot-clé : devis livraison marchandises informations
 Description : Pour étudier une livraison, communiquez origine, destination, dimensions, poids, fréquence, accès et service attendu.
 
@@ -1657,7 +1657,7 @@ Demandez les hypothèses, les exclusions, les minimums et les frais associés à
 Tecxodus peut étudier le volet expédition ou livraison avec un besoin d’entreposage à Casablanca selon les destinations et conditions. Communiquez un scénario représentatif pour vérifier ce qui est disponible et inclus.
 
 ## Livraisons depuis un entrepôt à Casablanca | Tecxodus
-URL : https://www.tecxodus.com/blog/organiser-livraisons-entrepot-casablanca/
+URL : https://blog.tecxodus.com/organiser-livraisons-entrepot-casablanca/
 Mot-clé : organisation livraison entrepôt Casablanca
 Description : Organisez les départs de Casablanca avec des destinations, créneaux, volumes, documents et règles de priorité clairement définis.
 
@@ -1680,7 +1680,7 @@ Le choix d’un entrepôt à Casablanca, notamment à Aïn Sebaâ, doit être é
 Transmettez le même échantillon d’adresses et de commandes à chaque interlocuteur. Demandez de séparer les opérations de préparation, les frais de transport, les contraintes de créneau et les cas particuliers. Vous pourrez alors comparer les offres sur le même périmètre, sans confondre stockage et livraison.
 
 ## Comment gérer des livraisons vers plusieurs destinations ?
-URL : https://www.tecxodus.com/blog/livraison-marchandises-plusieurs-destinations/
+URL : https://blog.tecxodus.com/livraison-marchandises-plusieurs-destinations/
 Mot-clé : livraison marchandises plusieurs destinations
 Description : Des livraisons multi-destinations exigent un plan par adresse, quantités, priorités, créneaux et preuves de remise.
 
@@ -1703,7 +1703,7 @@ La consolidation peut faciliter l’organisation lorsqu’elle est compatible av
 Envoyez aux prestataires le même jeu de commandes et d’adresses. Demandez comment sont traités les rendez-vous, les retours de preuve de livraison, les échecs de présentation et les changements après validation. Faites préciser le périmètre de chaque prix et les opérations exclues avant de retenir une organisation.
 
 ## Qu’est-ce que la consolidation des expéditions ? | Tecxodus
-URL : https://www.tecxodus.com/blog/consolidation-expeditions-logistique/
+URL : https://blog.tecxodus.com/consolidation-expeditions-logistique/
 Mot-clé : consolidation expéditions logistique définition
 Description : La consolidation regroupe plusieurs envois selon leur destination ou calendrier. Vérifiez compatibilité, documents et responsabilités.
 
@@ -1724,7 +1724,7 @@ Pour comparer une expédition consolidée à des départs séparés, estimez les
 À Casablanca, transmettez les destinations, volumes, horaires, dimensions et contraintes de réception. Un essai sur une période limitée peut vérifier la qualité du tri et les délais réels. Tecxodus peut étudier une organisation de préparation ou de consolidation selon les flux décrits ; le transport et les zones couvertes sont à confirmer.
 
 ## Comment préparer un stock pour l’enlèvement par un transporteur ?
-URL : https://www.tecxodus.com/blog/preparer-stock-enlevement-transporteur/
+URL : https://blog.tecxodus.com/preparer-stock-enlevement-transporteur/
 Mot-clé : préparer marchandises enlèvement transporteur entrepôt
 Description : Préparez l’enlèvement avec unités identifiées, quantités rapprochées, documents, créneau et consignes de chargement.
 
@@ -1745,7 +1745,7 @@ Une preuve de remise peut préciser date, heure, nombre d’unités et réserves
 Vérifiez si le transporteur est choisi par votre entreprise ou par le prestataire, et qui organise le rendez-vous. Tecxodus peut étudier la préparation d’un stock à Casablanca ; l’enlèvement, les horaires, les moyens de chargement et les documents acceptés sont à confirmer pour chaque organisation.
 
 ## Cross-docking ou entreposage : quelle solution étudier ?
-URL : https://www.tecxodus.com/blog/cross-docking-ou-entreposage/
+URL : https://blog.tecxodus.com/cross-docking-ou-entreposage/
 Mot-clé : cross docking ou entreposage différence
 Description : Le cross-docking réduit le temps de stockage lorsque entrées et sorties sont synchronisées. Comparez-le à un stock tampon.
 
@@ -1766,7 +1766,7 @@ Un entreposage court peut absorber un décalage entre réceptions et commandes, 
 Fournissez des exemples d’arrivées, de commandes et de destinations, ainsi que les horaires et les taux d’écart connus. Un pilote sur un flux limité permet de mesurer les attentes, erreurs et mouvements réellement nécessaires. Tecxodus peut étudier un schéma de transit ou d’entreposage selon les informations communiquées ; la faisabilité, les délais et les tarifs sont à confirmer.
 
 ## Comment relier le suivi des stocks au suivi des livraisons ?
-URL : https://www.tecxodus.com/blog/suivi-stock-et-livraison-logistique/
+URL : https://blog.tecxodus.com/suivi-stock-et-livraison-logistique/
 Mot-clé : suivi stock et livraison logistique
 Description : Reliez disponibilité, préparation, expédition et preuve de livraison avec des statuts et identifiants communs.
 
@@ -1787,7 +1787,7 @@ Testez les cas fréquents : livraison partielle, adresse inaccessible, commande 
 Affichez des libellés simples et expliquez les étapes qui nécessitent une action. Évitez de promettre une actualisation instantanée sans l’avoir vérifiée dans les systèmes concernés. Tecxodus indique proposer un suivi client des stocks et préparations via WMS ; les statuts visibles, les données de transport et leur fréquence sont à confirmer selon les outils et le service retenu.
 
 ## Comment comparer une offre entreposage + transport ? | Tecxodus
-URL : https://www.tecxodus.com/blog/comparer-offre-entreposage-transport/
+URL : https://blog.tecxodus.com/comparer-offre-entreposage-transport/
 Mot-clé : comparer offre entreposage transport logistique
 Description : Comparez stockage et transport en séparant les unités facturées, responsabilités, zones couvertes, exceptions et suivi.
 
@@ -1808,7 +1808,7 @@ Comparez aussi l’accès aux données, les règles de stock, les délais annonc
 Projetez plusieurs mois normaux et une période de pointe, puis faites apparaître les coûts conservés en interne. Tecxodus peut établir une proposition pour un besoin à Casablanca après étude ; la disponibilité du transport et le périmètre de chaque service doivent être confirmés dans le devis.
 
 ## Comment fonctionne la logistique e-commerce externalisée ?
-URL : https://www.tecxodus.com/blog/logistique-ecommerce-externalisee-maroc/
+URL : https://blog.tecxodus.com/logistique-ecommerce-externalisee-maroc/
 Mot-clé : logistique e-commerce externalisée Maroc
 Description : Stockage, préparation et expédition e-commerce : définissez flux de commandes, emballages, données et suivi avant externalisation.
 
@@ -1837,7 +1837,7 @@ Faites chiffrer séparément le stockage, la réception, le picking, l’emballa
 Tecxodus étudie à Casablanca des besoins d’entreposage et de préparation selon les volumes et opérations communiqués. La compatibilité des outils e-commerce et les modalités de livraison doivent être confirmées dans l’offre.
 
 ## Un e-commerce en lancement doit-il externaliser son stockage ?
-URL : https://www.tecxodus.com/blog/stockage-ecommerce-lancement/
+URL : https://blog.tecxodus.com/stockage-ecommerce-lancement/
 Mot-clé : stockage e-commerce lancement activité
 Description : Au lancement, comparez stockage interne et externalisé à partir du stock initial, des prévisions, des commandes et des ressources.
 
@@ -1868,7 +1868,7 @@ Comparez le coût total : espace, personnel, emballage, outils, erreurs, transpo
 Tecxodus peut étudier un besoin d’entreposage et de préparation à Casablanca. La compatibilité des produits, l’intégration aux outils de vente et les conditions de livraison doivent être confirmées avant de transférer le stock.
 
 ## Comment absorber une hausse saisonnière des commandes ?
-URL : https://www.tecxodus.com/blog/stockage-saisonnier-pics-activite/
+URL : https://blog.tecxodus.com/stockage-saisonnier-pics-activite/
 Mot-clé : stockage saisonnier hausse commandes e-commerce
 Description : Préparez une hausse saisonnière avec un calendrier, des prévisions de stock, des commandes types et des règles de priorité.
 
@@ -1889,7 +1889,7 @@ Définissez une zone ou règle de rangement temporaire, le suivi des unités sai
 Comparez le coût d’un espace additionnel, des mouvements, des préparations et du transport sur la période réelle. Pour un pic à Casablanca, Tecxodus peut étudier les volumes, dates et opérations communiqués ; les disponibilités, la durée et les modalités doivent être confirmées à l’avance.
 
 ## Externalisation de l’entreposage en grande entreprise | Tecxodus
-URL : https://www.tecxodus.com/blog/externalisation-entrepot-grande-entreprise/
+URL : https://blog.tecxodus.com/externalisation-entrepot-grande-entreprise/
 Mot-clé : externalisation entreposage grande entreprise
 Description : Grande entreprise : définissez le flux à externaliser, les interfaces, les responsabilités, indicateurs et exigences de gouvernance.
 
@@ -1920,7 +1920,7 @@ Comparez les offres à périmètre constant : stockage, mouvements, préparation
 Tecxodus peut étudier à Casablanca un flux d’entreposage ou de préparation selon les informations transmises. Les capacités, interfaces, engagements de service et conditions commerciales sont à confirmer au cadrage et dans les documents contractuels.
 
 ## Comment un distributeur peut-il organiser son stock externalisé ?
-URL : https://www.tecxodus.com/blog/entreposage-stock-distributeur-casablanca/
+URL : https://blog.tecxodus.com/entreposage-stock-distributeur-casablanca/
 Mot-clé : entreposage stock distributeur Casablanca
 Description : Distributeur : partagez références, stocks min/max, commandes, unités de vente et destinations pour cadrer l’entreposage.
 
@@ -1947,7 +1947,7 @@ Précisez les contrôles à réception, l’identification des produits, les rè
 Évaluez séparément le stockage, les manipulations, la préparation et le transport éventuel. Fournissez les principales destinations et fréquences pour étudier les trajets, sans présumer d’un délai ou d’une économie. Tecxodus, implanté à Softpark / Soft Logistic à Aïn Sebaâ, peut examiner un besoin d’entreposage et de préparation à Casablanca. Les capacités et conditions doivent être confirmées sur votre scénario.
 
 ## Logistique grossiste : données à transmettre | Tecxodus
-URL : https://www.tecxodus.com/blog/logistique-grossiste-entrepot-preparation/
+URL : https://blog.tecxodus.com/logistique-grossiste-entrepot-preparation/
 Mot-clé : logistique grossiste entreposage préparation
 Description : Grossiste : transmettez catalogue, unités de vente, tailles de commandes, fréquences, réceptions et contraintes de livraison.
 
@@ -1970,7 +1970,7 @@ Le WMS peut aider à consulter des mouvements, mais la qualité du suivi dépend
 Tecxodus peut étudier à Casablanca des besoins d’entreposage et de préparation selon le catalogue, les volumes et les opérations décrites. Transmettez un échantillon de commandes et vos contraintes de réception afin que le périmètre, la faisabilité et les éventuelles modalités de livraison puissent être confirmés.
 
 ## Entreposage FMCG au Maroc : points clés | Tecxodus
-URL : https://www.tecxodus.com/blog/entreposage-fmcg-maroc/
+URL : https://blog.tecxodus.com/entreposage-fmcg-maroc/
 Mot-clé : entreposage FMCG Maroc
 Description : Les flux FMCG demandent des données fiables, une rotation définie et une préparation adaptée aux commandes et conditionnements.
 
@@ -1991,7 +1991,7 @@ Un pic commercial peut accroître simultanément les réceptions, le besoin d’
 Demandez un scénario normal et un scénario de campagne, puis comparez les opérations et unités facturées. Tecxodus peut étudier un besoin de stockage et de préparation à Casablanca ; la compatibilité des marchandises, les volumes, les règles de rotation et les opérations disponibles sont à confirmer avant toute décision.
 
 ## Préparer des commandes GMS : quels éléments anticiper ?
-URL : https://www.tecxodus.com/blog/preparation-commandes-gms/
+URL : https://blog.tecxodus.com/preparation-commandes-gms/
 Mot-clé : préparation commandes GMS logistique
 Description : Pour des commandes GMS, définissez unités, références, étiquettes, rendez-vous, documents et règles propres à chaque destinataire.
 
@@ -2012,7 +2012,7 @@ Testez le processus sur une commande représentative et vérifiez les documents 
 Partagez plusieurs commandes types et la documentation destinataire pour obtenir une estimation cohérente. Séparez les coûts de préparation, d’étiquetage, de palettisation et de transport, puis définissez le traitement des refus ou retours. Tecxodus peut étudier la préparation selon les exigences communiquées ; la conformité aux règles de chaque enseigne et les modalités opérationnelles doivent être confirmées.
 
 ## Stockage de pièces détachées industrielles | Tecxodus
-URL : https://www.tecxodus.com/blog/entreposage-pieces-detachees-industrielles/
+URL : https://blog.tecxodus.com/entreposage-pieces-detachees-industrielles/
 Mot-clé : entreposage pièces détachées industrielles
 Description : Pièces détachées : normalisez références, unités, dimensions, compatibilités et priorités avant de structurer le stock.
 
@@ -2033,7 +2033,7 @@ Protégez les composants sensibles à l’humidité, aux chocs, à la poussière
 Fournissez catalogue, dimensions, stock initial, règles de compatibilité, priorités et exemples de commandes urgentes. Demandez comment les références et historiques seront consultables. Tecxodus peut étudier un besoin de stockage et de préparation à Casablanca ; les conditions de conservation, accès urgent et capacités sont à confirmer selon les pièces.
 
 ## Comment organiser le stockage de vêtements et accessoires ?
-URL : https://www.tecxodus.com/blog/stockage-vetements-entrepot-ecommerce/
+URL : https://blog.tecxodus.com/stockage-vetements-entrepot-ecommerce/
 Mot-clé : stockage vêtements entrepôt e-commerce
 Description : Textile : précisez variantes, tailles, couleurs, unités, emballage et règles de prélèvement pour préparer les commandes.
 
@@ -2054,7 +2054,7 @@ Si les retours sont fréquents, définissez les contrôles de l’état du vête
 Fournissez le fichier des références, les dimensions des cartons, le stock initial, les prévisions de commandes et des exemples d’étiquettes. Demandez quelles données seront visibles dans le WMS et comment les mouvements et retours seront confirmés. Tecxodus peut étudier un besoin de stockage et de préparation à Casablanca ; les méthodes de rangement, le traitement des retours et les volumes acceptés sont à confirmer.
 
 ## Stockage de produits cosmétiques : quelles contraintes signaler ?
-URL : https://www.tecxodus.com/blog/stockage-produits-cosmetiques-entrepot/
+URL : https://blog.tecxodus.com/stockage-produits-cosmetiques-entrepot/
 Mot-clé : stockage produits cosmétiques entrepôt
 Description : Cosmétiques : communiquez les fiches produits, lots, dates, conditions de conservation et règles d’étiquetage à vérifier.
 
@@ -2075,7 +2075,7 @@ Certains produits peuvent relever d’exigences particulières selon leur compos
 Partagez un échantillon de références et les conditions requises, puis demandez au prestataire de confirmer les moyens disponibles. Tecxodus peut étudier un besoin d’entreposage à Casablanca ; les conditions de conservation, la conformité des produits et le périmètre réalisable sont à valider avant réception.
 
 ## Comment entreposer des équipements électroniques fragiles ?
-URL : https://www.tecxodus.com/blog/stockage-electronique-fragile-entrepot/
+URL : https://blog.tecxodus.com/stockage-electronique-fragile-entrepot/
 Mot-clé : stockage équipements électroniques fragiles entrepôt
 Description : Électronique fragile : décrivez emballages, empilabilité, valeur, humidité ou sensibilité et consignes de manutention.
 
@@ -2096,7 +2096,7 @@ Un emballage réutilisable ou consigné peut être étudié si les contenants ci
 Envoyez des photos, les dimensions des colis, le nombre d’unités, la hauteur maximale et les consignes écrites. Décrivez l’accès au stock et les contrôles attendus à chaque mouvement. Tecxodus peut étudier une demande d’entreposage à Casablanca ; la compatibilité des produits, les conditions de conservation et la manipulation des emballages sont à confirmer au cas par cas.
 
 ## Entreposage agroalimentaire : points à vérifier | Tecxodus
-URL : https://www.tecxodus.com/blog/entreposage-agroalimentaire-temperature/
+URL : https://blog.tecxodus.com/entreposage-agroalimentaire-temperature/
 Mot-clé : entreposage agroalimentaire sec température dirigée
 Description : Les produits alimentaires exigent une vérification des conditions, durées, lots et obligations applicables avant toute réception.
 
@@ -2117,7 +2117,7 @@ Avant un transfert, étudiez le trajet depuis le fournisseur jusqu’au lieu de 
 Constituez un dossier par famille de produits et faites valider la compatibilité par les responsables qualité et réglementaires. Tecxodus peut examiner une demande de stockage à Casablanca ; les conditions, autorisations, équipements et disponibilités pour des denrées alimentaires doivent être vérifiés au cas par cas avant tout engagement.
 
 ## Stockage de produits dangereux : points à vérifier | Tecxodus
-URL : https://www.tecxodus.com/blog/stockage-produits-dangereux-adr-verifications/
+URL : https://blog.tecxodus.com/stockage-produits-dangereux-adr-verifications/
 Mot-clé : stockage produits dangereux ADR entrepôt
 Description : Produits dangereux ou ADR : transmettez classification, fiches de sécurité et quantités pour une vérification préalable du site.
 
@@ -2138,7 +2138,7 @@ Pour le transport, clarifiez les responsabilités de classification, documents, 
 Transmettez les dossiers et attendez une confirmation explicite de la compatibilité, des quantités et du calendrier. Tecxodus peut étudier une demande d’entreposage à Casablanca ; l’acceptation de produits dangereux ou ADR, les autorisations et les moyens disponibles ne sont pas présumés et doivent être confirmés avant expédition.
 
 ## Stockage de produits pharmaceutiques : quelles questions poser ?
-URL : https://www.tecxodus.com/blog/entreposage-produits-pharmaceutiques-exigences/
+URL : https://blog.tecxodus.com/entreposage-produits-pharmaceutiques-exigences/
 Mot-clé : entreposage produits pharmaceutiques Maroc exigences
 Description : Pour des produits pharmaceutiques, vérifiez autorisations, température, traçabilité et procédures auprès de prestataires qualifiés.
 
@@ -2159,7 +2159,7 @@ Un simple engagement commercial ne remplace pas les preuves de conformité. Avan
 Préparez une liste des références et des exigences applicables, puis demandez une réponse documentée à chaque point. Tecxodus peut recevoir une demande d’étude d’entreposage à Casablanca, mais la compatibilité de produits pharmaceutiques, les conditions de conservation, les autorisations et la disponibilité doivent être confirmées explicitement avant tout engagement.
 
 ## Stocker avant Ramadan : planifier les flux | Tecxodus
-URL : https://www.tecxodus.com/blog/preparer-stock-ramadan-logistique-maroc/
+URL : https://blog.tecxodus.com/preparer-stock-ramadan-logistique-maroc/
 Mot-clé : préparer stock Ramadan logistique Maroc
 Description : Préparez une période commerciale forte avec prévisions, stocks disponibles, commandes types et calendrier de réception.
 
@@ -2180,7 +2180,7 @@ Convenez de la façon de traiter une livraison fournisseur en retard, un écart 
 Transmettez les volumes, formats et dates prévus suffisamment tôt pour comparer les options. Tecxodus peut étudier un besoin de stockage et préparation à Casablanca ; les disponibilités, délais, opérations et transport sont à confirmer selon le projet.
 
 ## Comment synchroniser stock marketplace et entrepôt ? | Tecxodus
-URL : https://www.tecxodus.com/blog/synchroniser-stock-marketplace-entrepot/
+URL : https://blog.tecxodus.com/synchroniser-stock-marketplace-entrepot/
 Mot-clé : synchronisation stock marketplace entrepôt
 Description : Définissez source de vérité, fréquence de synchronisation et statuts pour éviter les écarts entre marketplace et stock entrepôt.
 
@@ -2201,7 +2201,7 @@ Avant le lancement, testez le parcours avec un petit nombre de produits et des s
 Demandez aux éditeurs la documentation, les coûts et les responsabilités de support. Tecxodus présente un accès client WMS pour le suivi des stocks et préparations ; une intégration avec une marketplace ou une boutique doit être vérifiée selon les outils, connecteurs et besoins du client.
 
 ## Stock omnicanal : éviter les écarts entre canaux | Tecxodus
-URL : https://www.tecxodus.com/blog/gestion-stock-omnicanal-entrepot/
+URL : https://blog.tecxodus.com/gestion-stock-omnicanal-entrepot/
 Mot-clé : gestion stock omnicanal entrepôt
 Description : L’omnicanal nécessite une source de stock cohérente, des réservations définies et des règles de priorité par canal.
 
@@ -2222,7 +2222,7 @@ Testez les échanges avec des scénarios réalistes : commande sur deux canaux, 
 Demandez quelles intégrations existent réellement entre vos outils et le WMS, quels identifiants sont partagés et à quelle fréquence les données circulent. Tecxodus présente un suivi client des stocks via WMS ; la synchronisation des canaux, les connecteurs et le périmètre technique sont à confirmer selon les solutions utilisées.
 
 ## Stockage e-commerce : marque en croissance | Tecxodus
-URL : https://www.tecxodus.com/blog/entreposage-marque-ecommerce-croissance/
+URL : https://blog.tecxodus.com/entreposage-marque-ecommerce-croissance/
 Mot-clé : entreposage marque e-commerce croissance
 Description : Une marque en croissance doit partager prévisions, références, conditionnements, saisonnalité et opérations attendues pour dimensionner son stock.
 
@@ -2243,7 +2243,7 @@ Avant de confier le stock, testez un petit échantillon de références et de co
 Proposez un scénario normal et un scénario de pointe afin de vérifier comment les coûts et la capacité varient avec les volumes. Tecxodus peut étudier un besoin de stockage et de préparation à Casablanca ; les interfaces, retours, livraisons et opérations de marque sont à confirmer dans le périmètre du projet.
 
 ## Lancement produit : préparer le stock logistique | Tecxodus
-URL : https://www.tecxodus.com/blog/lancement-produit-stock-entrepot/
+URL : https://blog.tecxodus.com/lancement-produit-stock-entrepot/
 Mot-clé : lancement produit préparation stock entrepôt
 Description : Coordonnez lancement produit, date de réception, stock initial, commandes types, emballages et calendrier d’expédition.
 
@@ -2264,7 +2264,7 @@ Testez le parcours d’une commande : réservation, prélèvement, contrôle, em
 Comparez les sorties réelles au plan et ajustez les réapprovisionnements ou l’espace selon la demande. Tecxodus peut étudier le stockage et la préparation d’un lancement à Casablanca ; volumes, calendrier, conditionnement et intégrations sont à confirmer selon les produits et le projet.
 
 ## Quels éléments composent le coût d’un stockage externalisé ?
-URL : https://www.tecxodus.com/blog/cout-stockage-externalise-logistique/
+URL : https://blog.tecxodus.com/cout-stockage-externalise-logistique/
 Mot-clé : coût stockage externalisé logistique
 Description : Séparez réception, occupation, mouvements, préparation, emballage et transport pour comprendre le coût d’un stockage externalisé.
 
@@ -2285,7 +2285,7 @@ Projetez les tarifs sur vos données réelles et séparez les coûts fixes des c
 Demandez les hypothèses, la durée de validité et les exclusions par écrit. Tecxodus établit une proposition après étude des besoins communiqués ; il n’existe pas de tarif universel applicable à tous les stocks. Les prix, minimums et disponibilités doivent être confirmés selon les produits, les volumes et le périmètre retenu.
 
 ## Comment estimer la surface nécessaire pour un stock de palettes ?
-URL : https://www.tecxodus.com/blog/estimer-surface-entrepot-palettes/
+URL : https://blog.tecxodus.com/estimer-surface-entrepot-palettes/
 Mot-clé : estimer surface entrepôt palettes
 Description : Une estimation de surface doit compter emprise palettes, hauteur, allées et zones de réception/expédition, puis être validée sur plan.
 
@@ -2306,7 +2306,7 @@ Construisez plusieurs scénarios si le stock fluctue ou si des pointes sont pré
 Transmettez plan coté, formats, quantités, flux et contraintes de manutention. Tecxodus peut examiner un besoin d’entreposage à Casablanca ; la surface utile et la capacité disponibles doivent être confirmées après étude.
 
 ## Qu’est-ce qu’un emplacement palette et comment le compter ?
-URL : https://www.tecxodus.com/blog/emplacement-palette-entrepot-definition/
+URL : https://blog.tecxodus.com/emplacement-palette-entrepot-definition/
 Mot-clé : emplacement palette entrepôt définition
 Description : Un emplacement palette est une unité de capacité définie par le site. Demandez ses dimensions, limites de charge et règles de facturation.
 
@@ -2327,7 +2327,7 @@ Pour estimer le besoin, communiquez le stock moyen et maximal par format, le nom
 Fournissez dimensions, poids, photos et volumes à l’entrepôt. Tecxodus peut étudier une demande de stockage à Casablanca ; les formats acceptés, la capacité et les unités de facturation sont à confirmer dans le devis.
 
 ## Comment obtenir un devis d’entreposage exploitable ? | Tecxodus
-URL : https://www.tecxodus.com/blog/devis-entreposage-informations-necessaires/
+URL : https://blog.tecxodus.com/devis-entreposage-informations-necessaires/
 Mot-clé : devis entreposage informations nécessaires
 Description : Un devis fiable exige formats, dimensions, volumes, fréquence, durée, nature des produits et opérations complémentaires.
 
@@ -2356,7 +2356,7 @@ Vérifiez les mêmes hypothèses de stock et de volume chez chaque prestataire. 
 Le simulateur Tecxodus peut aider à organiser les dimensions et les quantités, mais il donne un repère indicatif et ne calcule pas de tarif. Tecxodus étudie les demandes à Casablanca après vérification des produits, du périmètre et des conditions opérationnelles.
 
 ## Clauses d’un contrat d’entreposage | Tecxodus
-URL : https://www.tecxodus.com/blog/contrat-entreposage-clauses-operationnelles/
+URL : https://blog.tecxodus.com/contrat-entreposage-clauses-operationnelles/
 Mot-clé : contrat entreposage clauses logistiques
 Description : Examinez périmètre, responsabilités, inventaire, tarifs, accès aux données, assurance, durée et sortie du stock avant signature.
 
@@ -2375,7 +2375,7 @@ Décrivez la procédure pour colis manquants, surplus, avaries, références inc
 Faites apparaître les unités de facturation, minimums, révisions de tarifs, frais exceptionnels, durée d’engagement et modalités de résiliation. Prévoyez comment le stock sera inventorié, préparé et remis lors d’un transfert ou d’une fin de contrat, ainsi que les frais associés. Faites examiner les clauses juridiques, d’assurance et de responsabilité par un professionnel compétent. Pour une étude avec Tecxodus à Casablanca, le périmètre et les modalités contractuelles sont à définir selon le besoin.
 
 ## Rotation des stocks : gérer les références lentes | Tecxodus
-URL : https://www.tecxodus.com/blog/rotation-stock-references-lentes/
+URL : https://blog.tecxodus.com/rotation-stock-references-lentes/
 Mot-clé : rotation stock références lentes entrepôt
 Description : Analysez sorties, ancienneté et stock disponible par référence pour identifier les articles à faible rotation.
 
@@ -2396,7 +2396,7 @@ Les articles lents peuvent occuper des emplacements facilement accessibles alors
 Indiquez les références prioritaires, les produits à ne pas détruire ou substituer et les règles d’inventaire. Demandez comment les stocks dormants sont identifiés et comment l’export des mouvements est obtenu. Tecxodus peut étudier un stock à Casablanca à partir des données fournies ; les opérations de tri ou de déstockage sont à confirmer selon le périmètre.
 
 ## Comment calculer un stock de sécurité sans surestimer l’espace ?
-URL : https://www.tecxodus.com/blog/calculer-stock-securite-entreposage/
+URL : https://blog.tecxodus.com/calculer-stock-securite-entreposage/
 Mot-clé : calcul stock de sécurité entreposage
 Description : Un stock de sécurité dépend variabilité de la demande, délai d’approvisionnement et niveau de service souhaité.
 
@@ -2417,7 +2417,7 @@ Appliquez des règles différentes aux articles critiques, coûteux, saisonniers
 Convertissez les quantités retenues en cartons, palettes ou emplacements et confrontez-les au stock maximal réel. Tecxodus peut étudier un besoin de capacité à Casablanca à partir du profil communiqué ; la configuration et la disponibilité doivent être confirmées après analyse des produits et des volumes.
 
 ## Comment assurer la traçabilité d’un mouvement de stock ?
-URL : https://www.tecxodus.com/blog/tracabilite-mouvement-stock-entrepot/
+URL : https://blog.tecxodus.com/tracabilite-mouvement-stock-entrepot/
 Mot-clé : traçabilité mouvement stock entrepôt
 Description : Pour tracer un mouvement, enregistrez référence, quantité, date, origine, destination, lot si utile et statut de validation.
 
@@ -2438,7 +2438,7 @@ Une opération de test aide à vérifier le parcours complet : réception annonc
 Demandez une démonstration des recherches par référence, lot ou commande, des exports disponibles et du délai d’apparition des mouvements. Tecxodus indique proposer un suivi client via WMS ; les événements accessibles, les règles de traçabilité et les droits d’accès sont à confirmer dans le périmètre convenu. La qualité du suivi dépend autant des consignes et des scans réalisés que du logiciel utilisé.
 
 ## Comment réussir le démarrage avec un nouvel entrepôt ? | Tecxodus
-URL : https://www.tecxodus.com/blog/demarrage-nouveau-prestataire-entrepot/
+URL : https://blog.tecxodus.com/demarrage-nouveau-prestataire-entrepot/
 Mot-clé : démarrage nouveau prestataire entreposage
 Description : Planifiez le démarrage avec catalogue, stock initial, consignes, tests, accès WMS et responsables identifiés.
 
@@ -2459,7 +2459,7 @@ Vérifiez les accès aux outils, les utilisateurs autorisés et les données vis
 Convenez d’un pilote, d’une période de vérification et des personnes à contacter en cas de blocage. Mesurez les écarts entre les consignes et l’exécution, puis corrigez les fichiers ou instructions avant d’ajouter tout le volume. Tecxodus peut étudier un démarrage à Casablanca selon les flux communiqués ; le calendrier, les outils et la capacité doivent être confirmés pour le projet.
 
 ## Comment transférer son stock d’un entrepôt à un autre ?
-URL : https://www.tecxodus.com/blog/transferer-stock-entrepot/
+URL : https://blog.tecxodus.com/transferer-stock-entrepot/
 Mot-clé : transfert stock ancien nouvel entrepôt logistique
 Description : Sécurisez un transfert de stock avec inventaire de départ, plan de transport, séquencement, réception et rapprochement.
 
@@ -2482,7 +2482,7 @@ Convenez de la méthode de contrôle à l’arrivée, des personnes autorisées 
 Partagez l’inventaire, les formats, les contraintes de manutention, les dates possibles et les flux à maintenir. Tecxodus, implanté à Aïn Sebaâ, peut étudier un besoin d’entreposage à Casablanca à partir de ces informations. La réception, le transport, le calendrier et les conditions de reprise doivent être confirmés pour le projet concerné.
 
 ## WMS et ERP : comment organiser les échanges de données ?
-URL : https://www.tecxodus.com/blog/interface-wms-erp-echanges-donnees/
+URL : https://blog.tecxodus.com/interface-wms-erp-echanges-donnees/
 Mot-clé : interface WMS ERP logistique échanges données
 Description : Définissez les données échangées entre WMS et ERP : articles, commandes, stocks, statuts, fréquence et traitement des erreurs.
 
@@ -2503,7 +2503,7 @@ Convenez de la conduite à tenir en cas d’échec : journal consultable, alerte
 Demandez aux éditeurs ou intégrateurs la documentation des interfaces et les coûts de mise en place, de maintenance et de support. Tecxodus présente un accès client WMS pour le suivi des stocks et des préparations ; la connexion avec un ERP ou une boutique doit être confirmée selon les outils et le périmètre du client. Une démonstration sur un jeu de données représentatif permet de valider ce qui est effectivement disponible.
 
 ## Comment choisir les statuts WMS utiles à son équipe ? | Tecxodus
-URL : https://www.tecxodus.com/blog/statuts-wms-commandes-entrepot/
+URL : https://blog.tecxodus.com/statuts-wms-commandes-entrepot/
 Mot-clé : statuts WMS commandes entrepôt utiles
 Description : Des statuts WMS utiles sont peu nombreux, compréhensibles et associés à des événements réels du processus.
 
@@ -2524,7 +2524,7 @@ Testez un petit ensemble de commandes avec les équipes qui consultent les donn�
 Demandez un exemple de commande de bout en bout, les filtres disponibles et les délais de mise à jour. Tecxodus indique mettre à disposition un suivi client WMS des stocks et préparations ; les statuts, exports et intégrations accessibles sont à confirmer selon le compte et le périmètre convenu.
 
 ## Comment prévoir son besoin de stockage à partir des ventes ?
-URL : https://www.tecxodus.com/blog/prevoir-besoin-stockage-ventes/
+URL : https://blog.tecxodus.com/prevoir-besoin-stockage-ventes/
 Mot-clé : prévoir besoin stockage selon ventes
 Description : Prévoir l’espace de stockage exige ventes, réapprovisionnements, saisonnalité, tailles de lot et stock de sécurité.
 
@@ -2545,7 +2545,7 @@ Convertissez les quantités en palettes, cartons, bacs ou unités au sol selon l
 Comparez chaque période les ventes et stocks prévus aux données réalisées, puis corrigez les hypothèses. Pour étudier une capacité à Casablanca, transmettez la liste des références, dimensions, quantités, formats de livraison et pics attendus. Tecxodus peut examiner ces informations ; la capacité et la configuration adaptées doivent être confirmées après étude du besoin.
 
 ## Stockage de longue durée : comment planifier un besoin sur plusieurs années ?
-URL : https://www.tecxodus.com/blog/contrat-entreposage-longue-duree/
+URL : https://blog.tecxodus.com/contrat-entreposage-longue-duree/
 Mot-clé : contrat entreposage longue durée 3 ans
 Description : Préparez un stockage sur plusieurs années : volumes, niveaux de service, révisions, inventaires et conditions de sortie.
 
@@ -2566,7 +2566,7 @@ Le contrat doit expliquer la résiliation, le préavis, la préparation du stock
 Avant de signer, demandez un scénario de coût sur la durée envisagée et un scénario de sortie. Les conditions commerciales et contractuelles proposées par Tecxodus sont à confirmer selon le besoin et doivent être formalisées dans l’offre et le contrat.
 
 ## Planifier le stock annuel et les pics saisonniers | Tecxodus
-URL : https://www.tecxodus.com/blog/planifier-stock-annuel-saisonnalite/
+URL : https://blog.tecxodus.com/planifier-stock-annuel-saisonnalite/
 Mot-clé : planifier stock annuel logistique saisonnalité
 Description : Un calendrier annuel relie approvisionnements, campagnes, stock maximum, préparation et livraisons par période.
 
@@ -2587,7 +2587,7 @@ Un pic de ventes augmente parfois simultanément les réceptions, les besoins d�
 Actualisez les prévisions selon une fréquence adaptée aux changements de votre activité. Définissez des seuils d’alerte compréhensibles et la personne qui décide d’un réapprovisionnement ou d’une opération temporaire. Pour étudier le stockage d’un pic à Casablanca, transmettez les volumes par période, le format des unités et les dates prévues. La capacité et les opérations disponibles chez Tecxodus sont à confirmer pour chaque projet.
 
 ## Quelles questions poser avant de visiter un entrepôt logistique ?
-URL : https://www.tecxodus.com/blog/questions-visite-entrepot-logistique/
+URL : https://blog.tecxodus.com/questions-visite-entrepot-logistique/
 Mot-clé : questions visite entrepôt logistique
 Description : En visite d’entrepôt, interrogez l’équipe sur réception, rangement, WMS, sécurité, préparation et gestion des écarts.
 
@@ -2608,7 +2608,7 @@ Clarifiez aussi les horaires, les règles d’accès, les personnes de contact, 
 Après la visite, consignez les réponses et demandez de les intégrer au périmètre contractuel : opérations incluses, unités facturées, exceptions, sécurité et données. Pour visiter ou étudier un besoin à Casablanca chez Tecxodus, les modalités et disponibilités doivent être confirmées au préalable.
 
 ## Quels KPI suivre pour une activité de préparation de commandes ?
-URL : https://www.tecxodus.com/blog/kpi-preparation-commandes-entrepot/
+URL : https://blog.tecxodus.com/kpi-preparation-commandes-entrepot/
 Mot-clé : KPI préparation commandes entrepôt
 Description : Suivez commandes et lignes traitées, erreurs, ruptures et statuts avec des définitions communes au client et au prestataire.
 
@@ -2629,7 +2629,7 @@ Définissez les règles d’attribution des erreurs : référence incorrecte, qu
 Un tableau de bord doit montrer la période, le périmètre et la source de chaque chiffre, avec un contact pour les anomalies. Demandez quels indicateurs sont disponibles dans le WMS du prestataire et à quelle fréquence ils sont actualisés. Tecxodus indique un suivi client via WMS ; les KPI et exports accessibles sont à confirmer selon le compte et l’organisation retenue.
 
 ## Comment comparer deux entrepôts pour une PME e-commerce ?
-URL : https://www.tecxodus.com/blog/comparer-entrepots-pme-ecommerce-casablanca/
+URL : https://blog.tecxodus.com/comparer-entrepots-pme-ecommerce-casablanca/
 Mot-clé : comparer entrepôts PME e-commerce Casablanca
 Description : Comparez les entrepôts selon localisation, formats, préparation, accès WMS, coûts détaillés et flexibilité des volumes.
 
@@ -2652,7 +2652,7 @@ La localisation à Aïn Sebaâ ou dans une autre zone doit être évaluée à pa
 Reportez les réponses dans une même grille : opérations, données partagées, responsabilités, unités facturées, exceptions et conditions de sortie du stock. Avant de décider, faites valider un flux test et les hypothèses du devis par les équipes concernées.
 
 ## Préparer son besoin pour un simulateur logistique | Tecxodus
-URL : https://www.tecxodus.com/blog/simulateur-besoin-entreposage-palettes-colis/
+URL : https://blog.tecxodus.com/simulateur-besoin-entreposage-palettes-colis/
 Mot-clé : simulateur besoin entreposage palettes colis
 Description : Pour un premier calcul, préparez formats, quantités, hauteurs, volume vrac, durée, nature des produits et services.
 
@@ -2681,7 +2681,7 @@ Un calcul simplifié ne décrit pas le bâtiment, les allées réelles, la haute
 Transmettez le résultat avec vos formats, volumes, durée et opérations attendues. Demandez à l’équipe de confirmer les hypothèses, la faisabilité et le périmètre d’une éventuelle proposition. Le simulateur Tecxodus prépare un premier échange pour un besoin à Casablanca ; il ne constitue pas une offre commerciale.
 
 ## Comment demander une étude d’entreposage à Casablanca ?
-URL : https://www.tecxodus.com/blog/demande-etude-entreposage-casablanca/
+URL : https://blog.tecxodus.com/demande-etude-entreposage-casablanca/
 Mot-clé : demande étude entreposage Casablanca
 Description : Vous cherchez un entrepôt à Casablanca ? Préparez ces informations sur vos produits, volumes et opérations pour demander une étude de stockage adaptée.
 
@@ -2712,7 +2712,7 @@ Pour comparer les prestataires, envoyez le même scénario à chacun. Demandez q
 Tecxodus est implanté à Softpark / Soft Logistic, à Aïn Sebaâ, Casablanca. Vous pouvez utiliser le formulaire d’estimation, écrire à contact@nextinotech.com ou appeler sur WhatsApp au +212 663 449 200. Évitez d’envoyer des informations confidentielles dans un premier message ; partagez d’abord les données nécessaires au cadrage.
 
 ## Inventaire initial : préparer son stock externalisé | Tecxodus
-URL : https://www.tecxodus.com/blog/inventaire-initial-externaliser-stock/
+URL : https://blog.tecxodus.com/inventaire-initial-externaliser-stock/
 Mot-clé : inventaire initial avant externalisation du stock
 Description : Avant de confier un stock à un entrepôt à Casablanca, préparez un inventaire de départ fiable : références, quantités, lots, formats et écarts à traiter.
 
@@ -2744,7 +2744,7 @@ Le niveau de détail dépend de votre stock : quelques références homogènes n
 
 
 ## Logistique PLV : préparer une campagne en entrepôt | Tecxodus
-URL: https://www.tecxodus.com/blog/preparer-campagne-plv-entrepot/
+URL: https://blog.tecxodus.com/preparer-campagne-plv-entrepot/
 
 La PLV ne se limite pas à un coffret promotionnel : un déploiement peut réunir affiches, présentoirs, stop-rayons, accessoires, notices et produits d’accompagnement. Selon le projet, les supports arrivent déjà prêts ou nécessitent une identification, un regroupement ou un assemblage. Le périmètre doit être décrit avant de planifier la réception et la campagne.
 

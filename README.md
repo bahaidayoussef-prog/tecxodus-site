@@ -22,11 +22,15 @@ Static showcase site for Tecxodus logistics and warehousing services in Aïn Seb
 
 ## Publishing
 
-The HTML site can be hosted as a static site. The WordPress WXR file imports the articles as drafts; review them in WordPress before publishing. If the site's WordPress URLs or host change, regenerate canonical links, the sitemap, and crawler files for the final production domain before submitting them.
+The HTML site is deployed on Vercel from the `main` branch. The company website stays on `https://www.tecxodus.com/`; the editorial blog is served on `https://blog.tecxodus.com/`. `vercel.json` maps the blog host to the existing static article files and permanently redirects the previous `/blog/...` URLs to their new locations.
+
+The root sitemap is an index: `sitemap-main.xml` lists the company pages and the blog host serves its own `sitemap.xml` and `robots.txt`. Add `blog.tecxodus.com` to the Vercel project and configure the exact DNS record Vercel provides at Namecheap before deploying this migration. Do not guess or replace other DNS records.
+
+The WordPress WXR file imports the articles as drafts; review them in WordPress before publishing. It remains separate from this static site and does not control the blog subdomain.
 
 The static blog contains 122 article pages. The separate WordPress WXR file remains the original 120 draft posts and does not include this static-only update.
 
-The sitemap lists the public article URLs intended for https://www.tecxodus.com/. Submit it only after those URLs are live.
+The blog sitemap lists the 122 public article pages and blog index on `blog.tecxodus.com`. Submit the sitemap index only after the subdomain, DNS, and redirects are live.
 
 ## Content and imagery notes
 

@@ -1,0 +1,141 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/blog",
+      "destination": "https://blog.tecxodus.com/",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "www.tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/blog/:path*",
+      "destination": "https://blog.tecxodus.com/:path*",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "www.tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/blog",
+      "destination": "https://blog.tecxodus.com/",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/blog/:path*",
+      "destination": "https://blog.tecxodus.com/:path*",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "tecxodus.com"
+        }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/blog/index.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/robots.txt",
+      "destination": "/blog/robots.txt",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/sitemap.xml",
+      "destination": "/blog/sitemap.xml",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/images/:path*",
+      "destination": "https://www.tecxodus.com/images/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/media/:path*",
+      "destination": "https://www.tecxodus.com/media/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/favicon.svg",
+      "destination": "https://www.tecxodus.com/favicon.svg",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/responsive.css",
+      "destination": "https://www.tecxodus.com/responsive.css",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/:path*/",
+      "destination": "/blog/:path*/index.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.tecxodus.com"
+        }
+      ]
+    },
+    {
+      "source": "/:path*",
+      "destination": "/blog/:path*/index.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "blog.tecxodus.com"
+        }
+      ]
+    }
+  ]
+}
