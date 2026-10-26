@@ -2718,6 +2718,136 @@
       }
     ]
   },
+  {
+    "src": "^/blog/annulation-commande-apres-lancement-picking(?:/index\\.html)?/?$",
+    "status": 308,
+    "headers": {
+      "Location": "https://blog.tecxodus.com/annulation-commande-apres-lancement-picking/"
+    },
+    "has": [
+      {
+        "type": "host",
+        "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+      }
+    ]
+  },
+  {
+    "src": "^/blog/reapprovisionnement-emplacement-picking-reserve(?:/index\\.html)?/?$",
+    "status": 308,
+    "headers": {
+      "Location": "https://blog.tecxodus.com/reapprovisionnement-emplacement-picking-reserve/"
+    },
+    "has": [
+      {
+        "type": "host",
+        "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+      }
+    ]
+  },
+  {
+    "src": "^/blog/conversion-unite-stock-carton-piece-palette(?:/index\\.html)?/?$",
+    "status": 308,
+    "headers": {
+      "Location": "https://blog.tecxodus.com/conversion-unite-stock-carton-piece-palette/"
+    },
+    "has": [
+      {
+        "type": "host",
+        "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+      }
+    ]
+  },
+  {
+    "src": "^/blog/retour-fournisseur-entrepot-stock-externalise(?:/index\\.html)?/?$",
+    "status": 308,
+    "headers": {
+      "Location": "https://blog.tecxodus.com/retour-fournisseur-entrepot-stock-externalise/"
+    },
+    "has": [
+      {
+        "type": "host",
+        "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+      }
+    ]
+  },
+  {
+    "src": "^/blog/rendez-vous-quai-reception-fournisseur(?:/index\\.html)?/?$",
+    "status": 308,
+    "headers": {
+      "Location": "https://blog.tecxodus.com/rendez-vous-quai-reception-fournisseur/"
+    },
+    "has": [
+      {
+        "type": "host",
+        "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+      }
+    ]
+  },
+  {
+    "src": "^/blog/commande-ecommerce-plusieurs-colis-verification(?:/index\\.html)?/?$",
+    "status": 308,
+    "headers": {
+      "Location": "https://blog.tecxodus.com/commande-ecommerce-plusieurs-colis-verification/"
+    },
+    "has": [
+      {
+        "type": "host",
+        "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+      }
+    ]
+  },
+  {
+    "src": "^/blog/priorite-commandes-urgentes-entrepot(?:/index\\.html)?/?$",
+    "status": 308,
+    "headers": {
+      "Location": "https://blog.tecxodus.com/priorite-commandes-urgentes-entrepot/"
+    },
+    "has": [
+      {
+        "type": "host",
+        "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+      }
+    ]
+  },
+  {
+    "src": "^/blog/reception-fournisseur-livraison-partielle(?:/index\\.html)?/?$",
+    "status": 308,
+    "headers": {
+      "Location": "https://blog.tecxodus.com/reception-fournisseur-livraison-partielle/"
+    },
+    "has": [
+      {
+        "type": "host",
+        "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+      }
+    ]
+  },
+  {
+    "src": "^/blog/reconcilier-composants-apres-copacking(?:/index\\.html)?/?$",
+    "status": 308,
+    "headers": {
+      "Location": "https://blog.tecxodus.com/reconcilier-composants-apres-copacking/"
+    },
+    "has": [
+      {
+        "type": "host",
+        "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+      }
+    ]
+  },
+  {
+    "src": "^/blog/retour-livraison-echec-transporteur-entrepot(?:/index\\.html)?/?$",
+    "status": 308,
+    "headers": {
+      "Location": "https://blog.tecxodus.com/retour-livraison-echec-transporteur-entrepot/"
+    },
+    "has": [
+      {
+        "type": "host",
+        "value": "^(www\\.tecxodus\\.com|tecxodus\\.com)$"
+      }
+    ]
+  },
     {
       "src": "^/(?!blog(?:/|$))(?<path>.*)$",
       "dest": "/blog/$path",
