@@ -29,7 +29,7 @@ form.addEventListener('submit', (event) => {
   if (!form.reportValidity()) return;
   const data = new FormData(form);
   const clean = key => String(data.get(key)).replace(/\s+/g, ' ').trim();
-  const answers = ['nom', 'activite', 'stade', 'delai', 'budget'].map(clean);
+  const answers = ['nom', 'activite', 'stade', 'delai'].map(clean);
   const signature = JSON.stringify(answers);
   const isNew = lastHandoff?.signature !== signature;
   if (isNew) {
@@ -38,12 +38,12 @@ form.addEventListener('submit', (event) => {
     lastHandoff = { signature, ref: `${ads ? 'SM-ADS' : 'SM'}-${suffix}` };
   }
   const { ref } = lastHandoff;
-  const [nom, activite, stade, delai, budget] = answers;
+  const [nom, activite, stade, delai] = answers;
   const message = [
-    'Bonjour Tecxodus, je souhaite visiter le bureau de 110 m² à Sidi Maârouf, près de Casanearshore.',
+    'Bonjour Tecxodus, je souhaite visiter le bureau de 97 m² à Sidi Maârouf, avec parking titré de 13 m² en sous-sol.',
     '',
     `Nom : ${nom}`, `Activité : ${activite}`, `Stade du projet : ${stade}`,
-    `Délai d’installation : ${delai}`, `Loyer de 16 500 DH TTC/mois dans mon budget : ${budget}`,
+    `Délai d’installation : ${delai}`,
     '', `Référence : ${ref}`
   ].join('\n');
   const url = new URL('https://wa.me/212663449200');
@@ -59,6 +59,26 @@ form.addEventListener('submit', (event) => {
   statusLine.textContent = 'Vérifiez le récapitulatif dans WhatsApp, puis envoyez-le pour demander une visite.';
   location.assign(url.href);
 });
+
+const videoTrigger = document.querySelector('#video-trigger');
+const videoViewer = document.querySelector('#video-viewer');
+const video = videoViewer.querySelector('video');
+if (typeof videoViewer.showModal === 'function') {
+  videoTrigger.setAttribute('aria-haspopup', 'dialog');
+  videoTrigger.addEventListener('click', event => {
+    if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+    event.preventDefault();
+    videoViewer.showModal();
+    video.play().catch(() => {});
+  });
+  videoViewer.addEventListener('click', event => {
+    if (event.target === videoViewer) videoViewer.close();
+  });
+  videoViewer.addEventListener('close', () => {
+    video.pause();
+    videoTrigger.focus();
+  });
+}
 
 const viewer = document.querySelector('#photo-viewer');
 const fullPhoto = document.querySelector('#full-photo');
