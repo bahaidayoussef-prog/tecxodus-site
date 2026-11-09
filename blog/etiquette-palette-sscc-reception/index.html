@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="fr" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Étiquette palette SSCC : mode d’emploi en entrepôt</title>
+  <meta name="description" content="Comprenez à quoi sert le SSCC, comment le relier aux données de réception et quoi vérifier avant d’envoyer des palettes à un entrepôt.">
+  <link rel="canonical" href="https://blog.tecxodus.com/etiquette-palette-sscc-reception/">
+  <link rel="alternate" hreflang="fr" href="https://blog.tecxodus.com/etiquette-palette-sscc-reception/">
+  <link rel="alternate" hreflang="ar" href="https://blog.tecxodus.com/ar/etiquette-palette-sscc-reception/">
+  <link rel="alternate" hreflang="x-default" href="https://blog.tecxodus.com/etiquette-palette-sscc-reception/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Étiquette palette SSCC : mode d’emploi en entrepôt">
+  <meta property="og:description" content="Comprenez à quoi sert le SSCC, comment le relier aux données de réception et quoi vérifier avant d’envoyer des palettes à un entrepôt.">
+  <meta property="og:url" content="https://blog.tecxodus.com/etiquette-palette-sscc-reception/">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Étiquette palette SSCC : mode d’emploi en entrepôt", "description": "Comprenez à quoi sert le SSCC, comment le relier aux données de réception et quoi vérifier avant d’envoyer des palettes à un entrepôt.", "mainEntityOfPage": "https://blog.tecxodus.com/etiquette-palette-sscc-reception/", "inLanguage": "fr", "datePublished": "2026-11-09", "author": {"@type": "Organization", "name": "Tecxodus"}, "publisher": {"@type": "Organization", "name": "Tecxodus"}}</script>
+  <style>
+    :root { font-family: system-ui, sans-serif; color: #18242b; background: #f9faf8; }
+    body { margin: 0; line-height: 1.7; }
+    header, main, footer { width: min(46rem, calc(100% - 2rem)); margin: auto; }
+    header { padding-block: 1rem; border-block-end: 1px solid #dbe2da; }
+    nav { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; }
+    main { padding-block: 2rem; }
+    h1 { font-size: clamp(1.8rem, 5vw, 2.7rem); line-height: 1.2; }
+    h2 { margin-block-start: 2rem; line-height: 1.35; }
+    a { color: #40621e; text-underline-offset: .2em; }
+    .table-scroll { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; background: white; }
+    th, td { padding: .6rem; text-align: start; border: 1px solid #dbe2da; }
+    th { background: #edf1ed; }
+    blockquote { margin-inline: 0; padding-inline-start: 1rem; border-inline-start: 3px solid #40621e; }
+    footer { padding-block: 1rem; border-block-start: 1px solid #dbe2da; }
+  </style>
+</head>
+<body>
+<header><nav><strong>Tecxodus</strong><a href="https://blog.tecxodus.com/">Retour au blog</a><a href="https://blog.tecxodus.com/ar/etiquette-palette-sscc-reception/" hreflang="ar" lang="ar">العربية</a></nav></header>
+<main><article>
+<h1>Étiquette palette SSCC : mode d’emploi en entrepôt</h1>
+<p>Deux palettes transportent la même référence, mais l’une contient 30 cartons et l’autre 24. Pour enregistrer la réception correctement, l’opérateur doit distinguer les deux unités physiques. Le <strong>SSCC</strong> est un identifiant GS1 de 18 chiffres qui permet de reconnaître chaque unité logistique, par exemple une palette ou un colis. Le système associe cet identifiant aux informations d’expédition ou de réception. <a href="https://www.gs1.dk/en/gs1-standarder/sscc">GS1 Danemark — Identifiant SSCC</a></p>
+<h2>Distinguer l’identifiant de la palette et celui du produit</h2>
+<div class="table-scroll"><table><thead><tr><th scope="col">Donnée</th><th scope="col">Ce qu’elle permet de reconnaître</th><th scope="col">Exemple</th></tr></thead><tbody><tr><td>SSCC</td><td>Une unité logistique précise</td><td>La palette A de l’expédition</td></tr><tr><td>GTIN</td><td>Un article commercial à un niveau de conditionnement donné</td><td>Le carton d’un produit</td></tr><tr><td>Référence interne</td><td>L’article dans le catalogue de l’entreprise</td><td>Le SKU utilisé dans le WMS</td></tr><tr><td>Lot</td><td>Un groupe d’articles identifié pour le suivi</td><td>Les cartons du lot L42</td></tr></tbody></table></div>
+<p>Une palette peut contenir plusieurs références et plusieurs lots. Conservez le détail de son contenu dans les données échangées avec le prestataire, puis reliez ces données au SSCC. Une équipe qui utilise aussi le code-barres du produit peut documenter séparément la <a href="https://blog.tecxodus.com/code-barres-reference-reception-entrepot/">correspondance entre les codes et les références</a>. <a href="https://gs1.org.sg/transport-and-logistics/warehouse-management/">GS1 — Gestion d’entrepôt</a></p>
+<h2>Préparer une réception test</h2>
+<ol><li>Convenez avec l’entrepôt de la personne qui attribue le SSCC, du format de l’étiquette et du document ou message qui contient le détail de la palette.</li><li>Préparez une unité représentative avec ses références, quantités, unités de mesure et lots si ceux-ci sont suivis.</li><li>Faites lire l’étiquette avec le matériel utilisé au quai. Demandez à l’opérateur de retrouver l’expédition attendue et de vérifier la correspondance avec les cartons reçus.</li><li>Simulez une quantité différente ou une étiquette illisible. Décidez qui contrôle la marchandise, comment enregistrer la réserve et qui peut corriger la donnée.</li></ol>
+<p>Pour un flux récurrent, transmettez l’information en amont afin que le quai puisse comparer l’arrivage avec les données attendues. Validez ensemble le canal et les champs requis. <a href="https://blog.tecxodus.com/preavis-arrivee-fournisseur-entrepot-asn/">Préavis d’arrivée fournisseur et ASN</a></p>
+<h2>Exemple fictif de rapprochement au quai</h2>
+<p>Une expédition annonce deux palettes de la même référence. Le document associe le SSCC A à 30 cartons et le SSCC B à 24 cartons. Au scan de B, l’équipe retrouve la ligne de 24 cartons. Si le comptage donne 23, elle consigne l’écart sur B et applique la procédure convenue. Les personnes chargées de traiter la réserve savent alors quelle unité vérifier.</p>
+<p>Le même test peut être fait sur une palette mixte. Le relevé indique les lignes par référence et par lot lorsque le flux l’exige. Si un carton est absent, l’équipe peut localiser l’écart à partir du détail de la palette et des consignes de contrôle.</p>
+<h2>Questions fréquentes</h2>
+<h3>Le SSCC est-il nécessaire pour chaque livraison ?</h3>
+<p>Cela dépend du processus convenu avec vos partenaires. Avant d’imprimer les étiquettes, vérifiez si le destinataire attend un SSCC, un autre identifiant ou des données complémentaires. <a href="https://www.gs1.org/docs/tl/GS1_Logistic_Label_Guideline.pdf">GS1 — Guide de l’étiquette logistique</a></p>
+<h3>Que faire si une étiquette ne passe pas au scan ?</h3>
+<p>Appliquez la procédure convenue avec l’entrepôt. Elle peut prévoir un contrôle du document, une saisie vérifiée ou une mise en attente avant validation. La personne autorisée à réétiqueter doit pouvoir relier le nouveau support aux données de réception. <a href="https://blog.tecxodus.com/etiquetage-reetiquetage-produit-entrepot/">Étiquetage et réétiquetage en entrepôt</a></p>
+<p>Vous préparez des réceptions à Casablanca ? Présentez à Tecxodus un exemple d’étiquette, votre liste de colisage et le nombre de palettes prévu pour cadrer le besoin. <a href="https://www.tecxodus.com/entreposage-casablanca/">Entreposage à Casablanca</a></p>
+</article></main>
+<footer>Tecxodus</footer>
+</body>
+</html>
