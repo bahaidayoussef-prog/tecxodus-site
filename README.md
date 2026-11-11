@@ -30,7 +30,7 @@ The WordPress WXR file imports the articles as drafts; review them in WordPress 
 
 The static blog contains 216 article pages, including 90 guides added in October 2026: 50 operational guides and 40 articles about the Tecxodus offer. The separate WordPress WXR file remains the original 120 draft posts and does not include these static articles.
 
-The blog sitemap lists 216 public article pages plus the blog index on `blog.tecxodus.com`. The root sitemap index references both the main-site sitemap and the blog sitemap; both are submitted and accepted in Google Search Console.
+The blog sitemap lists 428 public URLs, including the blog index, the office-rental guide hubs and the French/Arabic articles on `blog.tecxodus.com`. The root sitemap index references both the main-site sitemap and the blog sitemap; both are submitted and accepted in Google Search Console.
 
 ## Content and imagery notes
 
