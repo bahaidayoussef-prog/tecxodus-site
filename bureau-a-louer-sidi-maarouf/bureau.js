@@ -19,6 +19,16 @@ const query = new URLSearchParams(location.search);
 const ads = ['gclid', 'gbraid', 'wbraid'].some(key => query.has(key)) ||
   (query.get('utm_source')?.toLowerCase() === 'google' &&
    ['cpc', 'ppc', 'paid_search'].includes(query.get('utm_medium')?.toLowerCase()));
+for (const link of document.querySelectorAll('[data-call-placement]')) {
+  link.addEventListener('click', () => {
+    gtag('event', 'bureau_call_click', {
+      listing: 'bureau_sidi_maarouf',
+      placement: link.dataset.callPlacement,
+      traffic_group: ads ? 'google_ads' : 'autre',
+      transport_type: 'beacon'
+    });
+  });
+}
 let lastHandoff;
 
 function isValidSlot(value) {

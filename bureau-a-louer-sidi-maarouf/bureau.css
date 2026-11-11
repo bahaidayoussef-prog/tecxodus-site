@@ -44,6 +44,14 @@ h3{font-size:clamp(1.25rem,2.9vw,1.75rem)}
 .video-cta small{display:block;margin-top:3px;color:var(--light)}
 .play-icon{display:grid;place-items:center;width:43px;height:43px;border-radius:50%;background:var(--lime);color:var(--ink);font-size:17px;padding-left:2px}
 .hero-photo:hover .play-icon{background:#ebff9f}
+.hero-actions{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.hero-secondary{color:var(--light);text-underline-offset:4px}
+.tour{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:center}
+.tour .hero-photo img{height:clamp(170px,22vw,245px)}
+.location,.faq{padding-top:0}
+.location p,.faq p{margin:12px 0}
+.faq details{border-bottom:1px solid var(--line);padding:12px 0}
+.faq summary{font-weight:750;cursor:pointer}
 .section{padding-block:clamp(52px,7vw,95px)}
 .section-label,.muted{color:var(--muted)}
 .facts{display:grid;grid-template-columns:.9fr 1.1fr;gap:clamp(24px,6vw,76px);align-items:start}
@@ -116,3 +124,7 @@ dialog img{width:auto;max-height:72vh;margin:auto;object-fit:contain}
   .form-grid{grid-template-columns:1fr;gap:12px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media(max-width:720px){
+  .hero-secondary{min-height:44px;display:inline-flex;align-items:center}
+  .tour{grid-template-columns:1fr}
+}
