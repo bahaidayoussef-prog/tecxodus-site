@@ -80,25 +80,17 @@ form.addEventListener('submit', (event) => {
   location.assign(url.href);
 });
 
-const videoTrigger = document.querySelector('#video-trigger');
-const videoViewer = document.querySelector('#video-viewer');
-const video = videoViewer.querySelector('video');
-if (typeof videoViewer.showModal === 'function') {
-  videoTrigger.setAttribute('aria-haspopup', 'dialog');
-  videoTrigger.addEventListener('click', event => {
-    if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
-    event.preventDefault();
-    videoViewer.showModal();
-    video.play().catch(() => {});
+const officeVideo = document.querySelector('#office-video');
+let videoPlayTracked = false;
+officeVideo?.addEventListener('play', () => {
+  if (videoPlayTracked) return;
+  videoPlayTracked = true;
+  gtag('event', 'bureau_video_play', {
+    listing: 'bureau_sidi_maarouf',
+    traffic_group: ads ? 'google_ads' : 'autre',
+    transport_type: 'beacon'
   });
-  videoViewer.addEventListener('click', event => {
-    if (event.target === videoViewer) videoViewer.close();
-  });
-  videoViewer.addEventListener('close', () => {
-    video.pause();
-    videoTrigger.focus();
-  });
-}
+});
 
 const viewer = document.querySelector('#photo-viewer');
 const fullPhoto = document.querySelector('#full-photo');
