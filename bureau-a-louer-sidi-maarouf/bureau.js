@@ -10,8 +10,8 @@ const form = document.querySelector('#visit-form');
 const statusLine = document.querySelector('#visit-status');
 form.hidden = false;
 
-const nameFields = [form.elements.nom, form.elements.activite];
-for (const field of nameFields) {
+const { nom: nameField, telephone: phoneField, creneau: slotField } = form.elements;
+for (const field of [nameField, phoneField, slotField]) {
   field.addEventListener('input', () => field.setCustomValidity(''));
 }
 
@@ -19,18 +19,39 @@ const query = new URLSearchParams(location.search);
 const ads = ['gclid', 'gbraid', 'wbraid'].some(key => query.has(key)) ||
   (query.get('utm_source')?.toLowerCase() === 'google' &&
    ['cpc', 'ppc', 'paid_search'].includes(query.get('utm_medium')?.toLowerCase()));
+for (const link of document.querySelectorAll('[data-call-placement]')) {
+  link.addEventListener('click', () => {
+    gtag('event', 'bureau_call_click', {
+      listing: 'bureau_sidi_maarouf',
+      placement: link.dataset.callPlacement,
+      traffic_group: ads ? 'google_ads' : 'autre',
+      transport_type: 'beacon'
+    });
+  });
+}
 let lastHandoff;
+
+function isValidSlot(value) {
+  const match = /^(\d{2})\/(\d{2})\/(\d{4}) à (\d{2}):(\d{2})$/.exec(value);
+  if (!match) return false;
+  const [day, month, year, hour, minute] = match.slice(1).map(Number);
+  const date = new Date(Date.UTC(year, month - 1, day, hour, minute));
+  return date.getUTCFullYear() === year && date.getUTCMonth() === month - 1 &&
+    date.getUTCDate() === day && hour < 24 && minute < 60;
+}
 
 form.addEventListener('submit', (event) => {
   event.preventDefault();
-  for (const field of nameFields) {
-    field.setCustomValidity(field.value.trim() ? '' : 'Veuillez renseigner ce champ.');
-  }
+  const [nom, telephone, creneau] = [nameField, phoneField, slotField].map(
+    field => field.value.trim().replace(/\s+/g, ' ')
+  );
+  nameField.setCustomValidity(nom ? '' : 'Veuillez saisir votre nom.');
+  const phoneDigits = telephone.replace(/\D/g, '');
+  const validPhone = /^\+?[\d ().-]+$/.test(telephone) && phoneDigits.length >= 7 && phoneDigits.length <= 15;
+  phoneField.setCustomValidity(validPhone ? '' : 'Veuillez saisir un numéro de téléphone valide.');
+  slotField.setCustomValidity(isValidSlot(creneau) ? '' : 'Indiquez une date et une heure valides au format JJ/MM/AAAA à HH:MM.');
   if (!form.reportValidity()) return;
-  const data = new FormData(form);
-  const clean = key => String(data.get(key)).replace(/\s+/g, ' ').trim();
-  const answers = ['nom', 'activite', 'stade', 'delai'].map(clean);
-  const signature = JSON.stringify(answers);
+  const signature = JSON.stringify([nom, telephone, creneau]);
   const isNew = lastHandoff?.signature !== signature;
   if (isNew) {
     const suffix = Array.from(crypto.getRandomValues(new Uint8Array(5)),
@@ -38,12 +59,11 @@ form.addEventListener('submit', (event) => {
     lastHandoff = { signature, ref: `${ads ? 'SM-ADS' : 'SM'}-${suffix}` };
   }
   const { ref } = lastHandoff;
-  const [nom, activite, stade, delai] = answers;
   const message = [
-    'Bonjour Tecxodus, je souhaite visiter le bureau de 97 m² à Sidi Maârouf, avec parking titré de 13 m² en sous-sol.',
+    'Bonjour Tecxodus, je souhaite visiter le bureau de 100 m² à Sidi Maârouf, face à Casanearshore, à 14 990 DH TTC par mois, parking privé inclus.',
     '',
-    `Nom : ${nom}`, `Activité : ${activite}`, `Stade du projet : ${stade}`,
-    `Délai d’installation : ${delai}`,
+    `Nom : ${nom}`, `Téléphone : ${telephone}`,
+    `Créneau souhaité : ${creneau} (heure de Casablanca)`,
     '', `Référence : ${ref}`
   ].join('\n');
   const url = new URL('https://wa.me/212663449200');
