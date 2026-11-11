@@ -3,13 +3,23 @@
 
 ## Site
 - Accueil : https://www.tecxodus.com/
-- Blog et index des 216 articles publics : https://blog.tecxodus.com/
+- Blog et index des 326 articles publics : https://blog.tecxodus.com/
 - Entreposage à Casablanca : https://www.tecxodus.com/entreposage-casablanca/
+- Bureau aménagé à louer à Sidi Maârouf : https://www.tecxodus.com/bureau-a-louer-sidi-maarouf/
+- Guides par métier pour choisir ce bureau : https://blog.tecxodus.com/choisir-bureau-sidi-maarouf/
 - Sitemap XML : https://www.tecxodus.com/sitemap.xml
 - Demande : https://www.tecxodus.com/#contact
 - Simulateur : https://www.tecxodus.com/#simulateur
 - Contact : contact@nextinotech.com · WhatsApp +212 663 449 200
 - FAQ entreposage Casablanca : https://www.tecxodus.com/#faq
+
+## Bureau aménagé à louer à Sidi Maârouf
+- Offre : bureau aménagé de 100 m² à Sidi Maârouf, Casablanca, face à Casanearshore.
+- Loyer affiché : 14 990 DH TTC par mois, avec une place de parking privée incluse.
+- Espaces et équipements présentés : deux bureaux séparés, une salle de réunion, des cloisons vitrées, une kitchenette, une climatisation centralisée, un faux plafond avec éclairage LED, un sol en marbre, un réseau informatique et téléphonique, un local technique / archives, des sanitaires privatifs et trois ascenseurs dans l’immeuble.
+- Visite : la page propose une vidéo, des photos de l’état réel et des visuels explicitement indiqués comme « Simulation d’aménagement ».
+- Demande de visite : https://www.tecxodus.com/bureau-a-louer-sidi-maarouf/#visite
+- Aménagement spécifique : peut être étudié selon la faisabilité, l’accord du bailleur, le coût et le délai ; il ne constitue pas un engagement inclus dans le loyer.
 
 ## Services
 - Réception et contrôle des marchandises (formats et consignes à confirmer).
