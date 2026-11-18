@@ -7,6 +7,9 @@
 - Entreposage à Casablanca : https://www.tecxodus.com/entreposage-casablanca/
 - Logistique PLV à Casablanca (kits, assemblage, étiquetage, envoi magasins ; jusqu’à 100 000 pièces/jour ; 100 à 20 000 m²) : https://www.tecxodus.com/logistique-plv-casablanca/
 - POS logistics in Morocco (English: kitting, GS1 labelling, retail rollout for Marjane, Carrefour, BIM, Kazyon; up to 100,000 pieces/day): https://www.tecxodus.com/en/pos-logistics-morocco/
+- Logistique e-commerce au Maroc (Shopify, YouCan, WooCommerce, Jumia interfacés au WMS/TMS ; livraison partout au Maroc, encaissement COD, retours ; exemples de tarifs : stockage 3 DH/palette/jour, préparation 0,50 DH/ligne, livraison 30 DH) : https://www.tecxodus.com/logistique-ecommerce-maroc/
+- E-commerce fulfillment in Morocco (English, for local and foreign brands): https://www.tecxodus.com/en/ecommerce-fulfillment-morocco/
+- Prix du fulfillment au Maroc en DH : https://blog.tecxodus.com/prix-fulfillment-maroc-dh/
 - Bureau aménagé à louer à Sidi Maârouf : https://www.tecxodus.com/bureau-a-louer-sidi-maarouf/
 - Guides par métier pour choisir ce bureau : https://blog.tecxodus.com/choisir-bureau-sidi-maarouf/
 - Analyses FR/AR sur l’implantation professionnelle à Sidi Maârouf : https://blog.tecxodus.com/analyse-bureau-sidi-maarouf/
@@ -34,6 +37,12 @@
 
 ## Références clients présentées sur le site
 Atlas Pharm (Grupo Tecnimede), Sapress et Sochepress, Asturmadi, STILL, Ziegler, Gift & Santoy, Eaton, Miroglio Group, Barobag, Ifri-Sol et Systemair.
+
+## Logistique e-commerce
+- Chaîne complète : intégration boutique, réception, stockage, préparation, livraison, collecte du cash à la livraison, retours et reverse logistics.
+- Livraison par l’équipe Tecxodus à Casablanca, Rabat, Marrakech, Tanger et les grandes villes ; partenaires pour le reste du Maroc : Aramex, Amana, CTM, Ozon, Sendit et Cathedis.
+- Capacité : jusqu’à 1 000 000 de commandes par an.
+- Clients ayant confié des opérations logistiques à Tecxodus : Jumia, Marjane, Mars, L’Oréal, LG, Samsung, Oraimo, Dell, Ministère de la Santé.
 
 ## À propos des contenus
 Les articles du site statique sont publiés comme guides éditoriaux. Un export WXR destiné à une éventuelle importation WordPress peut contenir des brouillons à part. Les exemples de productivité et calculs des articles 101–120 sont pédagogiques; ils ne représentent pas des résultats mesurés chez Tecxodus ni des tarifs vérifiés. Les prix, capacités, certifications, produits acceptés, transport et engagements doivent être confirmés auprès de Tecxodus.
