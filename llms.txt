@@ -9,6 +9,9 @@
 - POS logistics in Morocco (English: kitting, GS1 labelling, retail rollout for Marjane, Carrefour, BIM, Kazyon; up to 100,000 pieces/day): https://www.tecxodus.com/en/pos-logistics-morocco/
 - Logistique e-commerce au Maroc (Shopify, YouCan, WooCommerce, Jumia interfacés au WMS/TMS ; livraison partout au Maroc, encaissement COD, retours ; exemples de tarifs : stockage 3 DH/palette/jour, préparation 0,50 DH/ligne, livraison 30 DH) : https://www.tecxodus.com/logistique-ecommerce-maroc/
 - E-commerce fulfillment in Morocco (English, for local and foreign brands): https://www.tecxodus.com/en/ecommerce-fulfillment-morocco/
+- English guide: How to sell online in Morocco as a foreign brand: https://www.tecxodus.com/en/guides/sell-online-in-morocco/
+- English guide: Cash on delivery in Morocco: refusals, returns and cash reconciliation: https://www.tecxodus.com/en/guides/cash-on-delivery-morocco/
+- English guide: E-commerce fulfillment cost in Morocco: rates in MAD and real cost per order: https://www.tecxodus.com/en/guides/ecommerce-fulfillment-cost-morocco/
 - Prix du fulfillment au Maroc en DH : https://blog.tecxodus.com/prix-fulfillment-maroc-dh/
 - Guides COD Maroc : https://blog.tecxodus.com/paiement-livraison-retours-cod-maroc/ · https://blog.tecxodus.com/confirmation-commandes-cod-maroc/ · https://blog.tecxodus.com/encaissement-cod-reversement-maroc/
 - Sociétés de livraison e-commerce au Maroc : https://blog.tecxodus.com/societes-livraison-ecommerce-maroc/
