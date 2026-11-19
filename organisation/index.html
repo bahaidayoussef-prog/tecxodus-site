@@ -67,7 +67,6 @@ a{color:var(--olive-d);text-decoration:none}a:hover{text-decoration:underline}
 /* Monogrammes */
 .mono{--s:84px;width:var(--s);height:var(--s);border-radius:50%;display:grid;place-items:center;font-weight:850;font-size:calc(var(--s)*.36);letter-spacing:-.02em;color:var(--deep);background:radial-gradient(circle at 30% 25%,#f2ffc4,var(--lime) 58%,#b9df3a);box-shadow:0 0 0 4px #ffffff,0 0 0 5px #cfe3a0,0 10px 24px #14231c22;flex:none}
 .mono.dark{color:var(--lime);background:radial-gradient(circle at 30% 25%,#2f4d47,var(--deep) 60%,var(--deeper));box-shadow:0 0 0 4px #ffffff,0 0 0 5px #2f4d47,0 10px 24px #14231c33}
-.mono.avatar{display:block;padding:0;background:none;object-fit:cover}
 .letter-side .mono{--s:104px;box-shadow:0 0 0 4px var(--deep),0 0 0 6px #d9fb6366}
 
 /* Valeurs */
@@ -138,6 +137,27 @@ a{color:var(--olive-d);text-decoration:none}a:hover{text-decoration:underline}
 @media(max-width:900px){.values{grid-template-columns:repeat(2,1fr)}.org-row{grid-template-columns:repeat(2,1fr)}.org-row::before,.org-row .branch::before{display:none}.org-row{padding-top:14px}.how{grid-template-columns:repeat(2,1fr)}.how li:nth-child(2){border-right:0}.how li:nth-child(-n+2){border-bottom:1px solid var(--line)}.facts{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:720px){.letter{grid-template-columns:1fr}.team{grid-template-columns:1fr}.person{grid-template-columns:1fr}}
 @media(max-width:580px){.nav{align-items:flex-start;gap:14px;flex-direction:column}.navlinks{flex-wrap:wrap;gap:12px}.values,.org-row,.how{grid-template-columns:1fr}.how li{border-right:0;border-bottom:1px solid var(--line)}.how li:last-child{border-bottom:0}.hero{min-height:0}.hero-body{padding-top:120px}}
+
+/* Éditorial sans portrait */
+.qmark{font-size:120px;line-height:.7;font-weight:800;color:var(--lime);font-family:Georgia,serif;height:70px}
+.node{padding:18px 22px}
+.node.lead{padding:20px 30px;text-align:center;display:block}
+.org-row .node{border-top:3px solid var(--lime);justify-content:flex-start}
+.org-row .node strong{font-size:19px;margin:2px 0 4px}
+.person{display:block;padding:30px 30px 26px;border-top:3px solid var(--lime)}
+.person .unit{display:block;font-size:11.5px;text-transform:uppercase;letter-spacing:.12em;font-weight:800;color:var(--olive-d);padding-bottom:12px;margin-bottom:14px;border-bottom:1px solid var(--line)}
+.person h3{font-size:clamp(26px,3vw,32px);letter-spacing:-.04em;line-height:1.1}
+.person.lead{background:var(--deep);color:#fff;border-color:var(--deep);border-top-color:var(--lime)}
+.person.lead .unit{color:var(--lime);border-color:#ffffff22}
+.person.lead .title{color:#d9fb63}.person.lead ul{color:#c4d2ca}.person.lead .school{background:#ffffff14;color:#fff}.person.lead .mail{color:var(--lime)}
+.person.lead>div{display:grid;grid-template-columns:minmax(220px,1fr) 2fr;column-gap:40px}
+.person.lead>div>.unit{grid-column:1/-1}
+.person.lead h3,.person.lead .title,.person.lead .school{grid-column:1}
+.person.lead ul,.person.lead .mail{grid-column:2}
+.person.lead ul{grid-row:2/5;margin:0}
+.person.lead .mail{grid-row:5}
+.person.lead .school{justify-self:start;align-self:start}
+@media(max-width:720px){.person.lead>div{display:block}}
 </style>
 <link href="../responsive.css" rel="stylesheet"/>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[
@@ -187,7 +207,8 @@ a{color:var(--olive-d);text-decoration:none}a:hover{text-decoration:underline}
 <div class="section-head"><div class="tag">Le mot du président</div><h2 id="t-mot">« La logistique se juge sur ce que l’on peut prouver »</h2></div>
 <article class="letter">
 <aside class="letter-side">
-<img class="mono dark avatar" src="../images/equipe/youssef.svg" alt="Illustration de Youssef, directeur général chez Tecxodus" width="104" height="104" loading="lazy" decoding="async"/>
+<div class="qmark" aria-hidden="true">“</div>
+
 <p class="who">Youssef</p>
 <p class="role">Directeur général<br/>Ingénieur en logistique</p>
 <a class="btn" href="mailto:youssef@tecxodus.com">Écrire au directeur général</a>
@@ -220,15 +241,15 @@ a{color:var(--olive-d);text-decoration:none}a:hover{text-decoration:underline}
 <section class="section" id="organigramme" aria-labelledby="t-org">
 <div class="section-head"><div class="tag">Organigramme</div><h2 id="t-org">Une direction générale, quatre pôles</h2><p>Une organisation courte : chaque pôle répond directement au directeur général, ce qui accélère les décisions sur vos dossiers.</p></div>
 <div class="orgchart">
-<div class="org-top"><div class="node lead"><img class="mono dark avatar" src="../images/equipe/youssef.svg" alt="" width="104" height="104" loading="lazy" decoding="async"/><div><strong>Youssef</strong><span>Directeur général · Ingénieur en logistique</span></div></div></div>
+<div class="org-top"><div class="node lead"><div><strong>Youssef</strong><span>Directeur général · Ingénieur en logistique</span></div></div></div>
 <div class="org-stem"></div>
 <div class="org-row">
-<div class="branch"><div class="node"><img class="mono avatar" src="../images/equipe/tarik.svg" alt="Illustration de Tarik, directeur d’exploitation chez Tecxodus" width="104" height="104" loading="lazy" decoding="async"/><div><span class="unit">Exploitation</span><strong>Tarik</strong><span>Directeur d’exploitation · Ingénieur d’État</span></div></div></div>
-<div class="branch"><div class="node"><img class="mono avatar" src="../images/equipe/zineb.svg" alt="Illustration de Zineb, directrice commerciale chez Tecxodus" width="104" height="104" loading="lazy" decoding="async"/><div><span class="unit">Commercial</span><strong>Zineb</strong><span>Directrice commerciale · ESTP</span></div></div></div>
-<div class="branch"><div class="node"><img class="mono avatar" src="../images/equipe/stephanie.svg" alt="Illustration de Stéphanie, directrice administrative et financière chez Tecxodus" width="104" height="104" loading="lazy" decoding="async"/><div><span class="unit">Finance</span><strong>Stéphanie</strong><span>Directrice administrative et financière · ENCG Agadir</span></div></div></div>
-<div class="branch"><div class="node"><img class="mono avatar" src="../images/equipe/bouchra.svg" alt="Illustration de Bouchra, cheffe de projet développement chez Tecxodus" width="104" height="104" loading="lazy" decoding="async"/><div><span class="unit">Projets</span><strong>Bouchra</strong><span>Cheffe de projet développement · ISCAE</span></div></div></div>
+<div class="branch"><div class="node"><div><span class="unit">Exploitation</span><strong>Tarik</strong><span>Directeur d’exploitation · Ingénieur d’État</span></div></div></div>
+<div class="branch"><div class="node"><div><span class="unit">Commercial</span><strong>Zineb</strong><span>Directrice commerciale · ESTP</span></div></div></div>
+<div class="branch"><div class="node"><div><span class="unit">Finance</span><strong>Stéphanie</strong><span>Directrice administrative et financière · ENCG Agadir</span></div></div></div>
+<div class="branch"><div class="node"><div><span class="unit">Projets</span><strong>Bouchra</strong><span>Cheffe de projet développement · ISCAE</span></div></div></div>
 </div>
-<p class="org-note">Portraits : illustrations stylisées. Les équipes d’entrepôt (réception, stockage, préparation, copacking, PLV et expédition) sont rattachées à la direction d’exploitation.</p>
+<p class="org-note">Les équipes d’entrepôt (réception, stockage, préparation, copacking, PLV et expédition) sont rattachées à la direction d’exploitation.</p>
 </div>
 </section>
 
@@ -236,11 +257,11 @@ a{color:var(--olive-d);text-decoration:none}a:hover{text-decoration:underline}
 <section class="section" id="direction" aria-labelledby="t-dir">
 <div class="section-head"><div class="tag">Comité de direction</div><h2 id="t-dir">Qui fait quoi chez Tecxodus</h2><p>Le rôle de chaque responsable et le bon contact selon votre demande.</p></div>
 <div class="team">
-<article class="person lead" id="youssef"><img class="mono dark avatar" src="../images/equipe/youssef.svg" alt="" width="104" height="104" loading="lazy" decoding="async"/><div><h3>Youssef</h3><p class="title">Directeur général</p><span class="school">Ingénieur en logistique</span><ul><li>Définit la stratégie et les offres : entreposage, PLV, e-commerce.</li><li>Arbitre les engagements de capacité, de délai et de prix sur les dossiers importants.</li><li>Pilote les indicateurs de qualité et de productivité de l’entrepôt.</li></ul><a class="mail" href="mailto:youssef@tecxodus.com">youssef@tecxodus.com</a></div></article>
-<article class="person" id="tarik"><img class="mono avatar" src="../images/equipe/tarik.svg" alt="" width="104" height="104" loading="lazy" decoding="async"/><div><h3>Tarik</h3><p class="title">Directeur d’exploitation</p><span class="school">Ingénieur d’État</span><ul><li>Organise la réception, le stockage, la préparation et l’expédition.</li><li>Encadre les opérations de copacking, d’étiquetage, de fardelage et de PLV.</li><li>Suit les cadences, la sécurité du site et la qualité des données WMS.</li></ul><a class="mail" href="mailto:tarik@tecxodus.com">tarik@tecxodus.com</a></div></article>
-<article class="person" id="zineb"><img class="mono avatar" src="../images/equipe/zineb.svg" alt="" width="104" height="104" loading="lazy" decoding="async"/><div><h3>Zineb</h3><p class="title">Directrice commerciale</p><span class="school">ESTP</span><ul><li>Analyse votre besoin et construit la proposition chiffrée.</li><li>Suit la relation avec les marques, distributeurs et e-commerçants.</li><li>Votre premier contact pour un devis ou une visite d’entrepôt.</li></ul><a class="mail" href="mailto:zineb@tecxodus.com">zineb@tecxodus.com</a></div></article>
-<article class="person" id="stephanie"><img class="mono avatar" src="../images/equipe/stephanie.svg" alt="" width="104" height="104" loading="lazy" decoding="async"/><div><h3>Stéphanie</h3><p class="title">Directrice administrative et financière</p><span class="school">ENCG Agadir</span><ul><li>Gère les contrats, la facturation et le contrôle de gestion.</li><li>Supervise le reversement des encaissements à la livraison (COD).</li><li>Veille à la conformité administrative et fiscale de l’entreprise.</li></ul><a class="mail" href="mailto:stephanie@tecxodus.com">stephanie@tecxodus.com</a></div></article>
-<article class="person" id="bouchra"><img class="mono avatar" src="../images/equipe/bouchra.svg" alt="" width="104" height="104" loading="lazy" decoding="async"/><div><h3>Bouchra</h3><p class="title">Cheffe de projet développement</p><span class="school">ISCAE</span><ul><li>Conduit le démarrage des nouveaux clients, du cadrage au premier flux.</li><li>Coordonne les intégrations de boutiques en ligne (Shopify, YouCan, WooCommerce, Jumia) avec le WMS.</li><li>Porte les nouveaux services et les chantiers d’amélioration continue.</li></ul><a class="mail" href="mailto:bouchra@tecxodus.com">bouchra@tecxodus.com</a></div></article>
+<article class="person lead" id="youssef"><div><span class="unit">Direction générale</span><h3>Youssef</h3><p class="title">Directeur général</p><span class="school">Ingénieur en logistique</span><ul><li>Définit la stratégie et les offres : entreposage, PLV, e-commerce.</li><li>Arbitre les engagements de capacité, de délai et de prix sur les dossiers importants.</li><li>Pilote les indicateurs de qualité et de productivité de l’entrepôt.</li></ul><a class="mail" href="mailto:youssef@tecxodus.com">youssef@tecxodus.com →</a></div></article>
+<article class="person" id="tarik"><div><span class="unit">Exploitation</span><h3>Tarik</h3><p class="title">Directeur d’exploitation</p><span class="school">Ingénieur d’État</span><ul><li>Organise la réception, le stockage, la préparation et l’expédition.</li><li>Encadre les opérations de copacking, d’étiquetage, de fardelage et de PLV.</li><li>Suit les cadences, la sécurité du site et la qualité des données WMS.</li></ul><a class="mail" href="mailto:tarik@tecxodus.com">tarik@tecxodus.com →</a></div></article>
+<article class="person" id="zineb"><div><span class="unit">Commercial</span><h3>Zineb</h3><p class="title">Directrice commerciale</p><span class="school">ESTP</span><ul><li>Analyse votre besoin et construit la proposition chiffrée.</li><li>Suit la relation avec les marques, distributeurs et e-commerçants.</li><li>Votre premier contact pour un devis ou une visite d’entrepôt.</li></ul><a class="mail" href="mailto:zineb@tecxodus.com">zineb@tecxodus.com →</a></div></article>
+<article class="person" id="stephanie"><div><span class="unit">Finance</span><h3>Stéphanie</h3><p class="title">Directrice administrative et financière</p><span class="school">ENCG Agadir</span><ul><li>Gère les contrats, la facturation et le contrôle de gestion.</li><li>Supervise le reversement des encaissements à la livraison (COD).</li><li>Veille à la conformité administrative et fiscale de l’entreprise.</li></ul><a class="mail" href="mailto:stephanie@tecxodus.com">stephanie@tecxodus.com →</a></div></article>
+<article class="person" id="bouchra"><div><span class="unit">Projets &amp; développement</span><h3>Bouchra</h3><p class="title">Cheffe de projet développement</p><span class="school">ISCAE</span><ul><li>Conduit le démarrage des nouveaux clients, du cadrage au premier flux.</li><li>Coordonne les intégrations de boutiques en ligne (Shopify, YouCan, WooCommerce, Jumia) avec le WMS.</li><li>Porte les nouveaux services et les chantiers d’amélioration continue.</li></ul><a class="mail" href="mailto:bouchra@tecxodus.com">bouchra@tecxodus.com →</a></div></article>
 </div>
 </section>
 
