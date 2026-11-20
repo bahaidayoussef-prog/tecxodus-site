@@ -75,7 +75,10 @@ h3{font-size:clamp(1.25rem,2.9vw,1.75rem)}
 .gallery-group{margin-top:36px}
 .gallery-group .muted{margin:8px 0 16px}
 .gallery{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
-.gallery.real{grid-template-columns:repeat(5,minmax(0,1fr))}
+.gallery.real{grid-template-columns:repeat(4,minmax(0,1fr))}
+/* galerie 11 photos */
+.gallery.real .photo:first-child{grid-column:span 2}
+.gallery.real .photo:first-child img{aspect-ratio:1.62}
 .simulated{border-top:1px solid var(--line);padding-top:28px}
 .photo{display:block;border:1px solid var(--line);border-radius:16px;overflow:hidden;background:white;text-decoration:none}
 .photo img{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;background:#dfe5de}
