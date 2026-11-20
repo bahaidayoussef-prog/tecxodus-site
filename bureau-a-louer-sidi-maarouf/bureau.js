@@ -60,13 +60,13 @@ form.addEventListener('submit', (event) => {
   }
   const { ref } = lastHandoff;
   const message = [
-    'Bonjour Tecxodus, je souhaite visiter le bureau de 100 m² à Sidi Maârouf, face à Casanearshore, à 14 990 DH TTC par mois, parking privé inclus.',
+    'Bonjour Tecxodus, je souhaite visiter le bureau de 110 m² à Sidi Maârouf, face à Casanearshore, à 14 630 DH par mois, parking privé inclus.',
     '',
     `Nom : ${nom}`, `Téléphone : ${telephone}`,
     `Créneau souhaité : ${creneau} (heure de Casablanca)`,
     '', `Référence : ${ref}`
   ].join('\n');
-  const url = new URL('https://wa.me/212663449200');
+  const url = new URL('https://wa.me/212788369298');
   url.searchParams.set('text', message);
   if (isNew) {
     gtag('event', 'bureau_whatsapp_open', {
